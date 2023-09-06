@@ -72,7 +72,7 @@ Response from model:
 ```bash
 Enter your test data: $t="R";$c="whoami.exe";schtasks /create /tn $t /tr $c /sc once /st 00:00 /ru SYSTEM;schtasks /run /tn $t;schtasks /delete /tn $t /f
 
-Response from OpenAI:
+Response from model:
  {
   "Summary": "This command creates a scheduled task to run 'whoami.exe' as SYSTEM, initiates the scheduled task, then deletes the task.",
   "Classification": "Malicious",
