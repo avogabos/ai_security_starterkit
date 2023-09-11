@@ -132,7 +132,7 @@ Tools, Tactics, and Procedures:
 ```
 
 ```md
-**1 month gpt-4 summary** (1mon_parsed_chats.txt contains 5593 tokens.)
+**1 month gpt-4 summary**
 **uid:** "test_data/1mon_parsed_chats.txt"
 **Unified Brief**
 The intelligence gathered from the chat transcripts indicates the involvement of a group of individuals operating within the cybersecurity, darknet, and potentially cryptocurrency sectors. They are communicating via the Tor network, using anonymous email addresses on the .onion domain, and are likely engaging in encrypted communication using PGP (Pretty Good Privacy) for enhanced security. The primary language of communication is Russian, and the conversations revolve around Bitcoin transactions, potentially signaling involvement in illegal activities or cybercrimes.
