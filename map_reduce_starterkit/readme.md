@@ -102,6 +102,7 @@ Use these example summarizations to benchmark your own tests. Remember, this scr
 
 Note: 1mon_parsed_chats.txt contains approximately 5500 tokens, 3mon_parsed_chats.txt contains approximately 150,000 tokens.
 
+```md
 **1 month gpt-3.5-turbo summary**
 **uid:** test_data/1mon_parsed_chats.txt
 **Unified Brief:**
@@ -128,7 +129,9 @@ Tools, Tactics, and Procedures:
 4. Seeking VPN networks - The target is searching for a supplier and discussing accessing VPN networks, potentially for anonymizing their activities.
 5. Engagement in secretive communication - The target is using chat transcripts and discussing the need to handle documents at home, suggesting a secretive approach to communication and potential involvement in illicit activities.
 6. Focus on coding and software development - The chat transcripts involve discussions regarding coding, software testing, and implementation of features, indicating the target's focus on software development.\n\nNote: The information provided in the brief is based on the available chat transcripts and may be subject to interpretation. Additional context or information would be beneficial to provide a more accurate assessment."}
+```
 
+```md
 **1 month gpt-4 summary** (1mon_parsed_chats.txt contains 5593 tokens.)
 **uid:** "test_data/1mon_parsed_chats.txt"
 **Unified Brief**
@@ -139,7 +142,9 @@ The group's Priority Intelligence Requirements (PIR) appear to be the secure tra
 In terms of Tactics, Techniques, and Procedures (TTPs), the group is employing onion routing for secure and anonymous communication, PGP for message encryption, and VPNs for additional security. They are also using Bitcoins for transactions, which is common in illicit activities. Furthermore, the coded language and non-specific URLs shared suggest that they might be using these to lead to malicious sites or payloads.
 
 The group is also discussing operational issues related to cryptology, bot technology, and software performance. There are indications of a potential cybersecurity operation in progress, focusing on a particular target and its backup. The use of coded language, the request for vacation, and the regular reference to operational responsibilities suggest a well-structured group with defined roles and tasks. In conclusion, this group appears to be a potential cyberthreat, possibly involved in illegal activities in the cybersecurity, darknet, and cryptocurrency sectors. They are using advanced technologies to maintain anonymity, secure their communication, and conduct transactions. The exact extent of their operations and the specific targets remain unclear and warrant further investigation.
+```
 
+```md
 **3 month gpt-3.5-turbo:**
 **uid:** "test_data/3mon_parsed_chats.txt"
 **Unified Brief:**
@@ -180,7 +185,9 @@ Tools, Tactics, and Procedures:
 12. Communication and coordination within the cybercriminal underworld
 
 The overall context of the conversations suggests involvement in illicit activities, including hacking, cybercrime, and potentially trading illegal goods/services on the dark web. The specific industries or business sectors being targeted are not always explicitly mentioned, but there are indications of involvement in the cybersecurity industry, cryptography, financial transactions involving cryptocurrencies, and potentially other illicit activities. The use of encryption and secure communication platforms highlights the importance of maintaining anonymity and secrecy in their operations. Further analysis is required to gain a more comprehensive understanding of the targets' activities and the extent of their involvement in illicit or criminal actions.
+```
 
+```md
 **3 month gpt-4:**
 **uid:** "test_data/3mon_parsed_chats.txt"
 **Unified Brief:**
@@ -192,4 +199,4 @@ Their Priority Intelligence Requirements (PIRs) include maintaining security and
 The group's tools, tactics, and procedures (TTPs) include the use of Tor for anonymous communication, PGP for encryption, and Bitcoin for anonymous transactions. They also potentially utilize malware or botnets for cyber attacks, proxies and IP address manipulation, and services like privnote.com for sharing self-destructive notes. Their tactics involve the use of coded language, secure communication platforms, dynamic infrastructure, spoofed emails, and URL shortening services to mask the true destination of linked content. They are involved in potentially malicious activities such as cyberattacks, hacking, cyber-espionage, and possibly spam distribution, ransomware, and financial fraud. Their discussions suggest a high level of sophistication and organization, indicating a significant threat to the industries they operate in. They also exhibit signs of internal tension and conflict, which may present vulnerabilities.
 
 In summary, the group presents as a highly technical and sophisticated threat, primarily targeting the technology, finance, and cybersecurity sectors. They deploy a range of tools and tactics to maintain security and anonymity while potentially engaging in illicit activities. Further monitoring and investigation are required to fully understand the scope of their operations and potential impact.
-
+```
