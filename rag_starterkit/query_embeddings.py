@@ -28,7 +28,7 @@ def get_most_similar_chats(query_embedding, n=5):
 
 def gpt_answer(query, top_chat_message):
     prompt = [
-        {"role": "system", "content": "You are an expert intelligence analyst, please assess the following text and provide your analysis in line with the question."},
+        {"role": "system", "content": "You are an expert intelligence analyst, review the question and provided text and perform analysis."},
         {"role": "user", "content": f"Based on the chat message: '{top_chat_message}', {query}"}
     ]
     response = openai.ChatCompletion.create(model=GPT_MODEL, messages=prompt)
