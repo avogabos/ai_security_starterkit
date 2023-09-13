@@ -212,7 +212,8 @@ Response from model:
        },
        "Recommendations": "Investigate the HR_PC for potential compromise and raise the security awareness of the staff operating this machine."
    }
-}```
+}
+```
 
 ## 🌱 Conclusion & Next Steps
 You're all set to start iterating! Remember, the goal isn't just to get the model to do every aspect of your work, but to focus on discrete tasks that can be tailored to your specific circumstance. Once you're confident with the results you are recieving, you can then think about scaling or integrating it into larger security automation workflows.
