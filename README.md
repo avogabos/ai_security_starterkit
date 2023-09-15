@@ -14,7 +14,7 @@ Welcome to the AI Security Starterkit! Whether you're looking to delve into few-
 - **Script Features**:
   - `map_prompt`: Focuses on summarizing adversary targets, specifically technologies, industries, and business sectors.
   - `reduce_prompt`: Combines multiple intelligence briefs into a single unified brief.
-- **Key Concpet**: Leverage generalized summarization capabilities of LLMs to perform both broad summaries and specific intelligence collection criteria over a large data corpus.
+- **Key Concept**: Leverage generalized summarization capabilities of LLMs to perform both broad summaries and specific intelligence collection criteria over a large data corpus.
 
 ## Retrieval Augmented Generation (RAG)
 - **Purpose**: Enhance model's capability by querying large datasets, leveraging both built-in and external knowledge.
