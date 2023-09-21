@@ -41,13 +41,13 @@ map_prompt = ChatPromptTemplate.from_messages(
     [
         SystemMessagePromptTemplate(
             prompt=PromptTemplate(
-                template="You are an expert intelligence and cybersecurity analyst.",
+                template="You are an expert threat intelligence analyst.",
                 input_variables=[],
             )
         ),
         HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                template="As an intelligence analyst, review the chat transcripts below and write a one paragraph summary. Focus on the technologies/industries/business sectors mentioned and context of the conversation. Cite specifics to support your analysis.\n\n---\n\n {text} \n\n---\n",
+                template="As a threat intelligence analyst, review the chat transcripts below and write a one paragraph summary. Focus on the technologies and industries mentioned and context of the conversation. Cite specifics from the transcript to support your analysis.\n\n---\n\n {text} \n\n---\n",
                 input_variables=["text"],
             )
         ),
@@ -64,7 +64,7 @@ reduce_prompt = ChatPromptTemplate.from_messages(
         ),
         HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                template="Combine the intelligence briefs below into a unified brief on the targets's activity. Identify the target's priority intelligence requirements, the technologies/industries/business sectors they are targeting, and their tools, tactics, and procedures. If there is not enough context, make a best guess.\n\n---\n\n {text} \n\n---\n",
+                template="Combine the intelligence briefs below into a single intelligence brief. Identify the priority intelligence requirements, the technologies, and sectors the group is targeting, and their tools, tactics, and procedures. If there is not enough context, make a best guess. use a list to organize the information.\n\n---\n\n {text} \n\n---\n",
                 input_variables=["text"],
             )
         ),
@@ -104,9 +104,3 @@ with open('out.json', 'w') as outfile:
 file_name = input("Enter the name of the file you want to process (e.g., 1mon_parsed_chats.txt): ")
 file_path = os.path.join("test_data", file_name)
 process(file_path)
-
-# Commenting this out for now.
-#directory = "test_data"
-#files = [os.path.join(directory, file_name) for file_name in os.listdir(directory) if os.path.isfile(os.path.join(directory, file_name))]
-#with ThreadPoolExecutor(max_workers=1) as executor:
-#    results = list(tqdm(executor.map(process, files), total=len(files)))
