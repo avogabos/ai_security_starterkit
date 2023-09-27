@@ -1,0 +1,8 @@
+openai
+transformers
+pandas
+scipy
+zstandard
+langchain
+tqdm
+anthropic
