@@ -16,6 +16,15 @@ Welcome to the AI Security Starterkit! Whether you're looking to delve into few-
   - `reduce_prompt`: Combines multiple intelligence briefs into a single unified brief.
 - **Key Concept**: Leverage generalized summarization capabilities of LLMs to perform both broad summaries and specific intelligence collection criteria over a large data corpus.
 
+## Auto Map-Reduce for Intelligence Summarization
+- **Purpose**: Automate the process of data summarization end-to-end, focusing on specific predetermined tactics, techniques, or procedures.
+- **Script Features**:
+  - `File Evaluation`: Process and understand an arbitrary file by extracting its metadata and random samples for tokenized data evaluation.
+  - `Dynamic Prompt Creation`: Based on the evaluation, the script will use an LLM to dynamically generate custom map and reduce prompts for intelligence summarization.
+  - `Map-Reduce Execution`: The created prompts will be integrated into a map-reduce script to analyze and summarize the entire data file.
+
+**Key Concept**: Incorporate LLMs to automate analyst tasks end-to-end. Seamlessly transition from raw data input to generating comprehensive summaries. This process captures overarching themes while pinpointing specific intelligence criteria, ensuring an analysis of extensive data corpora.
+
 ## Retrieval Augmented Generation (RAG)
 - **Purpose**: Enhance model's capability by querying large datasets, leveraging both built-in and external knowledge.
 - **Scripts**:
