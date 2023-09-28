@@ -38,29 +38,28 @@ Data exfiltration
 Malicious persistence
 
 Data:
-File Information: {'File Name': 'combined_emails.txt', 'File Size (bytes)': 183553, 'File Creation Date': 1695526970.2459943, 'File Modification Date': 1695526970.2456865, 'File Access Date': 1695526971.672047, 'File Permissions': '644', 'Character Set': 'ascii', 'Total Lines Count': 2871, 'Total Word Count': 6985, 'Total Character Count': 180682}
-Return-path: <msprvs1=29924Kd5qpMV3=bounces-654321-10@techtranixcorp.com>
-Received-SPF: pass (nexus-net.com: domain techsstream.com
-designates 139.52.16.91 as permitted sender)
-receiver=nexus-net.com; client-ip=139.52.16.91;
-bh=xFrC5GZs3EYH78kpQLNo/4wP6XTyZb1lMUVWc2d3ef=;
+Return-path: <msprvs1=78212Gh3pqLE8=notfound-123456-11@techtronixnet.com>
+Received-SPF: pass (sphere-web.com: domain techsprings.com
+designates 142.25.14.85 as permitted sender)
+receiver=sphere-web.com; client-ip=142.25.14.85;
+bh=wHrG8HZe5OZT45slMLPo/5zT3XtZp6hNJKLVm3r4hg=;
 h=To:Message-ID:Date:Content-Type:Subject:From:From:To:Cc:Subject;
-b=yzXDEf3GHiJK1RZt6Uv25MnOpQWsXcYbZ1a3Bc4D
-Subject: =?utf-8?B?eFdYeGhJKlZ6KJgH9kO1PfM=?=
-=?utf-8?B?kX1NRkpGdVZmTnRpR1hZUQ==?=
-From: "NexaStore" <info@mail.nexastore.services>
-List-Unsubscribe: <mailto:unsubscribe@unsub.techmailcorp.com?subject=unsubscribe:aY7KpwzUVHCj9FjKLHBgMdJt2Zr3yKL5Bv6hj7kklZ~|eyAicmNwdF90byI6ICJqLmRveWxlQG5leHVzLW5ldC5jb20iLCAidGVuYW50X2lkIjogInRlY2h0cm9uaXgiLCAiY3VzdG9tZXJfaWQiOiAiNjU0MzIxIiwgInN1YmFjY291bnRfaWQiOiAiMTAiLCAibWVzc2FnZV9pZCI6ICJ5ejh3eDk5YXoxeWJ2MyIgfQ==>
-List-Id: <tech.654321.10.techmailcorp.com>
-x"><a href=3D"http://post.techsstream.com/f/a/hZLmNcB2wXf5YZ9UMnOxy~~/A=
-ABfgh5t~/ZgZnexaXYZP4Wh0dHBzTDAOi8vYy5pcjAud2YWdlLmNvViZW5nbS9sdy9nMSHBz5qcGc_cD1=
-leUpkLjzNEXAJNAGaANDFS34eUpzNELwRsT1pQkLjHdGsY2t3W=
-mQdRyTbV9xY2JlKlMnO1PqRsTtUvWxYzZa1b2C3D4E
-Subject: =?utf-8?B?VGF4X1NhbGVfTmV4YVN0b3Jl=?=
+b=qwZFGh2JHjLK8UYp7Tv36NoOpZWsCfWbZ5g2Ad5F
+Subject: =?utf-8?B?dG9YZGhOLVY7JJwH6lN2PfL=?=
+=?utf-8?B?gY3NGjpGwVWmOpkH5hZTQ==?=
+From: "StorePlex" <notify@message.storeplex.online>
+List-Unsubscribe: <mailto:optout@no.mailplexer.com?subject=unsubscribe:cJ8GmzTVFDj4GjKKHCDmJr5Wr4xKL7Fv7ij8kplM~|dyBicmNwdF90byI6ICJl.smith@sphere-web.com", "tenant_id": "techplexer", "customer_id": "123456", "subaccount_id": "11", "message_id": "rr7hg88bz2zv4m" }>
+List-Id: <tech.123456.11.mailplexer.com>
+x"><a href=3D"http://mail.techsprings.com/f/a/jRLkOcD3xHg6XZ7PLnRzu~~/B=
+BCfgh8l~/PcPluxXYZK3Wh0dFBzEYOi8uZy50jk0LmFhbmMubOViZW6mm/px/pz3HPz5jpGf_fP0=
+lyZpK.yNEXBJLAGaPNDS45eUzPLOwRfT3pRk.yHeHsZ3k4W=
+nJdTxVbW9yZcJmNn2PrStUvZyZb3b3D5F
+Subject: =?utf-8?B?U3ByaW5nX1NhbGVfU3RvcmVQbGV4=?=
 initial-scale=3D1=22>
 <meta name=3D=22format-detection=22 content=3D=22telephone=3Dno=22/>
-<title>Exclusive Tax Sale | NexaStore Discounts</title>
-<link href=3D=22http://fonts.googleapis.com/css=3Ffamily=3DModaFont:40=
-0,700,300&subset=3Dlatin,cyrillic,greek=22
+<title>Spring Fever Sale | StorePlex Specials</title>
+<link href=3D=22http://fonts.google.com/css=3Ffamily=3DPlexFont:50=
+0,600,400&subset=3Dlatin,cyrillic,arabic=22
 rel=3D=22stylesheet=22 type=3D=22text/css=22>
 
 Analysis:
