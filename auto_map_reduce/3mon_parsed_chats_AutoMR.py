@@ -25,7 +25,7 @@ reduce_prompt = ChatPromptTemplate.from_messages(
         ),
         HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                template="Combine the intelligence briefs below into a unified brief on the targets's activity focusing on secure and anonymous communication infrastructure, language translation and cultural context understanding, and the identification of key entities/actors within the logs. If there is not enough context, make a best guess.\n\n---\n\n {text} \n\n---\n",
+                template="Combine the intelligence briefs below into a unified brief on the targets's activity focusing on secure and anonymous communication infrastructure, language translation and cultural context understanding, and the identification of key entities/actors within the logs. If there is not enough context, make an informed estimation.\n\n---\n\n {text} \n\n---\n",
                 input_variables=["text"],
             )
         ),

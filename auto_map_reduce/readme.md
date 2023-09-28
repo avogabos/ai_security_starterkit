@@ -1,15 +1,17 @@
-# README: File Evaluation and Summarization
+# Auto Map Reduce:
 
-## Auto Map Reduce Summary:
+Ok so we want a script that goes from `arbitrary data` ---> `custom intelligence report` with as few steps as possible. 
+
+Here's the plan:
 
 1. Provide the model with a file containing arbitrary text data.
-2. One script conducts an initial file analysis (extendable as needed), tokenizes the data, and extracts random samples to send to the model.
+2. One script (`file_evaluation.py`) conducts an initial file analysis (extendable as needed), tokenizes the data, and extracts random samples to send to the model.
 3. The model crafts a summary of the sampled data, assigns expert roles, pinpoints specific tactics, techniques, and procedures (TTPs) or indicators to monitor.
 4. Leveraging this summary, the model then composes a custom Python snippet tailored to analyze the entire file.
-5. The second python script seamlessly integrates this snippet as it's map-reduce instruction set, subsequently executing the map-reduce process.
+5. The second python script (`openai_auto_map_reduce.py`) integrates this snippet as it's map-reduce instruction set, and subsequently executes the map-reduce process.
 6. The outcome is a comprehensive map-reduce intelligence brief, generated directly from the file input. Note that this process is entirely automated, however print statements are integrated into commandline output for visibility and inspection.
 
-The guide below provides a comprehensive overview of two Python scripts: file_evaluation.py and openai_auto_map_reduce.py 
+The guide below provides an overview of two Python scripts:
 
 ## Overview:
 
