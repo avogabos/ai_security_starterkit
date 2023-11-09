@@ -1,0 +1,44 @@
+Date: Fri, 9 Oct 2015 17:35:23 +0500
+Subject: please charge card for 20GBP
+From: "Shawn Alfanso" <shawn@formationshouse.com>
+To: <londonadmin@formationshouse.com>
+
+Please charge 20GBP from the following card details:
+
+ 
+
+Card Type: Visa Debit
+
+ 
+
+Card Number: 4751300117586088
+
+ 
+
+Billing Address: 77 Victoria Street, Suite 100, SW1H 0HW
+
+ 
+
+Card Holder's name: GuaranteesUK P Sincliar
+
+ 
+
+Expiry date: 05/18
+
+ 
+
+CCV Code: 188
+
+Please charge 20GBP from the following card details:
+Card Type: Visa Debit
+Card Number: 4751300117586088
+Billing Address:
+77
+  Victoria Street, Suite 100
+, SW1H 0HW
+Card Holder's name: GuaranteesUK P Sincliar
+Expiry date: 05/18
+CCV Code: 188
+__________ Information from ESET NOD32 Antivirus, version of virus signature database 12346 (20151002) __________
+The message was checked by ESET NOD32 Antivirus.
+http://www.eset.com

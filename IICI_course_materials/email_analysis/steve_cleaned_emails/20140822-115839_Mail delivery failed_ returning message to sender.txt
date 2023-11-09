@@ -1,0 +1,250 @@
+Date: Fri, 22 Aug 2014 11:58:39 +0100
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: steve@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  G.O.GORMLEY@HOTMAIL.COM
+    SMTP error from remote mail server after RCPT TO:<G.O.GORMLEY@HOTMAIL.COM>:
+    host mx2.hotmail.com [65.55.37.120]: 550 Requested action not taken:
+    mailbox unavailable
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <steve@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1XKmYF-0003T9-OB ; Fri, 22 Aug 2014 11:58:36 +0100
+From: "Steve Smith \(Formations House\)" <steve@formationshouse.com>
+To: <G.O.GORMLEY@HOTMAIL.COM>
+Cc: "'support'" <support@formationshouse.com>
+Subject: RDS DEVELOPMENTS : VAT Registration : Urgent Response Required
+Date: Fri, 22 Aug 2014 15:40:08 +0500
+Message-ID: <000101cfbdf5$730469e0$590d3da0$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0002_01CFBE1F.5BDA71E0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac+99XE2Gtjo5aFsR4OgTUkkE4cpTA==
+Content-Language: en-us
+X-Spam-Status: X-Spam-Score: -1.3:
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0002_01CFBE1F.5BDA71E0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear GERARD O' GORMLEY
+
+ 
+
+ 
+
+We have received your order for VAT Registration for RDS DEVELOPMENTS,
+however we not received the payment yet.
+
+ 
+
+ 
+
+Please make payment of 50 GBP as soon as possible so that we can activate
+the online application form in your account at our website to proceed
+further with the VAT Registration.
+
+ 
+
+ 
+
+You choose to pay by bank transfer, please use following details:
+
+ 
+
+ 
+
+ACCOUNT NAME: AC Online
+
+BANK: Barclays Bank PLC, Fleet Street (Gosling) Branch
+
+SORT CODE: 20-41-41 
+
+ACCOUNT No: 23276015 
+
+IBAN: GB21BARC20414123276015 
+
+SWIFT/ BIC: BARCGB22
+
+ 
+
+ 
+
+If you require further information or assistance you can contact me at
+info@formationshouse.com or steve@formationshouse.com or
+0044-(0)207-016-2727 Monday to Friday 12pm to 7pm GMT.
+
+ 
+
+ 
+
+Regards
+
+ 
+
+Steve Smith
+
+ 
+
+FORMATIONS HOUSE
+
+www.formationshouse.com
+
+
+------=_NextPart_000_0002_01CFBE1F.5BDA71E0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+
+
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal>Dear GERARD O' GORMLEY<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>We have received your order for VAT Registration =
+for RDS
+DEVELOPMENTS, however we not received the payment yet.<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Please make payment of 50 GBP as soon as possible =
+so that we
+can activate the online application form in your account at our website =
+to
+proceed further with the VAT Registration.<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>You choose to pay by bank transfer, please use =
+following
+details:<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>ACCOUNT NAME: AC Online<o:p></o:p></p>
+
+<p class=3DMsoNormal>BANK: Barclays Bank PLC, Fleet Street (Gosling) =
+Branch<o:p></o:p></p>
+
+<p class=3DMsoNormal>SORT CODE: 20-41-41 <o:p></o:p></p>
+
+<p class=3DMsoNormal>ACCOUNT No: 23276015 <o:p></o:p></p>
+
+<p class=3DMsoNormal>IBAN: GB21BARC20414123276015 <o:p></o:p></p>
+
+<p class=3DMsoNormal>SWIFT/ BIC: BARCGB22<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>If you require further information or assistance =
+you can
+contact me at info@formationshouse.com or steve@formationshouse.com or
+0044-(0)207-016-2727 Monday to Friday 12pm to 7pm GMT.<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Regards<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Steve Smith<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>FORMATIONS HOUSE<o:p></o:p></p>
+
+<p class=3DMsoNormal>www.formationshouse.com<o:p></o:p></p>
+
+</div>
+
+ <BR><BR>__________ Information from ESET NOD32 Antivirus, version of =
+virus signature database 10296 (20140822) __________<BR><BR>The message =
+was checked by ESET NOD32 Antivirus.<BR><BR><A =
+HREF=3D"http://www.eset.com">http://www.eset.com</A><BR> </body>
+
+</html>
+
+------=_NextPart_000_0002_01CFBE1F.5BDA71E0--
+

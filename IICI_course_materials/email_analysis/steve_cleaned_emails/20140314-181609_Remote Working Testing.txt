@@ -1,0 +1,114 @@
+Date: Fri, 14 Mar 2014 18:16:09 +0500
+Subject: Remote Working Testing
+From: "Muhamad Siddique" <msiddiq@infinilogic.com>
+To: <rizwan@formationshouse.com>,
+	<sarah@formationshouse.com>,
+	<rachel@formationshouse.com>,
+	<steve@formationshouse.com>
+CC: <qamar@formationshouse.com>
+
+To all remote workers
+
+ 
+
+Please check following on this weekend to make sure ALL OK status 
+
+ 
+
+Stabilizer
+
+UPS (on main supply and backup time with load about 1hour at least) and its
+battery water level
+
+Laptop with adopter and software (windows and applications)
+
+DSL modem with adopter and internet connectivity
+
+VoIP Phone with adopter
+
+ 
+
+In case of anything wrong plz let me know on Monday 
+
+ 
+
+ 
+
+ 
+
+Regards
+Muhammad Siddique
+Manager I.T. Operations
+InfiniLogic Pvt. Ltd. 
+14th Floor, National IT Park
+
+Caesar's Tower Shahrah-e-Faisal 
+Karachi, Pakistan
+Office Tel# (0)21- 32792663,  32792536(Ext 1691)
+
+Fax # (0)21-32792154 
+Cell # 0344-2236056, 0321-2476707
+
+Email:  <mailto:msiddiq@infinilogic.com> msiddiq@infinilogic.com
+
+URL:  <http://www.infinilogic.com/> www.infinilogic.com.pk
+
+ 
+
+****************************************************************************
+***
+
+Information transmitted in this message is intended only for the person or
+entity to which it is addressed and may contain confidential and/or
+privileged material. If you are not the addressee you may not copy or
+deliver this message to anyone and you should destroy this message and
+kindly notify the sender by reply email. Opinions and other information in
+this message that do not relate to the official business of the company
+shall be understood as neither given nor endorsed by it. We do not accept
+liability for any viruses that may be transmitted in or with this message or
+attachments.
+
+****************************************************************************
+***
+
+ 
+
+To all remote workers
+Please check following on this weekend to make sure ALL OK status
+Stabilizer
+UPS (on main supply and backup time with load about 1hour at
+least) and its battery water level
+Laptop with adopter and software (windows and applications)
+DSL modem with adopter and internet connectivity
+VoIP Phone with adopter
+In case of anything wrong plz let me know on Monday
+Regards
+Muhammad Siddique
+Manager I.T. Operations
+InfiniLogic Pvt. Ltd.
+14th Floor, National IT Park
+Caesar’s
+Tower Shahrah-e-Faisal
+Karachi, Pakistan
+Office Tel# (0)21- 32792663,  32792536(Ext 1691)
+Fax
+# (0)21-32792154
+Cell # 0344-2236056, 0321-2476707
+Email:
+msiddiq@infinilogic.com
+URL:
+www.infinilogic.com.pk
+*******************************************************************************
+Information
+transmitted in this message is intended only for the person or entity to which
+it is addressed and may contain confidential and/or privileged material. If you
+are not the addressee you may not copy or deliver this message to anyone and
+you should destroy this message and kindly notify the sender by reply email.
+Opinions and other information in this message that do not relate to the
+official business of the company shall be understood as neither given nor
+endorsed by it. We do not accept liability for any viruses that may be
+transmitted in or with this message or attachments.
+*******************************************************************************
+__________ Information from ESET NOD32 Antivirus, version of virus signature database 9541 (20140314) __________
+The message was checked by ESET NOD32 Antivirus.
+http://www.eset.com

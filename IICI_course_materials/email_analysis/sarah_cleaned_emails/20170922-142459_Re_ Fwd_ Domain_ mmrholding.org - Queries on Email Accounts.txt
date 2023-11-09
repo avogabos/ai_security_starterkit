@@ -1,0 +1,63 @@
+Date: Fri, 22 Sep 2017 14:24:59 +0400
+Subject: Re: Fwd: Domain: mmrholding.org - Queries on Email Accounts
+From: Sasikumar <sasikumar227@gmail.com>
+To: support@formationshouse.com
+CC: Sarah <sarah@formationshouse.com>
+
+Dear Sirs/Madam,
+
+Thank you for clarifying our queries.
+
+We will follow your guidance.
+
+As suggested, kindly re-generate an activation email and send to Email
+ID ahmed_awan@hotmail.com to activate the domain and email accounts.
+
+We have noted your answer on the size of the attachment.  Also, kindly
+inform us the size (capacity) of each email account.
+
+As regards the Administration Panel, kindly be informed that we are
+using Google Chrome to access the email accounts.
+
+Awaiting your reply.
+
+Regards,
+
+Sasikumar
+
+On 9/22/17, support@formationshouse.com <support@formationshouse.com> wrote:
+> Dear Customer,
+>
+> Thank you for your email.
+>
+> Please find below answers for your provided questions:
+>
+> 1- The admin_73843@10091808.infinioffice.com is created automatically upon
+> the creation of admin@mmrholding.org. You can only use admin@mmrholding.org.
+>
+> 2- We have checked that Administration Panel is working successfully. Please
+> use this link http://webmail.formationshouse.com/en/. If it is still not
+> working then please let us know the browser on which you are accessing.
+>
+> 3- Normally there is no limit on the size of attachment.
+>
+> 4- Please use following details to configure email account on outlook and on
+> phone:
+> -Incoming Server: pop.mmrholding.org  Port 143 (disable tls/ssl)
+> -Outgoing: smtp.mmrholding.org  Port 25 (disable tls/ssl)
+> -Click on Tools  Account settings  Select the email account and click on
+> change
+> -Click on More settings  Outgoing server Check the status of 'My outgoing
+> server requires' authentication'.
+>
+> Important: Your domain status is "ClientHold". Kindly activate the domain
+> via activated email sent by ONLINENIC to Email ID ahmed_awan@hotmail.com.
+> Without this activation the domain and email account may not turn active. We
+> can re-generate an activation email upon your confirmation.
+>
+> If you require further assistance do not hesitate to contact us.
+>
+> Kind Regards,
+>
+> Customer Support
+> Formations House

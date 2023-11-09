@@ -1,0 +1,379 @@
+Date: Mon, 7 Oct 2013 15:45:40 -0400
+Subject: Rutility bills 3 months ARGENTINA FARM HOLDINGS AND YALE ASSETS
+From: Manuel Ferradas ARGENTINA FARM <ferradas@argentinafarmholdings.com>
+To: "Steve Smith (Formations House)" <steve@formationshouse.com>
+
+ [image: Go to FPL Homepage] <http://www.fpl.com/index.shtml>
+ Print|Newsroom <http://newsroom.fpl.com/>|En
+Español<http://www.fpl.com/spanish/consejero/contents/index.shtml?wt.svl=2>
+|Contact Us <http://www.fpl.com/contact/index.shtml?wt.svl=3>|Site
+Map<http://www.fpl.com/map/index.shtml?wt.svl=4>
+|Careers <http://www.nexteraenergy.com/careers/index.shtml>
+
+   -
+   <https://app.fpl.com/AccountInfo/AccountInfo?command=lastStatement&wt.svl=14&timeStamp=1381175089919#>
+      - <https://app.fpl.com/assistPortal/>
+      - <http://www.fpl.com/doingbusiness/builder/b1_index.shtml>
+      - <https://app.fpl.com/eca/EcaController?command=supplierlogin>
+      - <https://app.fpl.com/eca/EcaController?command=supplierlogin>
+      - <http://www.fpl.com/about/landuse.shtml>
+
+
+ Welcome, You are Logged in (My
+Account<https://app.fpl.com/AccountInfo/AccountInfo?command=accountSummary>)
+- Log Out <https://app.fpl.com/eca/EcaController?command=toggle&wt.svl=11>
+
+   - My Home <http://www.fpl.com/residential/index.shtml>
+   - My Business <http://www.fpl.com/business/index.shtml>
+   - Environment <http://www.fpl.com/community/environment.shtml>
+   - Community <http://www.fpl.com/community/index.shtml>
+   - About Energy <http://www.fpl.com/about/energy.shtml>
+   - About FPL <http://www.fpl.com/about/profile/company_profile.shtml>
+
+
+   -
+   <https://app.fpl.com/AccountInfo/AccountInfo?command=lastStatement&wt.svl=14&timeStamp=1381175089919#>
+      - <https://app.fpl.com/AccountInfo/AccountInfo?command=accountSummary>
+      - <https://app.fpl.com/AccountInfo/AccountInfo?command=paymentHistory>
+      - <https://app.fpl.com/Pbi/PbiHtmlController?command=validatePayment>
+      - <http://www.fpl.com/customer/wors/landing.shtml>
+      - <http://www.fpl.com/customer/report_trouble.shtml>
+      - <http://www.fpl.com/customer/moving.shtml>
+      -
+      <http://www.fpl.com/residential/ohes/online_home_energy_survey.shtml>
+      -
+      <https://app.fpl.com/sowww2/SowwwHtmlController?command=emailPrefUpdate>
+
+My Account<https://app.fpl.com/AccountInfo/AccountInfo?command=accountSummary&wt.svl=12>
+
+   - Pay Bill<https://app.fpl.com/Pbi/PbiHtmlController?command=validatePayment&wt.svl=13>
+   - View Bill<https://app.fpl.com/AccountInfo/AccountInfo?command=lastStatement&wt.svl=14>
+   - Payment History<https://app.fpl.com/AccountInfo/AccountInfo?command=paymentHistory&wt.svl=17>
+   - Billing History<https://app.fpl.com/AccountInfo/AccountInfo?command=billingHistory&wt.svl=15>
+   - Billing & Usage History
+   - Energy Dashboard
+   - Update Account
+Info<https://app.fpl.com/AccountInfo/AccountInfo?command=accountSummary&wt.svl=21>
+   - Select/Add
+Account<https://app.fpl.com/reg_app/AccountManagementController?command=manageAccountsDisplay&wt.svl=22>
+   - Online Energy Survey<https://app.fpl.com/ohes/HomeEnergySurvey?wt.svl=23>
+
+Billing & Payment <http://www.fpl.com/residential/bill/index.shtml>
+Moving<http://www.fpl.com/customer/moving.shtml>
+
+   - Manage My Orders <https://app.fpl.com/soamend/ViewServiceOrder.do>
+   - Start Service<https://app.fpl.com/sowww2/SowwwHtmlController?command=displayWelcomeCommand&wt.svl=18>
+   - Stop Service<https://app.fpl.com/sowww2/SowwwHtmlController?command=disconnectDisplay&wt.svl=19>
+   - Transfer Service<https://app.fpl.com/sowww2/SowwwHtmlController?command=transferpremisesearch&searchType=transfer&wt.svl=20>
+   - Open Multiple
+Accounts<https://app.fpl.com/sowww2/SowwwHtmlController?command=MultiConnectAccountInfoDisplay>
+   - Close Multiple
+Accounts<https://app.fpl.com/sowww2/SowwwHtmlController?command=multiDisConnectAccountInfoDisplay>
+   - FAQs <http://www.fpl.com/contact/index.shtml?cat=ssm>
+
+Power Issues <http://www.fpl.com/customer/report_trouble.shtml>
+
+   - Power Outage <http://www.fpl.com/customer/wors/landing.shtml>
+   - Street Light <https://app.fpl.com/secure/forms/streetlight.shtml>
+   - Deteriorated
+Pole<https://app.fpl.com/serviceQuality/SQController?command=welcome&ticketType=PF&requestNumber=0585>
+   - Leaning Pole<https://app.fpl.com/serviceQuality/SQController?command=welcome&ticketType=PF&requestNumber=0693>
+   - Tree Trimming<https://app.fpl.com/serviceQuality/SQController?command=welcome&ticketType=TW&requestNumber=0749>
+
+ Bill Statement  *Customer Name: *GONZALO FERRADAS
+**
+*Service Address: *1670 LINCOLN CT APT C2
+**
+*FPL Account Number: *5487021007
+**
+*Service Dates: *08/12/2013 to 09/12/2013
+**
+
+
+   -
+   -
+   -
+
+*Statement Date: *09/12/2013
+**
+*Next Scheduled Read Date: *10/11/2013
+**
+  Previous Bills 09/12/2013 08/12/2013 *Understanding Your Bill*  The
+e-mail address we have for this account is FERRADAS@GMAIL.COM.
+Access e-mail update<https://app.fpl.com/sowww2/SowwwHtmlController?command=EmailUpdate>
+to
+make changes. Amount
+of your
+last bill Payments
+(-) Additional activity
+(+ or -)Balance before
+new charges
+(=)New charges
+(+)Total amount
+you owe
+(=)New charges
+due by 64.26 64.26CR 0.00 0.0082.23 *$82.23* *Oct 03 2013*
+**
+**
+**
+**
+**
+**
+**
+
+
+
+  Amount of your last bill                                64.26
+  Payment received - Thank you                            64.26CR
+  Balance before new charges                              $0.00
+
+  New charges (Rate: RS-1 RESIDENTIAL SERVICE )
+  Electric service amount             69.54**
+  Storm charge                         0.79
+  Gross receipts tax                   1.80
+  Franchise charge                     3.93
+  Utility tax                          6.17
+  Total new charges                                      $82.23
+
+
+  Total amount you owe                                   $82.23
+
+ -Payments received after October 03, 2013 are considered late; a
+  late payment charge, the greater of $5.00 or 1.5% of your past
+  due balance will apply. Your account may also be billed a
+  deposit adjustment.
+ -Make saving energy and money your "pet project" and save up to
+  $250 a year. We can help you change the current way you use
+  energy and make your bill even lower at: FPL.com/PetProject
+
+
+
+
+------------------------------
+
+ Meter reading - meter ACD7819
+  Current reading                  49954
+  Previous reading                -49216
+                                  ------
+  kWh used                           738
+
+  Energy usage
+  kWh this month                     738
+  Service days                        31
+  kWh/day                             24
+
+  **The electric service amount
+  includes the following charges:
+  Customer charge:   $7.24 per month
+  Fuel:              $19.43
+    (First 1000 kWh at $0.026330)
+    (Over 1000 kWh at $0.036330)
+  Non-fuel:          $42.87
+    (First 1000 kWh at $0.058090)
+    (Over 1000 kWh at $0.068440)
+
+
+
+
+
+For more help in managing your bill, if you are not already participating,
+access
+
+- Total Now Due and Last
+Payment<https://app.fpl.com/AccountInfo/AccountInfo?command=accountSummary>
+- FPL Pay Online <http://www.fpl.com/residential/pay_online.shtml> to pay
+your bill now.
+- FPL Automatic Bill Pay <http://www.fpl.com/residential/abp.shtml> to
+ensure your bill is always paid on time.
+- FPL E-Mail Bill <http://www.fpl.com/residential/email_bill.shtml> to
+receive your bill online.
+- How to read your bill<http://www.fpl.com/customer/how_to_read_your_bill.shtml>
+.
+
+Gonzalo Ferradas | Argentina Farm Holdings |1680 Michigan Avenue | Miami
+Beach, FL 33139 |
+Direct: (786) 449 0867
+AIM: ferradas@gmail.com
+
+
+
+On Mon, Oct 7, 2013 at 3:04 PM, Manuel Ferradas ARGENTINA FARM <
+ferradas@argentinafarmholdings.com> wrote:
+
+>
+> Gonzalo Ferradas | Argentina Farm Holdings |1680 Michigan Avenue | Miami
+> Beach, FL 33139 |
+> Direct: (786) 449 0867
+> AIM: ferradas@gmail.com
+>
+>
+>
+>
+> Please open the attached document.
+>
+>
+Print
+|
+Newsroom
+|
+En Español
+|
+Contact Us
+|
+Site Map
+|
+Careers
+Welcome, You are Logged in (
+My Account
+) -
+Log Out
+My Home
+My Business
+Environment
+Community
+About Energy
+About FPL
+My Account
+Pay Bill
+View Bill
+Payment History
+Billing History
+Billing & Usage History
+Energy Dashboard
+Update Account Info
+Select/Add Account
+Online Energy Survey
+Billing & Payment
+Moving
+Manage My Orders
+Start Service
+Stop Service
+Transfer Service
+Open Multiple Accounts
+Close Multiple Accounts
+FAQs
+Power Issues
+Power Outage
+Street Light
+Deteriorated Pole
+Leaning Pole
+Tree Trimming
+Bill Statement
+Customer Name:
+GONZALO FERRADAS
+Service Address:
+1670 LINCOLN CT APT C2
+FPL Account Number:
+5487021007
+Service Dates:
+08/12/2013 to 09/12/2013
+Statement Date:
+09/12/2013
+Next Scheduled Read Date:
+10/11/2013
+Previous Bills
+09/12/2013
+08/12/2013
+Understanding Your Bill
+The e-mail address we have for this account is
+FERRADAS@GMAIL.COM
+.
+Access
+e-mail update
+to make changes.
+Amount
+of your
+last bill
+Payments
+(-)
+Additional activity
+(+ or -)
+Balance before
+new charges
+(=)
+New charges
+(+)
+Total amount
+you owe
+(=)
+New charges
+due by
+64.26
+64.26CR
+0.00
+0.00
+82.23
+$82.23
+Oct 03 2013
+Amount of your last bill                                64.26
+  Payment received - Thank you                            64.26CR
+  Balance before new charges                              $0.00
+ 
+  New charges (Rate: RS-1 RESIDENTIAL SERVICE )
+  Electric service amount             69.54**
+  Storm charge                         0.79
+  Gross receipts tax                   1.80
+  Franchise charge                     3.93
+  Utility tax                          6.17
+  Total new charges                                      $82.23
+ 
+ 
+  Total amount you owe                                   $82.23
+ 
+ -Payments received after October 03, 2013 are considered late; a
+  late payment charge, the greater of $5.00 or 1.5% of your past
+  due balance will apply. Your account may also be billed a
+  deposit adjustment.
+ -Make saving energy and money your "pet project" and save up to
+  $250 a year. We can help you change the current way you use
+  energy and make your bill even lower at: FPL.com/PetProject
+Meter reading - meter ACD7819
+  Current reading                  49954
+  Previous reading                -49216
+                                  ------
+  kWh used                           738
+ 
+  Energy usage
+  kWh this month                     738
+  Service days                        31
+  kWh/day                             24
+ 
+  **The electric service amount
+  includes the following charges:
+  Customer charge:   $7.24 per month
+  Fuel:              $19.43
+    (First 1000 kWh at $0.026330)
+    (Over 1000 kWh at $0.036330)
+  Non-fuel:          $42.87
+    (First 1000 kWh at $0.058090)
+    (Over 1000 kWh at $0.068440)
+For more help in managing your bill, if you are not already participating, access
+-
+Total Now Due and Last Payment
+-
+FPL Pay Online
+to pay your bill now.
+-
+FPL Automatic Bill Pay
+to ensure your bill is always paid on time.
+-
+FPL E-Mail Bill
+to receive your bill online.
+-
+How to read your bill
+.
+Gonzalo Ferradas | Argentina Farm Holdings |1680 Michigan Avenue | Miami Beach, FL 33139 |
+Direct: (786) 449 0867
+AIM:
+ferradas@gmail.com
+On Mon, Oct 7, 2013 at 3:04 PM, Manuel Ferradas ARGENTINA FARM
+<
+ferradas@argentinafarmholdings.com
+>
+wrote:
+Gonzalo Ferradas | Argentina Farm Holdings |1680 Michigan Avenue | Miami Beach, FL 33139 |
+Direct:
+(786) 449 0867
+AIM:
+ferradas@gmail.com
+Please open the attached document.

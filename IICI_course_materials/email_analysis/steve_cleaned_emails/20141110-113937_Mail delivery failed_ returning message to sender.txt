@@ -1,0 +1,371 @@
+Date: Mon, 10 Nov 2014 11:39:37 +0000
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: steve@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  mraddi@atlascapitalmarket.com
+    Unrouteable address
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <steve@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1XnnJf-00022O-TD ; Mon, 10 Nov 2014 11:39:33 +0000
+From: "Steve Smith \(Formations House\)" <steve@formationshouse.com>
+To: <mraddi@ymail.com>
+Cc: <mraddi@atlascapitalmarket.com>
+References: <387C0223C25DD040A11025DE62DE92D6E499C1@server.exchange.local> <000901cffcaf$c57c2e80$50748b80$@formationshouse.com>
+In-Reply-To: <000901cffcaf$c57c2e80$50748b80$@formationshouse.com>
+Subject: RE: ATLAS CAPITAL MARKETS
+Date: Mon, 10 Nov 2014 16:41:27 +0500
+Message-ID: <000601cffcdb$453348e0$cf99daa0$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01CFFD05.2E0950E0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AQHS3ksW/k9CnlW2RFiSN7IPMHuEgJxTotsAgABVqnA=
+Content-Language: en-us
+X-Spam-Status: X-Spam-Score: -0.4:
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0007_01CFFD05.2E0950E0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Raddi Mustapha
+
+=20
+
+=20
+
+Thank you for the documents.
+
+=20
+
+=20
+
+Please confirm if we can change director=E2=80=99s name as per the id =
+documents provided by.
+
+=20
+
+=20
+
+In the application you have mentioned director=E2=80=99s name as =
+=E2=80=98Mr Madi Raj=E2=80=99 and the passport you have provided shows =
+the name as =E2=80=98Mr. Mustapha Raddi=E2=80=99.
+
+=20
+
+=20
+
+If you wish to use the name =E2=80=98Mr Madi Raj=E2=80=99 then please =
+provide proof of id and proof of address in this person=E2=80=99s name.
+
+=20
+
+=20
+
+Or confirm if we change the director=E2=80=99s name to =E2=80=98Mr. =
+Mustapha Raddi=E2=80=99.
+
+=20
+
+=20
+
+Waiting for your reply.
+
+=20
+
+=20
+
+Regards
+
+=20
+
+Steve
+
+=20
+
+=20
+
+From: Felix Almeida [mailto:felix@formationshouse.com]=20
+Sent: Monday, November 10, 2014 11:30 AM
+To: Talal Desin (Formations House)
+Subject: FW:=20
+
+=20
+
+FYI.
+
+
+
+__________ Information from ESET NOD32 Antivirus, version of virus =
+signature database 10687 (20141107) __________
+
+The message was checked by ESET NOD32 Antivirus.
+
+http://www.eset.com
+
+
+------=_NextPart_000_0007_01CFFD05.2E0950E0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dutf-8">
+
+
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3D"#0563C1" vlink=3D"#954F72">
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>Dear
+R</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>addi =
+Mustapha<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>Thank
+you for the documents</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>.<o:p></o:p=
+></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>Please
+confirm if we can change director=E2=80=99s name as per the id documents =
+provided by.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>In
+the application you have mentioned director=E2=80=99s name as =
+=E2=80=98</span><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>Mr Madi =
+Raj=E2=80=99 and
+the passport you have provided shows the name as =E2=80=98Mr. =
+Mustapha</span><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'> =
+R</span><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>addi=E2=80=99=
+.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>If
+you wish to use the name </span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>=E2=80=98</=
+span><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>Mr Madi =
+Raj=E2=80=99 then
+please provide proof of id and proof of address in this person=E2=80=99s =
+name.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>Or
+confirm if we change the director=E2=80=99s name to =E2=80=98Mr. =
+Mustapha</span><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'> =
+R</span><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>addi=E2=80=99=
+.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>Waiting
+for your reply.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>Regards<o:p=
+></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>Steve<o:p><=
+/o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";
+color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<div>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Felix =
+Almeida
+[mailto:felix@formationshouse.com] <br>
+<b>Sent:</b> Monday, November 10, 2014 11:30 AM<br>
+<b>To:</b> Talal Desin (Formations House)<br>
+<b>Subject:</b> FW: <o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>FYI.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><br>
+<br>
+__________ Information from ESET NOD32 Antivirus, version of virus =
+signature
+database 10687 (20141107) __________<br>
+<br>
+The message was checked by ESET NOD32 Antivirus.<br>
+<br>
+<a href=3D"http://www.eset.com">http://www.eset.com</a><o:p></o:p></p>
+
+</div>
+
+ <BR><BR>__________ Information from ESET NOD32 Antivirus, version of =
+virus signature database 10699 (20141110) __________<BR><BR>The message =
+was checked by ESET NOD32 Antivirus.<BR><BR><A =
+HREF=3D"http://www.eset.com">http://www.eset.com</A><BR> </body>
+
+</html>
+
+------=_NextPart_000_0007_01CFFD05.2E0950E0--
+

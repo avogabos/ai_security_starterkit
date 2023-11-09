@@ -1,0 +1,42 @@
+Date: Wed, 04 Sep 2013 15:42:16 +0300
+Subject: Virtual office
+From: Юлия Витковская<vitkovskaja.u@globuex.com>
+To: steve@formationshouse.com
+
+Dear Steve,
+
+Our company would like to order a service of virtual office with an 
+address in London, United Kingdom.
+
+Please, advise us:
+1.     What do we need to provide to order the service of virtual office 
+with an address?
+2.     How much time will it take to create a virtual office?
+3. _What are the fees for:
+_a). creating a virtual office.
+b). annual maintenance of the address.
+c). sending the received post in scan by e-mail.
+d). sending the hard copies of documents to Ukraine.
+
+Thank you in advance,
+Yulya Vitkovskaya,
+Legal adviser.
+
+Dear Steve,
+Our company would like to order a service of virtual office with
+      an address in
+      London, United Kingdom.
+Please, advise us:
+1.     What do we need to provide to order the service of
+      virtual office with an address?
+2.     How much time will it take to create a virtual
+      office?
+3.
+What are the fees for:
+a). creating a virtual office.
+b). annual maintenance of the address.
+c). sending the received post in scan by e-mail.
+d). sending the hard copies of documents to Ukraine.
+Thank you in advance,
+Yulya Vitkovskaya,
+Legal adviser.

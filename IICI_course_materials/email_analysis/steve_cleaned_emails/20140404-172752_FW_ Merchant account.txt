@@ -1,0 +1,43 @@
+Date: Fri, 4 Apr 2014 17:27:52 +0500
+Subject: FW: Merchant account
+From: "Felix Almeida" <felix@formationshouse.com>
+To: "Steve Smith \(Formations House\)" <steve@formationshouse.com>
+
+
+
+-----Original Message-----
+From: sps@SierraChart.com [mailto:sps@SierraChart.com] 
+Sent: Friday, April 04, 2014 3:30 PM
+To: felix@formationshouse.com
+Subject: Merchant account
+
+Hello,
+
+I am inquiring about your merchant account solution:
+http://www.formationshouse.com/merchant_account_opening.htm
+
+Will you accept a Panama company for this?
+
+  Can we use a low-level integration method where we accept the credit/debit card from our website and pass it to the payment gateway.?
+
+  What do you need from us to proceed with this?
+
+Thank you,
+Anthony
+
+
+
+-- 
+
+{4F7A87F2-3C12-4c3a-8177-9444E972ED92}
+
+
+__________ Information from ESET NOD32 Antivirus, version of virus signature database 9619 (20140331) __________
+
+The message was checked by ESET NOD32 Antivirus.
+
+http://www.eset.com
+
+
+
+

@@ -1,0 +1,609 @@
+Date: Wed, 15 Jul 2015 11:38:02 +0100
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: steve@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  corporate@historiamediagroup.com
+    SMTP error from remote mail server after RCPT TO:<corporate@historiamediagroup.com>:
+    host mail.historiamediagroup.com [192.185.78.176]:
+    550 No Such User Here"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <steve@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1ZFK4b-0007c2-7L ; Wed, 15 Jul 2015 11:37:59 +0100
+From: "Steve Smith \(Formations House\)" <steve@formationshouse.com>
+To: <corporate@historiamediagroup.com>
+Cc: <support@formationshouse.com>
+Subject: Offshore Company and Bank Account
+Date: Wed, 15 Jul 2015 15:38:03 +0500
+Message-ID: <000001d0beea$5645e3f0$02d1abd0$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0001_01D0BF14.3F1BEBF0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdC+6lMoMOScgDgET+ShENtZjSRHDw==
+Content-Language: en-us
+X-Spam-Status: X-Spam-Score: 0.8:
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0001_01D0BF14.3F1BEBF0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi Bev
+
+ 
+
+Thank you for your interest in our services.
+
+ 
+
+We provide offshore company formation services in:
+
+ 
+
+- Seychelles
+
+- BVI
+
+- Belize
+
+- Hong Kong
+
+- Gambia
+
+ 
+
+ 
+
+We provide bank account opening service in:
+
+ 
+
+- St.Vincent Islands
+
+ 
+
+ 
+
+We provide Virtual Office services in:
+
+ 
+
+- United Kingdom
+
+ 
+
+ 
+
+Offshore Company Services:
+
+ 
+
+- Seychelles Company Registration - GBP 340 (annual renewal GBP 400)
+
+- BVI Company Registration - GBP 590 (annual renewal GBP 700)
+
+- Belize Company Registration - GBP 390 (annual renewal GBP 400)
+
+- Hong Kong Company Registration - GBP 595 (annual renewal GBP 700)
+
+- Gambia Company Registration - GBP 195 (annual renewal GBP 195)
+
+ 
+
+ 
+
+Other services:
+
+ 
+
+- Offshore Compliance Pack (to hide address where company books will be
+maintained) - GBP 100 per annum
+
+- Bank Account Processing Offshore - GBP 500
+
+- Apostille set of Company documents - GBP 350 (price can vary as per
+jurisdiction)
+
+- Certificate of Good Standing - GBP 150 (price can vary as per
+jurisdiction)
+
+ 
+
+ 
+
+Documents required for due diligence for company formation:
+
+ 
+
+Scan color copies of following documents are required for company beneficial
+owner/director/s and shareholder/s.
+
+ 
+
+If company director a Natural Person:
+
+ 
+
+1. Proof of ID - Valid Passport
+
+2. Proof of Residential Address - Last 3 months utility bills (water OR gas
+OR electricity) or latest personal bank/credit card statement. (Please do
+not send telephone, mobile, tv or internet bill, these are not acceptable.)
+
+ 
+
+If company director a Corporate Entity:
+
+ 
+
+1. Company Documents presenting beneficial owner name (Certificate of
+Incorporation, Memorandum and Articles)
+
+2. Proof of ID (Valid Passport) and Proof of Address (Last 3 months utility
+bills (water OR gas OR electricity) or latest personal bank/credit card
+statement.) of the beneficial owner of the Corporate body.(Please do not
+send telephone, mobile, tv or internet bill, these are not acceptable.)
+
+ 
+
+If the documents are not in English then you need to have them translated
+and notarized. And send original and translated copies.
+
+ 
+
+For OFFSHORE Company above documents needs to NOTARIZED and we will also
+need hard copies of these documents by post.
+
+ 
+
+If you require further information or assistance you can contact me at
+info@formationshouse.com or steve@formationshouse.com or
+0044-(0)207-016-2727 Monday to Friday 11am to 7pm GMT.
+
+ 
+
+ 
+
+Regards
+
+ 
+
+Steve Smith
+
+ 
+
+FORMATIONS HOUSE
+
+www.formationshouse.com
+
+
+------=_NextPart_000_0001_01D0BF14.3F1BEBF0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+
+
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>Hi Bev<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>Thank you for your interest in =
+our
+services.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>We provide offshore company =
+formation
+services in:<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>- =
+Seychelles<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>- BVI<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>- Belize<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>- Hong Kong<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>- Gambia<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>We provide bank account opening =
+service
+in:<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>- St.Vincent =
+Islands<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>We provide Virtual Office =
+services in:<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>- United =
+Kingdom<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>Offshore Company =
+Services:<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>- Seychelles Company Registration =
+&#8211;
+GBP 340 (annual renewal GBP 400)<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>- BVI Company Registration =
+&#8211; GBP 590
+(annual renewal GBP 700)<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>- Belize Company Registration =
+&#8211; GBP
+390 (annual renewal GBP 400)<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>- Hong Kong Company Registration =
+&#8211;
+GBP 595 (annual renewal GBP 700)<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>- Gambia Company Registration - =
+GBP 195
+(annual renewal GBP 195)<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>Other =
+services:<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>- Offshore Compliance Pack (to =
+hide address
+where company books will be maintained) &#8211; GBP 100 per =
+annum<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>- Bank Account Processing =
+Offshore &#8211;
+GBP 500<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>- Apostille set of Company =
+documents
+&#8211; GBP 350 (price can vary as per =
+jurisdiction)<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>- Certificate of Good Standing =
+&#8211; GBP
+150 (price can vary as per jurisdiction)<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>Documents required for due =
+diligence for
+company formation:<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>Scan color copies of following =
+documents
+are required for company beneficial owner/director/s and =
+shareholder/s.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>If company director a Natural =
+Person:<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>1. Proof of ID - Valid =
+Passport<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>2. Proof of Residential Address - =
+Last 3
+months utility bills (water OR gas OR electricity) or latest personal
+bank/credit card statement. (Please do not send telephone, mobile, tv or
+internet bill, these are not acceptable.)<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>If company director a Corporate =
+Entity:<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>1. Company Documents presenting =
+beneficial
+owner name (Certificate of Incorporation, Memorandum and =
+Articles)<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>2. Proof of ID (Valid Passport) =
+and Proof
+of Address (Last 3 months utility bills (water OR gas OR electricity) or =
+latest
+personal bank/credit card statement.) of the beneficial owner of the =
+Corporate
+body.(Please do not send telephone, mobile, tv or internet bill, these =
+are not
+acceptable.)<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>If the documents are not in =
+English then
+you need to have them translated and notarized. And send original and
+translated copies.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>For OFFSHORE Company above =
+documents needs
+to NOTARIZED and we will also need hard copies of these documents by =
+post.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>If you require further =
+information or
+assistance you can contact me at info@formationshouse.com or
+steve@formationshouse.com or 0044-(0)207-016-2727 Monday to Friday 11am =
+to 7pm
+GMT.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>Regards<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>Steve Smith<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>FORMATIONS =
+HOUSE<o:p></o:p></span></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:12.0pt;color:black'>www.formationshouse.com<o:p></o:p>=
+</span></p>
+
+</div>
+
+ <BR><BR>__________ Information from ESET NOD32 Antivirus, version of =
+virus signature database 11938 (20150714) __________<BR><BR>The message =
+was checked by ESET NOD32 Antivirus.<BR><BR><A =
+HREF=3D"http://www.eset.com">http://www.eset.com</A><BR> </body>
+
+</html>
+
+------=_NextPart_000_0001_01D0BF14.3F1BEBF0--
+

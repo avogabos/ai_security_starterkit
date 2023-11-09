@@ -1,0 +1,14 @@
+Date: Thu, 3 Nov 2016 05:39:40 -0700 (PDT)
+Subject: A ticket with ID [##115606##] has been created for a email from
+ Nadya, in which you were mentioned
+From: Accounts - Euro Pacific Bank <accounts@europacbank.com>
+To: "'steve smith (formations house)'" <steve@formationshouse.com>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin: 0.0px;background: rgb(242,242,242);" width="100%"><tbody><tr><td style="padding: 30.0px 20.0px;" valign="top"><table cellpadding="0" cellspacing="0" style="margin: 0.0px auto;" width="90%"><tbody><tr><td valign="top" style="border: 1.0px solid rgb(218,218,218);background-color: rgb(255,255,255);padding: 30.0px;"><div style="font-family: &#39;lucida grande&#39; , &#39;lucida sans&#39; , &#39;lucida sans unicode&#39; , arial , helvetica , verdana , sans-serif;font-size: 14.0px;line-height: 24.0px;color: rgb(34,34,34);"><span style="font-weight: normal;">A ticket has been created with the ID  </span><b>115606</b> and subject &quot;<b>CONDUCTORES Y CABLES GLOBALES (CONDUGLOB)</b>&quot;, in which you were Cc&#39;d.<br /> <br />Someone from our customer service team will review it and respond shortly.<br /> <br />Regards,<br />Euro Pacific Bank Support Team.</div> </td> </tr> <tr> <td style="padding-top: 5.0px;" valign="top">  </td> </tr> </tbody> </table> </td> </tr> </tbody> </table>A ticket has been created with the ID
+115606
+and subject "
+CONDUCTORES Y CABLES GLOBALES (CONDUGLOB)
+", in which you were Cc'd.
+Someone from our customer service team will review it and respond shortly.
+Regards,
+Euro Pacific Bank Support Team.

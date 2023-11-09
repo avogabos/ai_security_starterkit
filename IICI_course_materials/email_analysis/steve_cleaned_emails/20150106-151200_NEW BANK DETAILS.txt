@@ -1,0 +1,108 @@
+Date: Tue, 6 Jan 2015 15:12:00 +0500
+Subject: NEW BANK DETAILS
+From: "Oliver" <oliver@formationshouse.com>
+To: "Oliver" <oliver@formationshouse.com>
+CC: <sarah@formationshouse.com>,
+	<steve@formationshouse.com>,
+	<delphine@formationshouse.com>,
+	<felix@formationshouse.com>
+
+Hi Guys,
+
+ 
+
+Our bank transfer details have been changed now.
+
+ 
+
+An email should be sent all regular resellers and customers asking them to
+remove any old payment and all the payments should now be transferred to
+following accounts:
+
+ 
+
+ 
+
+Account name: AC ONLINE LTD
+
+Bank: HSBC Bank, Baker Street W1 Branch 
+
+Account type: USD
+
+Sort Code: 400515
+
+Account number: 76005790
+
+SWIFT/ BIC: MIDLGB22
+
+IBAN: GB16MIDL40051576005790
+
+ 
+
+ 
+
+ 
+
+Account name: AC ONLINE LTD
+
+Bank: HSBC Bank, Baker Street W1 Branch 
+
+Account type: EUR
+
+Sort Code: 400515
+
+Account number: 76005809
+
+SWIFT BIC: MIDLGB22
+
+IBAN: GB85MIDL40051576005809
+
+ 
+
+ 
+
+ 
+
+GBP - Main
+
+ 
+
+Account name: AC Grid
+
+Bank: HSBC Bank, Oxford Street W1 Branch 
+
+Account type: BUSINESS A/C
+
+gbp
+
+Sort code: 400516
+
+Account number: 02431939
+
+IBAN: GB94MIDL40051602431939 
+
+Hi Guys,
+Our bank transfer details have been changed now.
+An email should be sent all regular resellers and customers asking them to remove any old payment and all the payments should now be transferred to following accounts:
+Account name: AC ONLINE LTD
+Bank: HSBC Bank, Baker Street W1 Branch
+Account type: USD
+Sort Code: 400515
+Account number: 76005790
+SWIFT/ BIC: MIDLGB22
+IBAN: GB16MIDL40051576005790
+Account name: AC ONLINE LTD
+Bank: HSBC Bank, Baker Street W1 Branch
+Account type: EUR
+Sort Code: 400515
+Account number: 76005809
+SWIFT BIC: MIDLGB22
+IBAN: GB85MIDL40051576005809
+GBP – Main
+Account name: AC Grid
+Bank: HSBC Bank, Oxford Street W1 Branch
+Account type: BUSINESS A/C
+gbp
+Sort code: 400516
+Account number: 02431939
+IBAN: GB94MIDL40051602431939

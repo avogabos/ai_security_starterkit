@@ -1,0 +1,310 @@
+Date: Mon, 02 Oct 2017 18:53:15 +0100
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: steve@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  cim.edu2014@gmail.com
+    SMTP error from remote mail server after RCPT TO:<cim.edu2014@gmail.com>:
+    host gmail-smtp-in.l.google.com [64.233.184.26]:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1  https://support.google.com/mail/?p=NoSuchUser d17si8139280wmh.252 - gsmtp
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <steve@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1dz4tp-0005fQ-46 ; Mon, 02 Oct 2017 18:53:14 +0100
+From: "Steve Smith \(Formations House\)" <steve@formationshouse.com>
+To: <cim.edu2014@gmail.com>,
+	<musicfy21@gmail.com>
+Cc: <support@formationshouse.com>
+Subject: Re: Hong Kong Companies
+Date: Mon, 2 Oct 2017 22:57:15 +0500
+Message-ID: <025c01d33ba7$e2c6e860$a854b920$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_025D_01D33BD1.CB9CF060"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdM7p+FatrHJqmkMRKm+TxYdYwuEwg==
+Content-Language: en-us
+X-Spam-Status: X-Spam-Score: 0.0:
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_025D_01D33BD1.CB9CF060
+Content-Type: text/plain;
+	charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+Dear Majid
+
+ 
+
+Thank you for your email.
+
+ 
+
+The cost to renew Emirates NBD Fund Management is GBP 4500/-
+
+ 
+
+Please confirm that you wish to remove Mr. Amin Faramarzipoor from company
+and all of his shares (2 shares) should be transferred to you (Mr.  Majid
+Azizpourshoubi).
+
+ 
+
+In order to remove director Mr. Amin Faramarzipoor and transfer his shares
+to you the cost will be :
+
+ 
+
+- Application to Resign Director : GBP 150/-
+
+- Application to Transfer Shares : GBP 150/-
+
+ 
+
+ 
+
+We are also now required to charge VAT therefore your total payment will be:
+
+ 
+
+- Hong Kong OVERDUE company renewal : GBP 4500 + GBP 900 (20% VAT) = GBP
+5400/-
+
+- Application to Resign Director : GBP 150 + GBP 30 (20% VAT) = GBP 180/-
+
+- Application to Transfer Shares : GBP 150 + GBP 30 (20% VAT) = GBP 180/-
+
+ 
+
+Total : GBP 5760/-
+
+ 
+
+Please use following bank transfer and once payment is done please send us
+the bank transfer receipt.
+
+ 
+
+Account name : AC Online Ltd (29 Harley Street London W1G 9QR)
+
+Bank : Santander Corporate (Bridle Road Bootle Merseyside L30 4GB)
+
+Sort Code: 09-02-22
+
+Account number: 10339811
+
+Currency: GBP
+
+BIC\SWIFT: ABBYGB2LXXX
+
+IBAN: GB76ABBY09022210339811
+
+ 
+
+If you need any further information or assistance, please feel free to
+contact us at info@formationshouse.com (Sales) or
+support@formationshouse.com (Support). You can also email me directly at
+steve@formationshouse.com.
+
+ 
+
+Regards,
+
+ 
+
+Steve Smith
+
+steve@formationshouse.com
+
+www.formationshouse.com
+
+
+------=_NextPart_000_025D_01D33BD1.CB9CF060
+Content-Type: text/html;
+	charset="US-ASCII"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+
+
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal>Dear Majid<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Thank you for your email.<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>The cost to renew Emirates NBD Fund Management is =
+GBP 4500/-<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Please confirm that you wish to remove Mr. Amin
+Faramarzipoor from company and all of his shares (2 shares) should be
+transferred to you (Mr.&nbsp; Majid Azizpourshoubi).<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>In order to remove director Mr. Amin Faramarzipoor =
+and
+transfer his shares to you the cost will be :<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>- Application to Resign Director : GBP =
+150/-<o:p></o:p></p>
+
+<p class=3DMsoNormal>- Application to Transfer Shares : GBP =
+150/-<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>We are also now required to charge VAT therefore =
+your total
+payment will be:<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>- Hong Kong OVERDUE company renewal : GBP 4500 + =
+GBP 900
+(20% VAT) =3D GBP 5400/-<o:p></o:p></p>
+
+<p class=3DMsoNormal>- Application to Resign Director : GBP 150 + GBP 30 =
+(20%
+VAT) =3D GBP 180/-<o:p></o:p></p>
+
+<p class=3DMsoNormal>- Application to Transfer Shares : GBP 150 + GBP 30 =
+(20%
+VAT) =3D GBP 180/-<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Total : GBP 5760/-<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Please use following bank transfer and once payment =
+is done
+please send us the bank transfer receipt.<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Account name : AC Online Ltd (29 Harley Street =
+London W1G
+9QR)<o:p></o:p></p>
+
+<p class=3DMsoNormal>Bank : Santander Corporate (Bridle Road Bootle =
+Merseyside
+L30 4GB)<o:p></o:p></p>
+
+<p class=3DMsoNormal>Sort Code: 09-02-22<o:p></o:p></p>
+
+<p class=3DMsoNormal>Account number: 10339811<o:p></o:p></p>
+
+<p class=3DMsoNormal>Currency: GBP<o:p></o:p></p>
+
+<p class=3DMsoNormal>BIC\SWIFT: ABBYGB2LXXX<o:p></o:p></p>
+
+<p class=3DMsoNormal>IBAN: GB76ABBY09022210339811<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>If you need any further information or assistance, =
+please
+feel free to contact us at info@formationshouse.com (Sales) or
+support@formationshouse.com (Support). You can also email me directly at
+steve@formationshouse.com.<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Regards,<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Steve Smith<o:p></o:p></p>
+
+<p class=3DMsoNormal>steve@formationshouse.com<o:p></o:p></p>
+
+<p class=3DMsoNormal>www.formationshouse.com<o:p></o:p></p>
+
+</div>
+
+ <BR><BR>__________ Information from ESET NOD32 Antivirus, version of =
+detection engine 16049 (20170908) __________<BR><BR>The message was =
+checked by ESET NOD32 Antivirus.<BR><BR><A =
+HREF=3D"http://www.eset.com">http://www.eset.com</A><BR> </body>
+
+</html>
+
+------=_NextPart_000_025D_01D33BD1.CB9CF060--
+

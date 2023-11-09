@@ -1,0 +1,82 @@
+Date: Thu, 13 Apr 2017 12:53:15 +0100
+Subject: Quick reminder about web chat policy
+From: Elliot Burke <elliot@formationshouse.com>
+To: Steve Smith <steve@formationshouse.com>
+
+Hi all,
+
+The new web chat has been live for a few days already and some of you now have some experience using it. I would be grateful for any feedback you might have with how it works so far, what can be improved etc. etc.
+
+There are a few guidelines that should be followed when using the web chat:
+
+Don’t enter a chat somebody else has picked up, unless they have asked you to. It is confusing for the customer to have multiple people join a chat at different times, and the conversation can also become confused.  If you ask a colleague to take over a chat as it is in their area of competency not yours, it is recommended that you leave the channel. If you don’t, then do not respond unless absolutely necessary. 
+Do not just tell the customer that you will email them - unless this is what they’ve asked for. This is a chat functionality, and we are expecting you to be able to answer any and all of the client’s questions in a more immediate fashion.  If it is a difficult or unusual request, then this behaviour is more understandable, but we do not want to see every initial query being answered with “we’ll email you”.
+Use full words and sentences.  Abbreviations such as “pls” for please are not acceptable.
+Take control of the conversation. You should guide the conversation, so once you have picked up a new chat, a simple “hi” or “hello” is not sufficient.  We expect a more friendly, comprehensive greeting. Chats are sent through to slack with an initial question, so this should be actioned upon. From this point we expect three components in every first message:
+A time-appropriate greeting e.g. "Good morning/afternoon/evening"
+Mention the customer’s name preferably in the polite Mr./Ms. form unless the customer has only supplied their first name
+Begin to answer their initial question or ask for more information, if required.
+
+As an example of the correct way to greet a new customer:
+
+What appears in the initial slack notification:
+Visitor question:
+Hi, I am looking to incorporate a BVI company but I am not a UK citizen. Is this possible?
+Visitor information:
+Name: John Doe
+Email: johndoe@example.com <mailto:johndoe@example.com>
+etc…
+
+The conversation:
+You: Good morning/afternoon/evening Mr. Doe and thank you for contacting Formations House.  I am [your name]. It is certainly possible to incorporate a British Virgin Island company if you are not a UK citizen. Shall I provide some more information on the process?
+Customer: Yes
+You: Explain the general process, do not just say “I will email you”. If you believe it’s appropriate or if the customer requests it, then offer to email the customer this information.
+
+We will be regularly reviewing all chat logs to ensure everyone is following the above guidelines.  As said previously, I would be grateful for any feedback on how to make this work better and easier for you.
+
+Thanks,
+Elliot
+
+P.S.	Please forward this email to anyone I may have missed, who will be using the chat. Thank you.Hi all,
+The new web chat has been live for a few days already and some of you now have some experience using it. I would be grateful for any feedback you might have with how it works so far, what can be improved etc. etc.
+There are a few guidelines that should be followed when using the web chat:
+Don’t enter a chat somebody else has picked up, unless they have asked you to.
+It is confusing for the customer to have multiple people join a chat at different times, and the conversation can also become confused.  If you ask a colleague to take over a chat as it is in their area of competency not yours, it is recommended that you leave the channel. If you don’t, then do not respond unless absolutely necessary.
+Do not just tell the customer that you will email them - unless this is what they’ve asked for.
+This is a
+chat
+functionality, and we are expecting you to be able to answer any and all of the client’s questions in a more immediate fashion.  If it is a difficult or unusual request, then this behaviour is more understandable, but we do not want to see every initial query being answered with “we’ll email you”.
+Use full words and sentences
+.  Abbreviations such as “pls” for please are not acceptable.
+Take control of the conversation
+. You should guide the conversation, so once you have picked up a new chat,
+a simple “hi” or “hello” is not sufficient
+.  We expect a more friendly, comprehensive greeting. Chats are sent through to slack with an initial question, so this should be actioned upon. From this point we expect three components in every first message:
+A time-appropriate greeting
+e.g. "Good morning/afternoon/evening"
+Mention the customer’s name
+preferably in the polite Mr./Ms. form unless the customer has only supplied their first name
+Begin to answer their initial question
+or ask for more information, if required.
+As an example of the correct way to greet a new customer:
+What appears in the initial slack notification:
+Visitor question:
+Hi, I am looking to incorporate a BVI company but I am not a UK citizen. Is this possible?
+Visitor information:
+Name: John Doe
+Email:
+johndoe@example.com
+etc…
+The conversation:
+You:
+Good morning/afternoon/evening Mr. Doe and thank you for contacting Formations House.  I am [your name]. It is certainly possible to incorporate a British Virgin Island company if you are not a UK citizen. Shall I provide some more information on the process?
+Customer:
+Yes
+You:
+Explain the general process, do not just say “I will email you”
+. If you believe it’s appropriate or if the customer requests it, then offer to email the customer this information.
+We will be regularly reviewing all chat logs to ensure everyone is following the above guidelines.  As said previously, I would be grateful for any feedback on how to make this work better and easier for you.
+Thanks,
+Elliot
+P.S.
+Please forward this email to anyone I may have missed, who will be using the chat. Thank you.

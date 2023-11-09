@@ -1,0 +1,272 @@
+Date: Mon, 22 Apr 2013 15:23:14 +0100
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: steve@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  krajani@oxbridgeventuresltd.com
+    Unrouteable address
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <steve@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1UUHeC-0000Ly-Tm ; Mon, 22 Apr 2013 15:23:13 +0100
+From: "Steve Smith \(Formations House\)" <steve@formationshouse.com>
+To: "'AMRIT S Gupta'" <sawrt@hotmail.co.uk>
+Cc: <krajani@oxbridgeventuresltd.com>,
+	<support@formationshouse.com>
+References: <DUB102-W9872B894DFA96E536E78FF1CB0@phx.gbl>
+In-Reply-To: <DUB102-W9872B894DFA96E536E78FF1CB0@phx.gbl>
+Subject: RE: Company Formations
+Date: Mon, 22 Apr 2013 19:26:32 +0500
+Message-ID: <003801ce3f65$649b9e10$2dd2da30$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0039_01CE3F8F.4D71A610"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac4/N+GKytYXBkt/SjirZswW+05dJQALVF+w
+Content-Language: en-us
+X-Spam-Status: X-Spam-Score: -1.9:
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0039_01CE3F8F.4D71A610
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear Tim
+
+ 
+
+ 
+
+Company Registrar is now finalizing the changes in the company information,
+as soon as we have an update from company registrar, we will then start
+processing rest of the documents.
+
+ 
+
+ 
+
+Regards
+
+ 
+
+Steve
+
+ 
+
+From: AMRIT S Gupta [mailto:sawrt@hotmail.co.uk] 
+Sent: Monday, April 22, 2013 2:01 PM
+To: steve@formationshouse.com
+Cc: krajani@oxbridgeventuresltd.com
+Subject: Company Formations
+
+ 
+
+Dear Steve
+
+Kindly provide me with an update on the respective company formations 
+Thank You
+Tim Amardeep Singh Gupta
+Managing Principle
+Argentum Capital Group
+Tel: 07716579106
+
+
+
+__________ Information from ESET NOD32 Antivirus, version of virus signature
+database 8229 (20130415) __________
+
+The message was checked by ESET NOD32 Antivirus.
+
+http://www.eset.com
+
+
+------=_NextPart_000_0039_01CE3F8F.4D71A610
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+
+
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Dear Tim<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Company Registrar is now finalizing the changes in the =
+company
+information, as soon as we have an update from company registrar, we =
+will then
+start processing rest of the documents.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Regards<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Steve<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<div>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> AMRIT S =
+Gupta
+[mailto:sawrt@hotmail.co.uk] <br>
+<b>Sent:</b> Monday, April 22, 2013 2:01 PM<br>
+<b>To:</b> steve@formationshouse.com<br>
+<b>Cc:</b> krajani@oxbridgeventuresltd.com<br>
+<b>Subject:</b> Company Formations<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'>Dear Steve<br>
+<br>
+Kindly provide me with an update on the respective company formations =
+<br>
+Thank You<br>
+Tim Amardeep Singh Gupta<br>
+Managing Principle<br>
+Argentum Capital Group<br>
+Tel: 07716579106<o:p></o:p></span></p>
+
+</div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'><br>
+<br>
+__________ Information from ESET NOD32 Antivirus, version of virus =
+signature
+database 8229 (20130415) __________<br>
+<br>
+The message was checked by ESET NOD32 Antivirus.<br>
+<br>
+<a =
+href=3D"http://www.eset.com">http://www.eset.com</a><o:p></o:p></span></p=
+>
+
+</div>
+
+ <BR><BR>__________ Information from ESET NOD32 Antivirus, version of =
+virus signature database 8253 (20130422) __________<BR><BR>The message =
+was checked by ESET NOD32 Antivirus.<BR><BR><A =
+HREF=3D"http://www.eset.com">http://www.eset.com</A><BR> </body>
+
+</html>
+
+------=_NextPart_000_0039_01CE3F8F.4D71A610--
+

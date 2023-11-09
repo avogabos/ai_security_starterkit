@@ -1,0 +1,5 @@
+Subject: Microsoft Office Outlook Test Message
+From: Microsoft Office Outlook <steve@formationshouse.com>
+To: Steve Smith (Formations House) <steve@formationshouse.com>
+
+This is an e-mail message sent automatically by Microsoft Office Outlook while testing the settings for your account.

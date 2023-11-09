@@ -1,0 +1,24 @@
+Date: Sat, 15 Apr 2017 21:16:27 +0100
+Subject: Warning: message 1cyOf5-0004l3-Db delayed 72 hours
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: steve@formationshouse.com
+
+This message was created automatically by mail delivery software.
+A message that you sent has not yet been delivered to one or more of its
+recipients after more than 72 hours on the queue on mailhub.infinidomains.com.
+
+The message identifier is:     1cyOf5-0004l3-Db
+The subject of the message is: Dolce Vita Games : Urgent Response Required
+The date of the message is:    Thu, 13 Apr 2017 01:16:04 +0500
+
+The address to which the message has not yet been delivered is:
+
+  iri.vagon@yahoo.it
+    Delay reason: SMTP error from remote mail server after MAIL FROM:<steve@formationshouse.com> SIZE=21981:
+    host mx-eu.mail.am0.yahoodns.net [188.125.69.79]:
+    421 4.7.0 [TSS04] Messages from 213.86.130.41 temporarily deferred due to user complaints - 4.16.55.1; see https://help.yahoo.com/kb/postmaster/SLN3434.html
+
+No action is required on your part. Delivery attempts will continue for
+some time, and this warning may be repeated at intervals if the message
+remains undelivered. Eventually the mail delivery software will give up,
+and when that happens, the message will be returned to you.

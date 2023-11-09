@@ -1,0 +1,218 @@
+Date: Wed, 31 Aug 2016 20:05:58 +0100
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: steve@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  myhighway91@live.com
+    SMTP error from remote mail server after RCPT TO:<myhighway91@live.com>:
+    host mx4.hotmail.com [65.55.92.168]: 550 Requested action not taken:
+    mailbox unavailable
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <steve@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1bfApe-0005yF-1d ; Wed, 31 Aug 2016 20:05:55 +0100
+Date: Wed, 31 Aug 2016 20:11:28 +0100
+To: myhighway91@live.com
+Cc: support@formationshouse.com
+From: steve@formationshouse.com
+Subject: UK Company Registration and Registered Address
+Message-ID: <f9959ff461b2e86c82724fb32930e537@www.infinioffice.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_f9959ff461b2e86c82724fb32930e537"
+
+
+--b1_f9959ff461b2e86c82724fb32930e537
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+<FONT>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Hello,<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Thank you for your interest in our services.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>In regards to your query about UK company formation, following are the details of our services.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>UK Company Formation:<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>The cost to register a private limited company in the UK is 50 GBP; the time required to complete the procedure is 3-4 working days.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>However, if you choose our Express formation service for additional 25 GBP, your company will be formed within 8 working hours (our working hours are 0900-1700 GMT). <o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>The company package includes:<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>- Company formation fee<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>- Domain name registration<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>- 1 free email address<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>- Preparation of Memorandum and Articles<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>- Hard copy of certificate of incorporation<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>- Online account to manage your company register (company documents)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>The minimum company requirements are as follows:<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>\u2022 *1 Human Director (can be of any nationality and can reside anywhere in the world)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>\u2022 **1 Shareholder (Director can also be a Shareholder)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>\u2022 Registered address in the UK (i.e. a valid postal address in England, Wales or Scotland).<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>*Corporate Director are not allowed<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>**Shareholders can be human and corporate entities (companies)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>To place an order for company formation:<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>- Go to http://www.formationshouse.com/ukcompany.php<BR>- Click on 'Order Now' button<BR>- Provide company name to be registered<BR>- Select any additional services if required<BR>- Provide your authorize contact information and to create Customer ID<BR>- Provide information on company director/s and shareholder/s<BR>- Verify given information and provide payment details to complete the order.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Once we have the order, payment and due diligence documents, company registration will complete in 2 working days.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Documents required for due diligence:<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Scan color copies of following documents are required for company beneficial owner/director/s and shareholder/s. Please make sure that scans are clear and in readable size and format.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Human Entity:<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>1. Proof of ID - Valid Passport (bearer signature must be visible)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>2. Proof of Residential Address - Last 3 months utility bills (water OR gas OR electricity) or latest personal bank/credit card statement. (date, name, address and account number must be visible)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>(Please do not send telephone, mobile, tv or internet bill, these are not acceptable.)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Corporate Entity:<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>1. Company Documents presenting beneficial owner name (Certificate of Incorporation, Memorandum and Articles)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>2. Proof of ID (Valid Passport) and Proof of Address (Last 3 months utility bills (water OR gas OR electricity) or latest personal bank/credit card statement.) of the beneficial owner of the Corporate body.(Please do not send telephone, mobile, tv or internet bill, these are not acceptable.)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>If the documents are not in English then you need to have them translated and notorized. And send original and translated copies.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Registered address service:<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>This service can be used to register a company in the UK if you cannot provide a valid UK postal address; the cost for this service is 25 GBP.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Please note, that this address will only be used for receiving official mail coming from Companies House; everything else will be returned to the sender. <o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>To place an order for this service, please click on the option available on the 2nd step of online ordering procedure.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>If you require further information or assistance you can contact me at info@formationshouse.com or steve@formationshouse.com or 0044-(0)207-016-2727 Monday to Friday 10am to 7pm GMT.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Regards<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Steve Smith<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>FORMATIONS HOUSE<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Phone : 0044-(0)207-016-2727<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Email: steve@formationshouse.com<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Website: www.formationshouse.com<o:p></o:p></FONT></SPAN></P><BR><BR><SPAN id=signSpan contentEditable=true name="signSpan"></SPAN>&nbsp;<BR><!--TEXTSTART--><SPAN id=questionSpan></SPAN><!--TEXTEND--><BR><!--LINKTAGSTARTSHERE--><BR><BR><SPAN id=signSpan contentEditable=true></SPAN></FONT><BR><BR><SPAN id=signSpan contentEditable=true name="signSpan"></SPAN>&nbsp;<br><!--TEXTSTART--><span id='questionSpan'></span><!--TEXTEND--><br><!--LINKTAGSTARTSHERE--><br><br><span id='signSpan' contenteditable='true'></span>
+
+
+--b1_f9959ff461b2e86c82724fb32930e537
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+<FONT>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Hello,<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Thank you for your interest in our services.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>In regards to your query about UK company formation, following are the details of our services.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>UK Company Formation:<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>The cost to register a private limited company in the UK is 50 GBP; the time required to complete the procedure is 3-4 working days.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>However, if you choose our Express formation service for additional 25 GBP, your company will be formed within 8 working hours (our working hours are 0900-1700 GMT). <o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>The company package includes:<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>- Company formation fee<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>- Domain name registration<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>- 1 free email address<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>- Preparation of Memorandum and Articles<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>- Hard copy of certificate of incorporation<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>- Online account to manage your company register (company documents)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>The minimum company requirements are as follows:<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>\u2022 *1 Human Director (can be of any nationality and can reside anywhere in the world)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>\u2022 **1 Shareholder (Director can also be a Shareholder)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>\u2022 Registered address in the UK (i.e. a valid postal address in England, Wales or Scotland).<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>*Corporate Director are not allowed<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>**Shareholders can be human and corporate entities (companies)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>To place an order for company formation:<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>- Go to http://www.formationshouse.com/ukcompany.php<BR>- Click on 'Order Now' button<BR>- Provide company name to be registered<BR>- Select any additional services if required<BR>- Provide your authorize contact information and to create Customer ID<BR>- Provide information on company director/s and shareholder/s<BR>- Verify given information and provide payment details to complete the order.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Once we have the order, payment and due diligence documents, company registration will complete in 2 working days.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Documents required for due diligence:<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Scan color copies of following documents are required for company beneficial owner/director/s and shareholder/s. Please make sure that scans are clear and in readable size and format.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Human Entity:<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>1. Proof of ID - Valid Passport (bearer signature must be visible)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>2. Proof of Residential Address - Last 3 months utility bills (water OR gas OR electricity) or latest personal bank/credit card statement. (date, name, address and account number must be visible)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>(Please do not send telephone, mobile, tv or internet bill, these are not acceptable.)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Corporate Entity:<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>1. Company Documents presenting beneficial owner name (Certificate of Incorporation, Memorandum and Articles)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>2. Proof of ID (Valid Passport) and Proof of Address (Last 3 months utility bills (water OR gas OR electricity) or latest personal bank/credit card statement.) of the beneficial owner of the Corporate body.(Please do not send telephone, mobile, tv or internet bill, these are not acceptable.)<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>If the documents are not in English then you need to have them translated and notorized. And send original and translated copies.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Registered address service:<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>This service can be used to register a company in the UK if you cannot provide a valid UK postal address; the cost for this service is 25 GBP.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Please note, that this address will only be used for receiving official mail coming from Companies House; everything else will be returned to the sender. <o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>To place an order for this service, please click on the option available on the 2nd step of online ordering procedure.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>If you require further information or assistance you can contact me at info@formationshouse.com or steve@formationshouse.com or 0044-(0)207-016-2727 Monday to Friday 10am to 7pm GMT.<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Regards<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Steve Smith<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>FORMATIONS HOUSE<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><o:p><FONT face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Phone : 0044-(0)207-016-2727<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Email: steve@formationshouse.com<o:p></o:p></FONT></SPAN></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNoSpacing><SPAN style="FONT-SIZE: 14pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin"><FONT face=Calibri>Website: www.formationshouse.com<o:p></o:p></FONT></SPAN></P><BR><BR><SPAN id=signSpan contentEditable=true name="signSpan"></SPAN>&nbsp;<BR><!--TEXTSTART--><SPAN id=questionSpan></SPAN><!--TEXTEND--><BR><!--LINKTAGSTARTSHERE--><BR><BR><SPAN id=signSpan contentEditable=true></SPAN></FONT><BR><BR><SPAN id=signSpan contentEditable=true name="signSpan"></SPAN>&nbsp;<br><!--TEXTSTART--><span id='questionSpan'></span><!--TEXTEND--><br><!--LINKTAGSTARTSHERE--><br><br><span id='signSpan' contenteditable='true'></span>
+
+
+
+--b1_f9959ff461b2e86c82724fb32930e537--
+
+

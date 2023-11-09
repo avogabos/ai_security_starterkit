@@ -1,0 +1,378 @@
+Date: Thu, 17 Aug 2017 09:31:25 +0800
+Subject: Undeliverable: RE: (New case) : Pros Energy International Limited -
+  ROC (Taiwan) Legalization
+From: <postmaster@newhavenhk.net>
+To: <sarah@formationshouse.com>
+
+Delivery has failed to these recipients or groups:
+
+wenhou@newhavenhk.net<mailto:wenhou@newhavenhk.net>
+The recipient's mailbox is full and can't accept messages now. Please try resending this message later, or contact the recipient directly.
+
+
+
+
+
+
+
+Diagnostic information for administrators:
+
+Generating server: newhavenhk.net
+
+wenhou@newhavenhk.net
+#554-5.2.2 mailbox full 554 5.2.2 STOREDRV.Deliver.Exception:QuotaExceededException.MapiExceptionShutoffQuotaExceeded; Failed to process message due to a permanent exception with message Cannot open mailbox /o=ATCP/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=EXCHANGE/cn=Microsoft System Attendant. 16.55847:B4000000, 17.43559:0000000048010000000000000000000000000000, 255.23226:2B0A0000, 255.27962:FE000000, 255.17082:DD040000, 0.26937:00000000, 4.21921:DD040000, 255.27962:FA000000, 255.1494:00000000, 255.26426:FE000000, 2.22787:00000000, 4.13032:0F010480, 0.25848:0F010480, 4.7588:0F010480, 0.25840:B0841336, 4.6564:0F010480, 0.22086:03006F80, 4.23921:EC030000, 6.21970:0F01048040000C68B0840130, 4.23921:EC030000, 6.21970:0F01048000806F670F010480, 4.24305:0F010480, 4.5721:DD040000, 4.6489:DD040000, 0.34743:0F010480, 4.2199:DD040000, 0.56415:03001D30, 4.48223:DD040000, 4.17097:DD040000, 4.8620:DD040000, 255.1750:0F010480, 0.26849:13800000, 255.21817:DD040000, 0.26297:00000000, 4.16585:DD040000, 0.32441:00000000, 4.1706:DD040000, 0.24761:0E000000, 4.20665:DD040000, 0.25785:00000000, 4.29881:DD040000 ##
+
+Original message headers:
+
+Received: from barracuda.newhavenhk.net (192.168.100.95) by
+ Exchange.ATCP.local (192.168.100.3) with Microsoft SMTP Server id 14.3.123.3;
+ Thu, 17 Aug 2017 09:31:19 +0800
+X-ASG-Debug-ID: 1502933467-0e4e18236000210001-VVZLYG
+Received: from mailhub.infinidomains.com (mailhub.infinidomains.com
+ [217.174.241.172]) by barracuda.newhavenhk.net with ESMTP id
+ M0E7G9s3vO202YpZ; Thu, 17 Aug 2017 09:31:10 +0800 (HKT)
+X-Barracuda-Envelope-From: sarah@formationshouse.com
+X-Barracuda-Effective-Source-IP: mailhub.infinidomains.com[217.174.241.172]
+X-Barracuda-Apparent-Source-IP: 217.174.241.172
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id
+ 1di0Ut-0001BV-In ; Wed, 16 Aug 2017 16:45:01 +0100
+From: Sarah <sarah@formationshouse.com>
+To: 'Lewis Li' <lewisli@newhavenhk.net>, 'Admin '
+        <londonadmin@formationshouse.com>
+CC: 'tw.info' <tw.info@newhavenhk.net>
+References: <F04974193D76104BBAA79AC773364E61ECB73F69@exchange>
+In-Reply-To: <F04974193D76104BBAA79AC773364E61ECB73F69@exchange>
+Subject: RE: (New case) : Pros Energy International Limited -  ROC (Taiwan) Legalization
+Date: Wed, 16 Aug 2017 20:47:25 +0500
+X-ASG-Orig-Subj: RE: (New case) : Pros Energy International Limited -  ROC (Taiwan) Legalization
+Message-ID: <005f01d316a6$f5ec90a0$e1c5b1e0$@com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+        boundary="----=_NextPart_000_0060_01D316D0.DEC298A0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdMWRwvxaOoppsN7SWONl8nXevluqwAVh97g
+Content-Language: en-us
+X-Spam-Status: X-Spam-Score: 0.0:
+X-Barracuda-Connect: mailhub.infinidomains.com[217.174.241.172]
+X-Barracuda-Start-Time: 1502933469
+X-Barracuda-URL: https://bar.newhavenhk.net:443/cgi-mod/mark.cgi
+X-Barracuda-Scan-Msg-Size: 44458
+X-Virus-Scanned: by bsmtpd at newhavenhk.net
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.40
+X-Barracuda-Spam-Status: No, SCORE=0.40 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=3.5 KILL_LEVEL=1000.0 tests=BSF_SC0_SA090e, HTML_MESSAGE, INFO_TLD
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.42023
+        Rule breakdown below
+         pts rule name              description
+        ---- ---------------------- --------------------------------------------------
+        0.00 INFO_TLD               URI: Contains an URL in the INFO top-level domain
+        0.00 HTML_MESSAGE           BODY: HTML included in message
+        0.40 BSF_SC0_SA090e         Custom Rule SA090e
+Return-Path: sarah@formationshouse.com
+X-EsetResult: clean, is OK
+X-EsetId: 37303A295700AC63617760
+X-Auto-Response-Suppress: DR, OOF, AutoReply
+
+Delivery has failed to these recipients or groups:
+wenhou@newhavenhk.net
+The recipient's mailbox is full and can't accept messages now. Please try resending this message later, or contact the recipient directly.
+Diagnostic information for administrators:
+Generating server: newhavenhk.net
+wenhou@newhavenhk.net
+#554-5.2.2 mailbox full
+554 5.2.2 STOREDRV.Deliver.Exception:QuotaExceededException.MapiExceptionShutoffQuotaExceeded; Failed to process message due to a permanent exception with message Cannot open mailbox /o=ATCP/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=EXCHANGE/cn=Microsoft System Attendant. 16.55847:B4000000, 17.43559:0000000048010000000000000000000000000000, 255.23226:2B0A0000, 255.27962:FE000000, 255.17082:DD040000, 0.26937:00000000, 4.21921:DD040000, 255.27962:FA000000, 255.1494:00000000, 255.26426:FE000000, 2.22787:00000000, 4.13032:0F010480, 0.25848:0F010480, 4.7588:0F010480, 0.25840:B0841336, 4.6564:0F010480, 0.22086:03006F80, 4.23921:EC030000, 6.21970:0F01048040000C68B0840130, 4.23921:EC030000, 6.21970:0F01048000806F670F010480, 4.24305:0F010480, 4.5721:DD040000, 4.6489:DD040000, 0.34743:0F010480, 4.2199:DD040000, 0.56415:03001D30, 4.48223:DD040000, 4.17097:DD040000, 4.8620:DD040000, 255.1750:0F010480, 0.26849:13800000, 255.21817:DD040000, 0.26297:00000000, 4.16585:DD040000, 0.32441:00000000, 4.1706:DD040000, 0.24761:0E000000, 4.20665:DD040000, 0.25785:00000000, 4.29881:DD040000 ##
+Original message headers:
+Received: from barracuda.newhavenhk.net (192.168.100.95) by
+ Exchange.ATCP.local (192.168.100.3) with Microsoft SMTP Server id 14.3.123.3;
+ Thu, 17 Aug 2017 09:31:19 +0800
+X-ASG-Debug-ID: 1502933467-0e4e18236000210001-VVZLYG
+Received: from mailhub.infinidomains.com (mailhub.infinidomains.com
+ [217.174.241.172]) by barracuda.newhavenhk.net with ESMTP id
+ M0E7G9s3vO202YpZ; Thu, 17 Aug 2017 09:31:10 +0800 (HKT)
+X-Barracuda-Envelope-From: sarah@formationshouse.com
+X-Barracuda-Effective-Source-IP: mailhub.infinidomains.com[217.174.241.172]
+X-Barracuda-Apparent-Source-IP: 217.174.241.172
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id
+ 1di0Ut-0001BV-In ; Wed, 16 Aug 2017 16:45:01 +0100
+From: Sarah <sarah@formationshouse.com>
+To: 'Lewis Li' <lewisli@newhavenhk.net>, 'Admin '
+	<londonadmin@formationshouse.com>
+CC: 'tw.info' <tw.info@newhavenhk.net>
+References: <F04974193D76104BBAA79AC773364E61ECB73F69@exchange>
+In-Reply-To: <F04974193D76104BBAA79AC773364E61ECB73F69@exchange>
+Subject: RE: (New case) : Pros Energy International Limited -  ROC (Taiwan) Legalization
+Date: Wed, 16 Aug 2017 20:47:25 +0500
+X-ASG-Orig-Subj: RE: (New case) : Pros Energy International Limited -  ROC (Taiwan) Legalization
+Message-ID: <005f01d316a6$f5ec90a0$e1c5b1e0$@com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0060_01D316D0.DEC298A0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdMWRwvxaOoppsN7SWONl8nXevluqwAVh97g
+Content-Language: en-us
+X-Spam-Status: X-Spam-Score: 0.0:
+X-Barracuda-Connect: mailhub.infinidomains.com[217.174.241.172]
+X-Barracuda-Start-Time: 1502933469
+X-Barracuda-URL: https://bar.newhavenhk.net:443/cgi-mod/mark.cgi
+X-Barracuda-Scan-Msg-Size: 44458
+X-Virus-Scanned: by bsmtpd at newhavenhk.net
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.40
+X-Barracuda-Spam-Status: No, SCORE=0.40 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=3.5 KILL_LEVEL=1000.0 tests=BSF_SC0_SA090e, HTML_MESSAGE, INFO_TLD
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.42023
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 INFO_TLD               URI: Contains an URL in the INFO top-level domain
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.40 BSF_SC0_SA090e         Custom Rule SA090e
+Return-Path: sarah@formationshouse.com
+X-EsetResult: clean, is OK
+X-EsetId: 37303A295700AC63617760
+X-Auto-Response-Suppress: DR, OOF, AutoReplyDear Lewis,
+
+ 
+
+Thank you for your email.
+
+
+
+RE: TAIWAN LEGALIZATION:
+
+ 
+
+Please find attached the invoice for the order. kindly email us the payment proof along once the payment is made so that we may track it.
+
+ 
+
+Also note that as per your confirmation the Incorporation Certificate, Form INO1 AND Form CS01 will be notarized by a public notary and then legalized by Taiwan Embassy.
+
+ 
+
+Please kindly fill out the form (link below) and have the client sign. The signature must be notarised as genuine by UK/Taiwan notary public or R.O.C. overseas missions. 
+
+ 
+
+http://www.taiwanembassy.org/uploads/sites/172/2015/10/Letter-of-Authorisation.pdf
+
+ 
+
+Once done please kindly scan and email back and we will provide you the correct address to send the original too. 
+
+1.       A power of attorney or authorisation letter signed by the applicant (please note: the applicant’s signature must be notarised as genuine by a UK or Taiwan Notary Public or an R.O.C. overseas mission). 
+
+2.       The Letter of Authorisation <http://www.roc-taiwan.org/uploads/sites/172/2015/10/Letter-of-Authorisation.pdf>  is attached.
+
+The TRO does not accept alternative formats.
+
+I hope above information is satisfactory. If you require further information or assistance, please feel free to E-mail.
+
+We look forward to hearing from you soon.
+
+Best Regards,
+
+Sarah
+Formations House
+
+ 
+
+ 
+
+From: Lewis Li [mailto:lewisli@newhavenhk.net] 
+Sent: Wednesday, August 16, 2017 9:38 AM
+To: Admin 
+Cc: tw.info; Sarah
+Subject: (New case) : Pros Energy International Limited - ROC (Taiwan) Legalization
+
+ 
+
+Dear Admin,
+
+ 
+
+Please use the following Three documents (total of 3 documents as 1 set) to be notarized and apostilled then submit the same to ROC Embassy for legalization:-
+
+ 
+
+1.          Certificate of Incorporation ; 
+
+2.          Form IN01;and
+
+3.          Form CS01
+
+ 
+
+In the meantime, kindly find attached the following documents for your further handling:-
+
+ 
+
+l   Copy of the Authorization Letter;
+
+l   ID card and Passport copy of Mr. Wu;
+
+ 
+
+Once the document is apostilled, please email the scan copy for us before send to ROC embassy.
+
+ 
+
+Kindly also provide your invoice for our arrange payment.
+
+ 
+
+ 
+
+ 
+
+Should you have any questions, please feel free to contact us.
+
+ 
+
+Thank you.
+
+ 
+
+Best regards,
+
+Lewis
+
+ 
+
+Please note that Briefing note and FAQs on the changes in BVI are now available at Newhaven website:- 
+
+(i)                 Briefing Note        <http://www.newhavengroup.net/sites/default/files/Newhaven%20BVI%20Business%20Companies%20%28Amendment%29%20Act%202016_0.pdf> www.newhavengroup.net/sites/default/files/Newhaven%20BVI%20Business%20Companies%20%28Amendment%29%20Act%202016_0.pdf
+
+(ii)               FAQ      <http://www.newhavengroup.net/sites/default/files/Newhaven%20BVI%20Business%20Companies%20%28Amendment%29%20Act%202016.%20FAQ%20Feb%202016.pdf> www.newhavengroup.net/sites/default/files/Newhaven%20BVI%20Business%20Companies%20%28Amendment%29%20Act%202016.%20FAQ%20Feb%202016.pdf
+
+________________________________________________________________________________
+
+Lewis Li
+Assistant , Sales & Marketing
+
+ 
+
+5F., No.172, Sec. 2, 
+Nanjing E. Rd., Zhongshan Dist., 
+Taipei City, Taiwan
+
+Direct +886 2 25060255
+Tel: +886 2 25060233
+Fax: +886 2 81927286
+
+lewisli@newhavenhk.net <mailto:sunnychen@newhavenhk.net> 
+
+www.newhavengroup.net <http://www.newhavengroup.net/>  
+
+  <http://www.newhavengroup.net/> cid:image002.jpg@01D13BE1.8621FDB0
+
+ 
+
+NEWHAVEN GROUP
+This email is confidential and subject to our  <http://newhavengroup.net/disclaimer> disclaimer
+
+Dear Lewis,
+Thank you for your email.
+RE: TAIWAN LEGALIZATION:
+Please find attached the invoice for the order.
+kindly
+email us the payment proof along once the payment is made so that we may track
+it.
+Also note that as per your confirmation the Incorporation
+Certificate, Form INO1 AND
+Form CS01
+will
+be notarized by a public notary and then legalized by Taiwan Embassy.
+P
+lease
+kindly fill out the form (link below) and have the client sign. The signature
+must be notarised as genuine by UK/Taiwan notary public or R.O.C. overseas
+missions.
+http://www.taiwanembassy.org/uploads/sites/172/2015/10/Letter-of-Authorisation.pdf
+Once
+done please kindly scan and email back and we will provide you the correct
+address to send the original too.
+1.
+A power of attorney or authorisation letter
+signed by the applicant (please note: the applicant’s signature must be
+notarised as genuine by
+a UK
+or Taiwan
+Notary Public or an R.O.C. overseas mission).
+2.
+The
+Letter of Authorisation
+is
+attached.
+The TRO does not accept alternative formats.
+I hope above information is satisfactory. If you require further
+information or assistance, please feel free to E-mail.
+We look forward to hearing from you soon.
+Best Regards,
+Sarah
+Formations House
+From:
+Lewis Li
+[mailto:lewisli@newhavenhk.net]
+Sent:
+Wednesday, August 16, 2017 9:38 AM
+To:
+Admin
+Cc:
+tw.info; Sarah
+Subject:
+(New case) : Pros Energy International Limited - ROC (Taiwan)
+Legalization
+Dear Admin,
+Please use the following Three documents (total of 3
+documents as 1 set) to be notarized and apostilled then submit the same to
+ROC
+Embassy for legalization
+:-
+1.
+Certificate of Incorporation ;
+2.
+Form IN01;and
+3.
+Form CS01
+In the meantime, kindly find attached the following
+documents for your further handling:-
+l
+Copy of the
+Authorization Letter;
+l
+ID card and Passport
+copy of Mr. Wu;
+Once the document is apostilled, please email the scan copy
+for us before send to ROC embassy.
+Kindly also provide your invoice for our arrange payment.
+Should you have any questions, please feel free to contact
+us.
+Thank you.
+Best regards,
+Lewis
+Please note that Briefing note and FAQs on
+the changes in BVI are now available at Newhaven website:-
+(i)                
+Briefing Note
+www.newhavengroup.net/sites/default/files/Newhaven%20BVI%20Business%20Companies%20%28Amendment%29%20Act%202016_0.pdf
+(ii)              
+FAQ
+www.newhavengroup.net/sites/default/files/Newhaven%20BVI%20Business%20Companies%20%28Amendment%29%20Act%202016.%20FAQ%20Feb%202016.pdf
+________________________________________________________________________________
+Lewis Li
+Assistant , Sales & Marketing
+5F., No.172, Sec. 2,
+Nanjing E. Rd., Zhongshan Dist.,
+Taipei City, Taiwan
+Direct +886 2 25060255
+Tel: +886 2 25060233
+Fax: +886 2 81927286
+lewisli@newhavenhk.net
+www.newhavengroup.net
+NEWHAVEN GROUP
+This
+email is confidential and subject to our
+disclaimer
+__________ Information from ESET NOD32 Antivirus, version of detection engine 15546 (20170607) __________
+The message was checked by ESET NOD32 Antivirus.
+http://www.eset.com

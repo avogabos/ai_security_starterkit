@@ -1,0 +1,164 @@
+Date: Sat, 12 Aug 2017 13:14:19 +0100
+Subject: FW: Barbican Corporate Finance Emails
+From: "Philip Kaye" <philip.kaye@btinternet.com>
+To: <support@formationshouse.com>
+CC: "'Sarah'" <sarah@formationshouse.com>,
+	"'Charlotte Pawar'" <charlotte@formationshouse.com>,
+	"'Darius Khan'" <dk@infiniapp.com>,
+	"'nadya crawford'" <londonadmin@formationshouse.com>
+
+Dear Sir/Madam
+
+ 
+
+I have received no response from you regarding my email below. 
+
+ 
+
+I repeat again:  My email issues have still not been resolved. I still cannot login for all the reasons I have clearly set out in my email  to you below.
+
+ 
+
+Please resolve these above issues for me ASAP.
+
+ 
+
+Please confirm to me that you have received this email.
+
+ 
+
+Regards
+
+ 
+
+Philip Kaye
+
+ 
+
+ 
+
+From: Philip Kaye [mailto:philip.kaye@btinternet.com] 
+Sent: Monday, July 31, 2017 1:48 PM
+To: 'support@formationshouse.com'
+Cc: 'Elliot B'
+Subject: RE: Barbican Corporate Finance Emails
+
+ 
+
+Dear Sir/Madam
+
+ 
+
+Thank you for your message.
+
+ 
+
+My email issues have not been resolved. I still cannot login! 
+
+ 
+
+I am correctly using my original userid and password.  I AM NOT USING THE WRONG PASSWORD! 
+
+ 
+
+I have tried using the “Forgot password tab on the My Account Screen (i.e. ” If you have forgotten your userid and password, we can send it to your email address”) but nothing happens. Instead, I receive a message from the system informing me that my email address is invalid! This is obviously nonsense as we are currently communicating with each other using this email address! 
+
+ 
+
+Please resolve these above issues for me ASAP.
+
+ 
+
+Please confirm.
+
+ 
+
+Regards
+
+ 
+
+Philip Kaye
+
+ 
+
+ 
+
+From: support@formationshouse.com [mailto:support@formationshouse.com] 
+Sent: Monday, July 31, 2017 11:54 AM
+To: philip.kaye@btinternet.com
+Subject: Re:FW: Barbican Corporate Finance Emails
+
+ 
+
+Dear Customer,
+
+Thank you for your email.
+
+This is to inform you that the issues regarding the email server have been resolved. All the email accounts are now operating successfully.
+
+We have checked that login for philip.kaye@barbicancorporatefinance.co.uk on IMAP is failed due to wrong password. Also we have checked your email account on Web Check and it is successfully accessed.
+
+For our information kindly send us the screenshots of the HTTP 500 error so that we may have look into this issue (if found) once again and have it resolved.
+
+We look forward to hear from you.
+
+If you need any further assistance do not hesitate to contact us.
+
+Kind Regards,
+
+Customer Support
+Formations House 
+
+Dear Sir/Madam
+I have received no response from you regarding my email below.
+I repeat again:  My email issues have still not been resolved. I still cannot login for all the reasons I have clearly set out in my email  to you below.
+Please resolve these above issues for me ASAP.
+Please confirm to me that you have received this email.
+Regards
+Philip Kaye
+From:
+Philip Kaye [mailto:philip.kaye@btinternet.com]
+Sent:
+Monday, July 31, 2017 1:48 PM
+To:
+'support@formationshouse.com'
+Cc:
+'Elliot B'
+Subject:
+RE: Barbican Corporate Finance Emails
+Dear Sir/Madam
+Thank you for your message.
+My email issues have not been resolved. I still cannot login
+!
+I am correctly using my original userid and password.  I AM NOT USING THE WRONG PASSWORD!
+I have tried using the “Forgot password tab on the My Account Screen (i.e. ”
+If you have forgotten your userid and password, we can send it to your email address”)
+but nothing happens. Instead, I receive a message from the system informing me that my email address is invalid!
+This is obviously nonsense as we are currently communicating with each other using this email address!
+Please resolve these above issues for me ASAP.
+Please confirm.
+Regards
+Philip Kaye
+From:
+support@formationshouse.com
+[
+mailto:support@formationshouse.com
+]
+Sent:
+Monday, July 31, 2017 11:54 AM
+To:
+philip.kaye@btinternet.com
+Subject:
+Re:FW: Barbican Corporate Finance Emails
+Dear Customer,
+Thank you for your email.
+This is to inform you that the issues regarding the email server have been resolved. All the email accounts are now operating successfully.
+We have checked that login for
+philip.kaye@barbicancorporatefinance.co.uk
+on IMAP is failed due to wrong password. Also we have checked your email account on Web Check and it is successfully accessed.
+For our information kindly send us the screenshots of the HTTP 500 error so that we may have look into this issue (if found) once again and have it resolved.
+We look forward to hear from you.
+If you need any further assistance do not hesitate to contact us.
+Kind Regards,
+Customer Support
+Formations House

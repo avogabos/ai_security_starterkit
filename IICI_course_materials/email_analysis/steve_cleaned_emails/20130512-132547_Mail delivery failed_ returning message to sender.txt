@@ -1,0 +1,408 @@
+Date: Sun, 12 May 2013 13:25:47 +0100
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: steve@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  Aleksandrs.Frolovs@AdvancedCloudSolutions.co.uk
+    retry timeout exceeded
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <steve@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1Ua34B-00045J-Go 
+	for <Aleksandrs.Frolovs@AdvancedCloudSolutions.co.uk>; Wed, 08 May 2013 13:01:52 +0100
+From: "Steve Smith \(Formations House\)" <steve@formationshouse.com>
+To: "'Aleksandrs Frolovs'" <Aleksandrs.Frolovs@AdvancedCloudSolutions.co.uk>
+References: <CDAEE9B1.37F5%aleksandrs.frolovs@advancedcloudsolutions.co.uk>
+In-Reply-To: <CDAEE9B1.37F5%aleksandrs.frolovs@advancedcloudsolutions.co.uk>
+Subject: RE: Aleksandrs Frolovs Bank Form
+Date: Wed, 8 May 2013 17:05:31 +0500
+Message-ID: <000001ce4be4$57c184d0$07448e70$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0001_01CE4C0E.40978CD0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AQHOSz+W2jsMAMgdskuY0IOJLBHX3Jj7MXXg
+Content-Language: en-us
+X-Spam-Status: X-Spam-Score: -1.9:
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0001_01CE4C0E.40978CD0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear Aleks
+
+ 
+
+ 
+
+Following are the answers to your queries.
+
+ 
+
+1.      You need to provide information for Gatex Limited.
+
+2.      Yes you can mention Advanced Cloud Solutions
+
+3.      Gatex Limited is an offshore company for we will open an offshore
+bank account, not a UK bank account.
+
+ 
+
+ 
+
+Regards
+
+ 
+
+Steve
+
+ 
+
+From: Aleksandrs Frolovs
+[mailto:Aleksandrs.Frolovs@AdvancedCloudSolutions.co.uk] 
+Sent: Tuesday, May 07, 2013 9:26 PM
+To: steve@formationshouse.com
+Cc: Chris Foot
+Subject: Aleksandrs Frolovs Bank Form
+
+ 
+
+Hi Steve,
+
+ 
+
+I'm currently completing "Bank Account from" I have several question. Please
+find them below. 
+
+1.	Business information section do I need to provide Gatex or Advanced
+cloud solutions llp information ?
+2.	Remitter Information - I we do not have any clients yet or I Should
+specify "Advanced Cloud Solutions" ?
+3.	Questioner is this information is for UK Bank ?
+
+Thanks 
+
+ 
+
+Aleks
+
+
+
+__________ Information from ESET NOD32 Antivirus, version of virus signature
+database 8281 (20130430) __________
+
+The message was checked by ESET NOD32 Antivirus.
+
+http://www.eset.com
+
+
+------=_NextPart_000_0001_01CE4C0E.40978CD0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+
+
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.EmailStyle17
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1728725167;
+	mso-list-type:hybrid;
+	mso-list-template-ids:826718524 67698703 67698713 67698715 67698703 =
+67698713 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1
+	{mso-list-id:2007660930;
+	mso-list-template-ids:2127209160;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple style=3D'word-wrap: =
+break-word;
+-webkit-nbsp-mode: space;-webkit-line-break: after-white-space'>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'>Dear =
+Aleks<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'><o:p>&nbsp;</o:p></span></p>=
+
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'><o:p>&nbsp;</o:p></span></p>=
+
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'>Following
+are the answers to your queries.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'><o:p>&nbsp;</o:p></span></p>=
+
+
+<p class=3DMsoListParagraph style=3D'text-indent:-.25in;mso-list:l0 =
+level1 lfo2'><![if !supportLists]><span
+style=3D'font-family:"Calibri","sans-serif"'><span =
+style=3D'mso-list:Ignore'>1.<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span
+style=3D'font-family:"Calibri","sans-serif"'>You need to provide =
+information for </span><span
+style=3D'font-family:"Calibri","sans-serif"'>Gatex Limited.</span><span
+style=3D'font-family:"Calibri","sans-serif"'><o:p></o:p></span></p>
+
+<p class=3DMsoListParagraph style=3D'text-indent:-.25in;mso-list:l0 =
+level1 lfo2'><![if !supportLists]><span
+style=3D'font-family:"Calibri","sans-serif"'><span =
+style=3D'mso-list:Ignore'>2.<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span
+style=3D'font-family:"Calibri","sans-serif"'>Yes you can mention =
+</span><span
+style=3D'font-family:"Calibri","sans-serif"'>Advanced Cloud =
+Solutions</span><span
+style=3D'font-family:"Calibri","sans-serif"'><o:p></o:p></span></p>
+
+<p class=3DMsoListParagraph style=3D'text-indent:-.25in;mso-list:l0 =
+level1 lfo2'><![if !supportLists]><span
+style=3D'font-family:"Calibri","sans-serif"'><span =
+style=3D'mso-list:Ignore'>3.<span
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span
+style=3D'font-family:"Calibri","sans-serif"'>Gatex Limited</span><span
+style=3D'font-family:"Calibri","sans-serif"'> is an offshore company for =
+we will
+open an offshore bank account, not a UK bank account.</span><span
+style=3D'font-family:"Calibri","sans-serif"'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'><o:p>&nbsp;</o:p></span></p>=
+
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'><o:p>&nbsp;</o:p></span></p>=
+
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'>Regards<o:p></o:p></span></p=
+>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'><o:p>&nbsp;</o:p></span></p>=
+
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'>Steve<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<div>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Aleksandrs =
+Frolovs
+[mailto:Aleksandrs.Frolovs@AdvancedCloudSolutions.co.uk] <br>
+<b>Sent:</b> Tuesday, May 07, 2013 9:26 PM<br>
+<b>To:</b> steve@formationshouse.com<br>
+<b>Cc:</b> Chris Foot<br>
+<b>Subject:</b> Aleksandrs Frolovs Bank Form<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";
+color:black'>Hi Steve,<o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";
+color:black'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";
+color:black'>I'm currently completing &quot;Bank Account from&quot; I =
+have
+several question. Please find them below.&nbsp;<o:p></o:p></span></p>
+
+</div>
+
+<ol start=3D1 type=3D1>
+ <li class=3DMsoNormal =
+style=3D'color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;mso-list:l1 level1 lfo1'><span =
+style=3D'font-size:10.5pt;font-family:
+     "Calibri","sans-serif"'>Business information section do I need to =
+provide
+     Gatex or Advanced cloud solutions llp information =
+?<o:p></o:p></span></li>
+ <li class=3DMsoNormal =
+style=3D'color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;mso-list:l1 level1 lfo1'><span =
+style=3D'font-size:10.5pt;font-family:
+     "Calibri","sans-serif"'>Remitter Information &#8211; I we do not =
+have any
+     clients yet or I Should specify &quot;Advanced Cloud =
+Solutions&quot; ?<o:p></o:p></span></li>
+ <li class=3DMsoNormal =
+style=3D'color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;mso-list:l1 level1 lfo1'><span =
+style=3D'font-size:10.0pt;font-family:
+     "Verdana","sans-serif";background:white'>Questioner&nbsp;is this
+     information is for UK Bank ?</span><span style=3D'font-size:10.5pt;
+     font-family:"Calibri","sans-serif"'><o:p></o:p></span></li>
+</ol>
+
+<div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";
+color:black'>Thanks&nbsp;<o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";
+color:black'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";
+color:black'>Aleks<o:p></o:p></span></p>
+
+</div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;font-family:"Calibri","sans-serif";
+color:black'><br>
+<br>
+__________ Information from ESET NOD32 Antivirus, version of virus =
+signature
+database 8281 (20130430) __________<br>
+<br>
+The message was checked by ESET NOD32 Antivirus.<br>
+<br>
+<a =
+href=3D"http://www.eset.com">http://www.eset.com</a><o:p></o:p></span></p=
+>
+
+</div>
+
+ <BR><BR>__________ Information from ESET NOD32 Antivirus, version of =
+virus signature database 8281 (20130430) __________<BR><BR>The message =
+was checked by ESET NOD32 Antivirus.<BR><BR><A =
+HREF=3D"http://www.eset.com">http://www.eset.com</A><BR> </body>
+
+</html>
+
+------=_NextPart_000_0001_01CE4C0E.40978CD0--
+

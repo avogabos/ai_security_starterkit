@@ -1,0 +1,19 @@
+Date: Thu, 12 Sep 2013 10:08:42 +0200
+Subject: Merchant account Goldstar
+From: Branislav Čizmić  <branislavcizmic@gmail.com>
+To: <steve@formationshouse.com>
+CC: Branislav Jergović <brana@goldstarinvest.com>
+
+Dear Steve,
+
+According conversation with Mr. Jergovic can you please send us technical
+documentation for implementation of your payment processor?
+
+Thanks and best regards,
+
+Branislav Cizmic.
+
+Dear Steve,
+According conversation with Mr. Jergovic can you please send us technical documentation for implementation of your payment processor?
+Thanks and best regards,
+Branislav Cizmic.

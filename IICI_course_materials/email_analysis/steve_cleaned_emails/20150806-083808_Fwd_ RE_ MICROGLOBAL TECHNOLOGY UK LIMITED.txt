@@ -1,0 +1,167 @@
+Date: Thu, 6 Aug 2015 08:38:08 +0100
+Subject: Fwd: RE: MICROGLOBAL TECHNOLOGY UK LIMITED
+From: offshore <offshoreorders@formationshouse.com>
+To: steve@formationshouse.com
+
+
+Hi Steve,<br><br>Please find attached the draft of incumbency certificate, Get this approved by the client and than ill inform agents to process it.<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:\u65b0\u7d30\u660e\u9ad4;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:\u65b0\u7d30\u660e\u9ad4;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;}
+@font-face
+	{font-family:"\@\u65b0\u7d30\u660e\u9ad4";
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"\u8a3b\u89e3\u65b9\u584a\u6587\u5b57 \u5b57\u5143";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Cambria","serif";}
+span.a
+	{mso-style-name:"\u8a3b\u89e3\u65b9\u584a\u6587\u5b57 \u5b57\u5143";
+	mso-style-priority:99;
+	mso-style-link:\u8a3b\u89e3\u65b9\u584a\u6587\u5b57;
+	font-family:"Cambria","serif";}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Times New Roman","serif";
+	color:blue;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1054085336;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-646271878 -670238966 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:\uf0b7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:42.0pt;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:11.0pt;
+	font-family:Symbol;
+	mso-fareast-font-family:\u65b0\u7d30\u660e\u9ad4;
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\uf06e;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-24.0pt;
+	font-family:Wingdings;}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\uf075;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:96.0pt;
+	text-indent:-24.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\uf06c;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:120.0pt;
+	text-indent:-24.0pt;
+	font-family:Wingdings;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\uf06e;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:144.0pt;
+	text-indent:-24.0pt;
+	font-family:Wingdings;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\uf075;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-24.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\uf06c;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:192.0pt;
+	text-indent:-24.0pt;
+	font-family:Wingdings;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\uf06e;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:216.0pt;
+	text-indent:-24.0pt;
+	font-family:Wingdings;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\uf075;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:240.0pt;
+	text-indent:-24.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><div><br>Regards,</div><div>Rachel</div>&nbsp;<br><!--TEXTSTART--><span id='questionSpan'></span><!--TEXTEND--><br><!--LINKTAGSTARTSHERE--><br><br><span id='signSpan' contenteditable='true'></span>
+
+Hi Steve,
+Please find attached the draft of incumbency certificate, Get this approved by the client and than ill inform agents to process it.
+Regards,
+Rachel

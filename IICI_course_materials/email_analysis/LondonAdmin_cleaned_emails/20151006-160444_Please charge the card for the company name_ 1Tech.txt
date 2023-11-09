@@ -1,0 +1,66 @@
+Date: Tue, 6 Oct 2015 16:04:44 +0500
+Subject: Please charge the card for the company name: 1Tech
+From: "Michael Gomes" <michaelgomes@formationshouse.com>
+To: <londonadmin@formationshouse.com>
+
+Dear Nadya,
+
+ 
+
+Please charge the card details below with 450 GBP.
+
+ 
+
+Company Name: 1Tech
+
+Customer ID: 42107878
+
+ 
+
+Card Type: Visa Debit
+
+Card Number: 4462612345036375
+
+Billing Address: 29 Harley Street W1G 9QR
+
+Card Holder's name: Jamie Roberts
+
+Expiry date: 03/16
+
+CCV Code: 703
+
+Amount: 450 GBP (Renewal phone/fax & mail forwarding for 12 months)
+
+ 
+
+Tel: 07932161418
+
+Jamie Roberts
+
+ 
+
+Thanks & Regards,
+
+ 
+
+Michael
+
+Dear Nadya,
+Please charge the card details below with 450 GBP.
+Company Name: 1Tech
+Customer ID: 42107878
+Card Type: Visa Debit
+Card Number: 4462612345036375
+Billing Address: 29 Harley Street W1G 9QR
+Card Holder's name: Jamie Roberts
+Expiry date: 03/16
+CCV Code: 703
+Amount: 450 GBP (Renewal phone/fax & mail forwarding for
+12 months)
+Tel: 07932161418
+Jamie Roberts
+Thanks & Regards,
+Michael
+__________ Information from ESET NOD32 Antivirus, version of virus signature database 12347 (20151002) __________
+The message was checked by ESET NOD32 Antivirus.
+http://www.eset.com

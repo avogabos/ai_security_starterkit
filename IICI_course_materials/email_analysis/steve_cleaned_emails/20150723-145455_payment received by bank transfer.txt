@@ -1,0 +1,34 @@
+Date: Thu, 23 Jul 2015 14:54:55 +0500
+Subject: payment received by bank transfer
+From: "Rachel" <rachel@formationshouse.com>
+To: "'Steve Smith \(Formations House\)'" <steve@formationshouse.com>
+
+Hi payment has been received by bank transfer:
+
+ 
+
+22/07/2015
+
+ TRANSFER FROM BARSOTTI ALESSANDRO VIA DEL BRENNER. REF: 0015 5988 696
+0126389
+
+ 920 - BALANCE ADJUSTMENT - CREDIT
+
+  365.00 GBP
+
+ GBP
+
+ 
+
+ 
+
+Send me the order no
+
+Hi payment has been received by bank transfer:
+22/07/2015
+TRANSFER FROM BARSOTTI ALESSANDRO VIA DEL BRENNER. REF:
+0015 5988 696 0126389
+920 - BALANCE ADJUSTMENT - CREDIT
+365.00 GBP
+GBP
+Send me the order no

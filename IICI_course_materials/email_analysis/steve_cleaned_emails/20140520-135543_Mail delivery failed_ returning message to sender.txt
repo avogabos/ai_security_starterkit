@@ -1,0 +1,379 @@
+Date: Tue, 20 May 2014 13:55:43 +0100
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: steve@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  afs86@libero.ie
+    Unrouteable address
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <steve@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1WmjZw-0007Cv-6f ; Tue, 20 May 2014 13:55:41 +0100
+From: "Steve Smith \(Formations House\)" <steve@formationshouse.com>
+To: <afs86@libero.ie>
+Cc: "'support'" <support@formationshouse.com>
+Subject: =?iso-8859-1?Q?UK_Company_Registration_:_Registrazione_UK_Societ=E0?=
+Date: Tue, 20 May 2014 17:52:58 +0500
+Message-ID: <000601cf742a$6f146610$4d3d3230$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01CF7454.57EA6E10"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac90KmwlCWRtTakISNGaEquGyTBAlg==
+Content-Language: en-us
+X-Spam-Status: X-Spam-Score: -1.9:
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0007_01CF7454.57EA6E10
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Gentile Cliente
+
+
+Grazie per il vostro interesse nei nostri servizi . Possiamo certainky =
+vi
+assister=E0 nella registrazione di una societ=E0 britannica con il =
+direttore
+Nominee . Il costo sar=E0 :
+
+- UK Societ=E0 50 GBP
+- Indirizzo registrato 25 GBP
+- Persona fisica Direttore Nominee 500 GBP
+
+
+Servizio di apertura conto in banca =E8 di 500 GBP . Non forniamo conto
+bancario in Cina o con la banca HSBC . Possiamo fornire conto bancario =
+nel
+Regno Unito con Barclays o conto bancario offshore con FBME , Cipro.
+
+E se si sceglie di essere firmatari per il conto in banca da soli , =
+allora
+non si pu=F2 utilizzare il nostro servizio Direttore Nominee . Candidato
+servizio =E8 solo per soddisfare i requisiti legali di formazione di =
+societ=E0
+nel Regno Unito e candidati non coinvolgere in qualsiasi attivit=E0 =
+aziendale
+.
+
+In caso contrario, se si desidera avere regista candidato in quanto
+firmatario per il tuo conto in banca e per gestire il tuo conto bancario =
+a
+vostro nome , allora possiamo fornire Managed Service Company . Potete
+trovare i dettagli su questo link:
+http://www.formationshouse.com/manage_company.htm
+
+Rapporti annuali di base necessarie per la societ=E0 britannica sono :
+
+- Rendimenti annuali ( Societ=E0 di servizi online Administrator 25 GBP =
++ 15
+GBP Gorvernment tassa di deposito ) 40 GBP all'anno
+- Redazione dei conti annuali e dichiarazioni fiscali (servizio =
+contabile
+Value) 300 GBP all'anno .
+
+Si prega di notare che ci sarebbe bisogno di fare due diligence di =
+direttore
+della societ=E0 / proprietario chiedendo alcuni documenti come prova di =
+id e
+la prova di indirizzo dopo che riceviamo l'ordine .
+
+Se avete bisogno di ulteriori informazioni o assistenza , per favore
+fatemelo sapere .
+
+Saluti
+
+Steve Smith
+
+FORMATIONS HOUSE
+
+www.formationshouse.com
+
+-------------------------------------------------------------------------=
+---
+--------
+
+Dear Customer
+
+
+Thank you for your interest in our services. We can certainky assist you =
+in
+registering a UK company with Nominee Director. The cost will be:
+
+- UK Company 50 GBP
+- Registered Address 25 GBP
+- Natural Person Nominee Director 500 GBP
+
+
+Bank Account opening service is for 500 GBP. We do not provide bank =
+account
+in China or with HSBC bank. We can provide bank account in UK with =
+Barclays
+or offshore bank account with FBME, Cyprus.
+
+And if you choose to be signatory for the bank account yourself then you
+cannot use our Nominee Director service. Nominee Service is only to =
+fulfill
+legal requirements of UK company formation and nominees do not involve =
+in
+any company activity.
+
+Otherwise if you wish have Nominee Director as signatory for your bank
+account and to manage your bank account on your behalf, then we can =
+provide
+Managed Company Service. You can find details on this link:
+http://www.formationshouse.com/manage_company.htm
+
+Basic Annual Filings required for UK company are:
+
+- Annual Returns (Online Company Administrator service 25 GBP + 15 GBP
+Government Filing fee) 40 GBP per annum
+- Preparation of Annual Accounts and Tax Returns (Value Accounting =
+service)
+300 GBP per annum.
+
+Please note we would need to do due diligence of company director/owner =
+by
+asking certain documents such as proof of id and proof of address after =
+we
+recieve the order.
+
+If you need further information or assistance, please let me know.
+
+Regards
+
+Steve Smith
+
+FORMATIONS HOUSE
+
+www.formationshouse.com
+
+=20
+
+
+------=_NextPart_000_0007_01CF7454.57EA6E10
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Diso-8859-1">
+
+
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p>Gentile Cliente<br>
+<br>
+<br>
+Grazie per il vostro interesse nei nostri servizi . Possiamo certainky =
+vi
+assister=E0 nella registrazione di una societ=E0 britannica con il =
+direttore
+Nominee . Il costo sar=E0 :<br>
+<br>
+- UK Societ=E0 50 GBP<br>
+- Indirizzo registrato 25 GBP<br>
+- Persona fisica Direttore Nominee 500 GBP<br>
+<br>
+<br>
+Servizio di apertura conto in banca =E8 di 500 GBP . Non forniamo conto =
+bancario
+in Cina o con la banca HSBC . Possiamo fornire conto bancario nel Regno =
+Unito
+con Barclays o conto bancario offshore con FBME , Cipro.<br>
+<br>
+E se si sceglie di essere firmatari per il conto in banca da soli , =
+allora non
+si pu=F2 utilizzare il nostro servizio Direttore Nominee . Candidato =
+servizio =E8
+solo per soddisfare i requisiti legali di formazione di societ=E0 nel =
+Regno Unito
+e candidati non coinvolgere in qualsiasi attivit=E0 aziendale .<br>
+<br>
+In caso contrario, se si desidera avere regista candidato in quanto =
+firmatario
+per il tuo conto in banca e per gestire il tuo conto bancario a vostro =
+nome ,
+allora possiamo fornire Managed Service Company . Potete trovare i =
+dettagli su
+questo link: http://www.formationshouse.com/manage_company.htm<br>
+<br>
+Rapporti annuali di base necessarie per la societ=E0 britannica sono =
+:<br>
+<br>
+- Rendimenti annuali ( Societ=E0 di servizi online Administrator 25 GBP =
++ 15 GBP
+Gorvernment tassa di deposito ) 40 GBP all'anno<br>
+- Redazione dei conti annuali e dichiarazioni fiscali (servizio =
+contabile
+Value) 300 GBP all'anno .<br>
+<br>
+Si prega di notare che ci sarebbe bisogno di fare due diligence di =
+direttore
+della societ=E0 / proprietario chiedendo alcuni documenti come prova di =
+id e la
+prova di indirizzo dopo che riceviamo l'ordine .<br>
+<br>
+Se avete bisogno di ulteriori informazioni o assistenza , per favore =
+fatemelo
+sapere .<br>
+<br>
+Saluti<o:p></o:p></p>
+
+<p>Steve Smith<o:p></o:p></p>
+
+<p>FORMATIONS HOUSE<o:p></o:p></p>
+
+<p><a =
+href=3D"http://www.formationshouse.com">www.formationshouse.com</a><o:p><=
+/o:p></p>
+
+<p>----------------------------------------------------------------------=
+--------------<o:p></o:p></p>
+
+<p>Dear Customer<o:p></o:p></p>
+
+<p><br>
+Thank you for your interest in our services. We can certainky assist you =
+in
+registering a UK company with Nominee Director. The cost will =
+be:<o:p></o:p></p>
+
+<p>- UK Company 50 GBP<br>
+- Registered Address 25 GBP<br>
+- Natural Person Nominee Director 500 GBP<o:p></o:p></p>
+
+<p><br>
+Bank Account opening service is for 500 GBP. We do not provide bank =
+account in
+China or with HSBC bank. We can provide bank account in UK with Barclays =
+or
+offshore bank account with FBME, Cyprus.<o:p></o:p></p>
+
+<p>And if you choose to be signatory for the bank account yourself then =
+you
+cannot use our Nominee Director service. Nominee Service is only to =
+fulfill
+legal requirements of UK company formation and nominees do not involve =
+in any
+company activity.<o:p></o:p></p>
+
+<p>Otherwise if you wish have Nominee Director as signatory for your =
+bank
+account and to manage your bank account on your behalf, then we can =
+provide
+Managed Company Service. You can find details on this link: <a
+href=3D"http://www.formationshouse.com/manage_company.htm">http://www.for=
+mationshouse.com/manage_company.htm</a><o:p></o:p></p>
+
+<p>Basic Annual Filings required for UK company are:<o:p></o:p></p>
+
+<p>- Annual Returns (Online Company Administrator service 25 GBP + 15 =
+GBP Government
+Filing fee) 40 GBP per annum<br>
+- Preparation of Annual Accounts and Tax Returns (Value Accounting =
+service) 300
+GBP per annum.<o:p></o:p></p>
+
+<p>Please note we would need to do due diligence of company =
+director/owner by
+asking certain documents such as proof of id and proof of address after =
+we
+recieve the order.<o:p></o:p></p>
+
+<p>If you need further information or assistance, please let me =
+know.<o:p></o:p></p>
+
+<p>Regards<o:p></o:p></p>
+
+<p>Steve Smith<o:p></o:p></p>
+
+<p>FORMATIONS HOUSE<o:p></o:p></p>
+
+<p><a =
+href=3D"http://www.formationshouse.com">www.formationshouse.com</a><o:p><=
+/o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+ <BR><BR>__________ Information from ESET NOD32 Antivirus, version of =
+virus signature database 9824 (20140520) __________<BR><BR>The message =
+was checked by ESET NOD32 Antivirus.<BR><BR><A =
+HREF=3D"http://www.eset.com">http://www.eset.com</A><BR> </body>
+
+</html>
+
+------=_NextPart_000_0007_01CF7454.57EA6E10--
+

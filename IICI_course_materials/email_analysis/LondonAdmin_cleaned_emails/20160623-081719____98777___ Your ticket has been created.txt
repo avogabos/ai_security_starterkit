@@ -1,0 +1,13 @@
+Date: Thu, 23 Jun 2016 08:17:19 -0700 (PDT)
+Subject: [##98777##] Your ticket has been created
+From: Accounts - Euro Pacific Bank <accounts@europacbank.com>
+To: londonadmin@formationshouse.com
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="font-size: 13.0px;margin: 0.0px;background: rgb(242,242,242);"><tbody><tr><td valign="top" style="padding: 30.0px 20.0px;"><table cellpadding="0" cellspacing="0" width="90%" style="font-size: 13.0px;margin: 0.0px auto;"><tbody><tr><td valign="top" style="border: 1.0px solid rgb(218,218,218);padding: 30.0px;background-color: rgb(255,255,255);"><div style="font-family: &#39;lucida grande&#39; , &#39;lucida sans&#39; , &#39;lucida sans unicode&#39; , arial , helvetica , verdana , sans-serif;font-size: 14.0px;line-height: 24.0px;color: rgb(34,34,34);">Your ticket has been created with the ticket ID&nbsp;<b>98777</b>&nbsp;and subject &quot;<b>HORUS INTERNATIONAL</b>&quot;<br /><br />Someone from our customer service team will review it and respond shortly. Please reply to this email for all updates.<br /><br />Regards,<br />Euro Pacific Bank Support Team.</div></td></tr><tr><td valign="top" style="padding-top: 5.0px;"></td></tr></tbody></table></td></tr></tbody></table>Your ticket has been created with the ticket ID
+98777
+and subject "
+HORUS INTERNATIONAL
+"
+Someone from our customer service team will review it and respond shortly. Please reply to this email for all updates.
+Regards,
+Euro Pacific Bank Support Team.

@@ -1,0 +1,110 @@
+Date: Wed, 23 Jul 2014 11:24:45 +0100
+Subject: FW: Refund: [OrderID]176556, beta.formationshouse.com2 - 23/07/2014 11:22:04
+From: "Charlotte Pawar" <cpqueries@accountscentre.com>
+To: "Steve" <steve@formationshouse.com>
+CC: <oliver@formationshouse.com>
+
+Israel investment double order refunded
+
+ 
+
+From: support@infinibiz.com [mailto:support@infinibiz.com] 
+Sent: 23 July 2014 11:22
+To: rehan@infinilogic.com; danielle@formationshouse.com;
+cpqueries@accountscentre.com
+Subject: Refund: [OrderID]176556, beta.formationshouse.com2 - 23/07/2014
+11:22:04
+
+ 
+
+
+
+  beta.formationshouse.com 
+
+
+
+ 
+
+
+
+:: Successfully Refund ::
+
+
+  
+
+  
+
+
+ 
+
+
+Domain Name : 
+
+beta.formationshouse.com 
+
+
+Merchant ID : 
+
+2 
+
+
+Order ID : 
+
+176556 
+
+
+Refund Amount : 
+
+£ 225.00 
+
+
+Refund History ID : 
+
+30 
+
+
+Refund Log ID(myid) : 
+
+49 
+
+
+Authority Code : 
+
+"REFUND ACCEPTED" ,vid =3 , currency=826,AVS:Unknown,VISA 
+
+
+Credit Card no. : 
+
+4344990332140010 
+
+ 
+
+ 
+
+Israel investment double order refunded
+From:
+support@infinibiz.com [mailto:support@infinibiz.com]
+Sent:
+23 July 2014 11:22
+To:
+rehan@infinilogic.com; danielle@formationshouse.com; cpqueries@accountscentre.com
+Subject:
+Refund: [OrderID]176556, beta.formationshouse.com2 - 23/07/2014 11:22:04
+beta.formationshouse.com
+:: Successfully Refund ::
+Domain Name :
+beta.formationshouse.com
+Merchant ID :
+2
+Order ID :
+176556
+Refund Amount :
+£ 225.00
+Refund History ID :
+30
+Refund Log ID(myid) :
+49
+Authority Code :
+"REFUND ACCEPTED" ,vid =3 , currency=826,AVS:Unknown,VISA
+Credit Card no. :
+4344990332140010

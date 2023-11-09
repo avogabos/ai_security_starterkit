@@ -1,0 +1,25 @@
+Date: Mon, 29 Jan 2018 13:30:24 +0000
+Subject: Account Login
+From: Ana Finnegan <anaf@e-globalenterprises.com>
+To: "'support@formationshouse.com'" <support@formationshouse.com>
+CC: 'Sarah' <sarah@formationshouse.com>, ralphv
+	<ralph@e-globalenterprises.com>, Elizabeth Corrales
+	<lizberry@e-globalenterprises.com>
+
+Hello team,
+
+Please note that our username and password are not working in your website.
+
+Is there an issue with the site?
+
+Please let us know.
+
+Regards,
+
+Ana
+Hello team,
+Please note that our username and password are not working in your website.
+Is there an issue with the site?
+Please let us know.
+Regards,
+Ana

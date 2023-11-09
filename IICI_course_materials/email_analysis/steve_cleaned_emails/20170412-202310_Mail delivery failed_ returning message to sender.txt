@@ -1,0 +1,284 @@
+Date: Wed, 12 Apr 2017 20:23:10 +0100
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: steve@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  alberto.lanza@europeseals.com
+    SMTP error from remote mail server after RCPT TO:<alberto.lanza@europeseals.com>:
+    host europeseals.com [177.85.103.66]: 550-"JunkMail rejected - mailhub.infinidomains.com [213.86.130.41]:39662 is in
+    550-an RBL, see Client host blocked using Barracuda Reputation, see
+    550 http://www.barracudanetworks.com/reputation/?r=1&ip=213.86.130.41"
+  alberto.lanza@brazilianseals.com.br
+    SMTP error from remote mail server after RCPT TO:<alberto.lanza@brazilianseals.com.br>:
+    host brazilianseals.com.br [177.85.102.21]: 550-"JunkMail rejected - mailhub.infinidomains.com [213.86.130.41]:56250 is in
+    550-an RBL, see Client host blocked using Barracuda Reputation, see
+    550 http://www.barracudanetworks.com/reputation/?r=1&ip=213.86.130.41"
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <steve@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1cyNqT-0002Yq-O2 ; Wed, 12 Apr 2017 20:22:26 +0100
+From: "Steve Smith \(Formations House\)" <steve@formationshouse.com>
+To: <alberto.lanza@europeseals.com>,
+	<alberto.lanza@brazilianseals.com.br>
+Cc: <support@formationshouse.com>
+Subject: re: BRS HIGH FIDELITY SPARE PARTS LTD and BRS EUROPES EALS LTD
+Date: Thu, 13 Apr 2017 00:23:46 +0500
+Message-ID: <005401d2b3c2$5015a9b0$f040fd10$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0055_01D2B3EC.38EBB1B0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdKzwk5Wi1JqqOb1QDuOqATRBhumzg==
+Content-Language: en-us
+X-Spam-Status: X-Spam-Score: 2.7:
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0055_01D2B3EC.38EBB1B0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear Alberto Lanza
+
+ 
+
+Before we can provide you any information you need to renew the following
+services for your companies:
+
+ 
+
+BRS HIGH FIDELITY SPARE PARTS LIMITED
+Registered Office Address : GBP 100 -- service expired on 18 February 2017
+Nominee Shareholder : GBP 25 -- service expired on 18 February 2017
+
+ 
+
+BRS EUROPE SEALS LIMITED
+Registered Office Address : GBP 100 -- service expired on 01 June 2016
+Nominee Shareholder : GBP 25 -- service expired on 01 June 2016
+
+ 
+
+NVC NEW VENTURES CAPITAL LIMITED
+Registered Office Address : GBP 100 -- service expired on 05 October 2016
+Nominee Shareholder : GBP 25 -- service expired on 05 October 2016
+
+ 
+
+Renew the services as soon as possible so that we can provide you with the
+information relevant to your query.
+
+ 
+
+If you require further information or assistance you can contact us by
+email, by phone or by live chat on our website.
+
+ 
+
+------------
+
+Regards,
+
+ 
+
+Steve Smith
+
+steve@formationshouse.com
+
+FORMATIONS HOUSE
+
+ 
+
+Website - Live Chat : www.formationshouse.com
+
+E-mail : info@formationshouse.com; support@formationshouse.com
+
+Phone : Sales = 0044-(0)207-016-2727 : Support = 0044-(0)207-016-2728
+
+Working hours : Monday to Friday 9am to 5pm (UK time)
+
+Office Address: 29 Harley Street London United Kingdom W1G 9QR
+
+ 
+
+
+------=_NextPart_000_0055_01D2B3EC.38EBB1B0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif";}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNoSpacing>Dear Alberto Lanza<o:p></o:p></p>
+
+<p class=3DMsoNoSpacing><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNoSpacing>Before we can provide you any information you =
+need to
+renew the following services for your companies:<o:p></o:p></p>
+
+<p class=3DMsoNoSpacing><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNoSpacing><b>BRS HIGH FIDELITY SPARE PARTS LIMITED<br>
+</b>Registered Office Address : <b>GBP 100</b> -- service expired on 18
+February 2017<br>
+Nominee Shareholder : <b>GBP 25</b> -- service expired on 18 February =
+2017<o:p></o:p></p>
+
+<p class=3DMsoNoSpacing><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNoSpacing><b>BRS EUROPE SEALS LIMITED</b><br>
+Registered Office Address : <b>GBP 100</b> -- service expired on 01 June =
+2016<br>
+Nominee Shareholder : <b>GBP 25</b> -- service expired on 01 June =
+2016<o:p></o:p></p>
+
+<p class=3DMsoNoSpacing><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNoSpacing><b>NVC NEW VENTURES CAPITAL LIMITED<br>
+</b>Registered Office Address : <b>GBP 100</b> -- service expired on 05 =
+October
+2016<br>
+Nominee Shareholder : <b>GBP 25</b> -- service expired on 05 October =
+2016<o:p></o:p></p>
+
+<p class=3DMsoNoSpacing><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNoSpacing>Renew the services as soon as possible so that =
+we can
+provide you with the information relevant to your query.<o:p></o:p></p>
+
+<p class=3DMsoNoSpacing><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNoSpacing>If you require further information or assistance =
+you can
+contact us by email, by phone or by live chat on our =
+website.<o:p></o:p></p>
+
+<p class=3DMsoNoSpacing><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNoSpacing>------------<o:p></o:p></p>
+
+<p class=3DMsoNoSpacing>Regards,<o:p></o:p></p>
+
+<p class=3DMsoNoSpacing><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNoSpacing>Steve Smith<o:p></o:p></p>
+
+<p class=3DMsoNoSpacing><a =
+href=3D"mailto:steve@formationshouse.com">steve@formationshouse.com</a><o=
+:p></o:p></p>
+
+<p class=3DMsoNoSpacing>FORMATIONS HOUSE<o:p></o:p></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><i><span style=3D'font-size:9.0pt'>Website &#8211; =
+Live Chat :
+www.formationshouse.com<o:p></o:p></span></i></p>
+
+<p class=3DMsoNormal><i><span style=3D'font-size:9.0pt'>E-mail :
+info@formationshouse.com; =
+support@formationshouse.com<o:p></o:p></span></i></p>
+
+<p class=3DMsoNormal><i><span style=3D'font-size:9.0pt'>Phone : Sales =
+=3D
+0044-(0)207-016-2727 : Support =3D =
+0044-(0)207-016-2728<o:p></o:p></span></i></p>
+
+<p class=3DMsoNormal><i><span style=3D'font-size:9.0pt'>Working hours : =
+Monday to
+Friday 9am to 5pm (UK time)<o:p></o:p></span></i></p>
+
+<p class=3DMsoNormal><i><span style=3D'font-size:9.0pt'>Office Address: =
+29 Harley
+Street London United Kingdom W1G 9QR<o:p></o:p></span></i></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_0055_01D2B3EC.38EBB1B0--
+

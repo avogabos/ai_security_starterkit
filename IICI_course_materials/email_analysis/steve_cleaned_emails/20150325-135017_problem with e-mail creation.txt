@@ -1,0 +1,25 @@
+Date: Wed, 25 Mar 2015 13:50:17 +0200
+Subject: problem with e-mail creation
+From: Maro Banakou <mbanakou@gmail.com>
+To: "Steve Smith (Formations House)" <steve@formationshouse.com>
+
+Dear Steve,
+
+I am trying to create a new e-mail in my web hosting service for myself but your site is not working and it is not allowing me.
+
+I need to create banakou@mbcapitalventuresltd.com <mailto:banakou@mbcapitalventuresltd.com> and I can not.
+
+How do I do that?
+
+thank you in advance for your help again.
+
+Maria
+
+Dear Steve,
+I am trying to create a new e-mail in my web hosting service for myself but your site is not working and it is not allowing me.
+I need to create
+banakou@mbcapitalventuresltd.com
+and I can not.
+How do I do that?
+thank you in advance for your help again.
+Maria

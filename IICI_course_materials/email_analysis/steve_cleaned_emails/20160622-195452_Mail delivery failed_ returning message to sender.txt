@@ -1,0 +1,668 @@
+Date: Wed, 22 Jun 2016 19:54:52 +0100
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: steve@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  giovorre01@gmail.com
+    SMTP error from remote mail server after RCPT TO:<giovorre01@gmail.com>:
+    host gmail-smtp-in.l.google.com [74.125.195.27]:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1  https://support.google.com/mail/answer/6596 x9si212580wmg.67 - gsmtp
+  giovorre.1@gmail.com
+    SMTP error from remote mail server after RCPT TO:<giovorre.1@gmail.com>:
+    host gmail-smtp-in.l.google.com [74.125.195.27]:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1  https://support.google.com/mail/answer/6596 x9si212580wmg.67 - gsmtp
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <steve@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1bFnIY-0002Ad-5r ; Wed, 22 Jun 2016 19:54:51 +0100
+From: "Steve Smith \(Formations House\)" <steve@formationshouse.com>
+To: <giovorre01@gmail.com>,
+	<giovorre.1@gmail.com>
+Cc: <support@formationshouse.com>
+Subject: UK Ready-Made Companies with Bank Account and VAT Registration
+Date: Wed, 22 Jun 2016 23:57:38 +0500
+Message-ID: <003601d1ccb7$f3cd6220$db682660$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01D1CCE1.DCA36A20"
+X-Mailer: Microsoft Office Outlook 12.0
+thread-index: AdHMr2U8cnU/Z2n8RJuDi9YqoO+DSgACHiTA
+Content-Language: en-us
+X-Spam-Status: X-Spam-Score: 2.2:
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0037_01D1CCE1.DCA36A20
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+ 
+
+ 
+
+From: Steve Smith (Formations House) [mailto:steve@formationshouse.com] 
+Sent: Wednesday, 22 June, 2016 10:56 PM
+To: 'giovorre1@gmail.com'
+Cc: 'support@formationshouse.com'
+Subject: UK Ready-Made Companies with Bank Account and VAT Registration
+
+ 
+
+Hello,
+
+ 
+
+ 
+
+Thank you for your interest in our services. As per our conversation on
+phone following is the information on our UK Ready-Made Companies with
+active Bank Account and VAT Registration.
+
+ 
+
+ 
+
+FOLLOWING IS THE LIST OF UK READYMADE COMPANIES, WHICH ARE DORMANT BUT HAVE
+ALREADY OPENED BANK ACCOUNT:
+
+ 
+
+INTERPATH LTD 
+
+Date of Incorporation: 11/06/2013
+
+Metro Bank (UK director only) WITH EURO ACCOUNT
+
+9500 GBP
+
+ 
+
+BUSINESS RESOURCES ASIA LTD 
+
+Date of Incorporation: 2/10/2010 
+
+RBS Bank Account
+
+9500 GBP
+
+ 
+
+UKPR LTD 
+
+Date of Incorporation: 07/06/2013
+
+RBS Bank Account
+
+9500 GBP
+
+ 
+
+ONCABLE LTD (no)
+
+Date of Incorporation: 12/11/2009
+
+Barclays Bank Account
+
+9500 GBP
+
+ 
+
+To transfer signatory for bank account, company director will be required to
+come to UK and visit the bank.
+
+ 
+
+ 
+
+Above UK READY-MADE COMPANIES DO NOT HAVE VAT REGISTRATION : If you wish we
+can process the VAT registration for above companies after the purchase and
+it can take from 2 weeks to 6 weeks. The details are:
+
+- VAT REGISTRATION - GBP 50
+
+Following additional services will be required if company do not have UK
+trading address:
+
+ 
+
+- Virtual Office InfiniOffice Mail Only : GBP 275 setup (renewal GBP 225 per
+annum)
+
+- Value Accounting : GBP 300 per annum
+
+- OutSource Accounts Department : GBP 300 per annum
+
+ 
+
+ 
+
+UK-Ready-Made company can be transferred to you within 2-3 working days
+after we receive the order, payment and due diligence documents. Change of
+signatory for Active bank account process take 2-3 weeks. Please note in UK
+to process signatory transfer for existing bank account, requires company
+director/s to be in UK to attend meeting at the bank as per their
+appointment.
+
+ 
+
+ 
+
+To place an order, please send us an email at
+<mailto:support@formationshouse.com> support@formationshouse.com and
+<mailto:steve@formationshouse.com> steve@formationshouse.com along with
+following documents for due diligence:
+
+ 
+
+Documents required for due diligence (this for us, due diligence for bank
+account will be done by bank at the time of meeting):
+
+ 
+
+Scan color copies of following documents are required for company beneficial
+owner/director/s and shareholder/s. Please make sure that scans are clear
+and in readable size and format.
+
+1. Proof of ID - Valid Passport (bearer signature must be visible)
+
+ 
+
+2. Proof of Residential Address - Last 3 months utility bills (water OR gas
+OR electricity) or latest personal bank/credit card statement. (date, name,
+address and account number must be visible)
+
+ 
+
+(Please do not send telephone, mobile, TV or internet bill, these are not
+acceptable.)
+
+ 
+
+If the documents are not in English then you need to have them translated
+and notarized. And send original and translated copies.
+
+ 
+
+ 
+
+Payment will be required via bank transfer. After we receive order from you,
+we will send you proforma-invoice along with bank transfer details.
+
+ 
+
+ 
+
+If you require further information or assistance you can contact me at
+<mailto:info@formationshouse.com> info@formationshouse.com or
+<mailto:steve@formationshouse.com> steve@formationshouse.com or
+0044-(0)207-016-2727 Monday to Friday 10am to 6pm GMT.
+
+ 
+
+ 
+
+Regards
+
+ 
+
+Steve Smith
+
+ 
+
+FORMATIONS HOUSE
+ <http://www.formationshouse.com> www.formationshouse.com
+
+
+
+__________ Information from ESET NOD32 Antivirus, version of virus signature
+database 13689 (20160622) __________
+
+The message was checked by ESET NOD32 Antivirus.
+
+http://www.eset.com
+
+
+------=_NextPart_000_0037_01D1CCE1.DCA36A20
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+
+
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1D1B11;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1D1B11;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<div>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Steve =
+Smith
+(Formations House) [mailto:steve@formationshouse.com] <br>
+<b>Sent:</b> Wednesday, 22 June, 2016 10:56 PM<br>
+<b>To:</b> 'giovorre1@gmail.com'<br>
+<b>Cc:</b> 'support@formationshouse.com'<br>
+<b>Subject:</b> UK Ready-Made Companies with Bank Account and VAT =
+Registration<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>Hello,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>Thank you for
+your interest in our services. As per our conversation on phone =
+following is
+the information on our UK Ready-Made Companies with active Bank Account =
+and VAT
+Registration.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><b><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>FOLLOWING
+IS THE LIST OF UK READYMADE COMPANIES, WHICH ARE DORMANT BUT HAVE =
+ALREADY
+OPENED BANK ACCOUNT:<o:p></o:p></span></b></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><b><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>INTERPATH
+LTD <o:p></o:p></span></b></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>Date of
+Incorporation: 11/06/2013<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>Metro Bank
+(UK director only) WITH EURO ACCOUNT<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>9500 GBP<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><b><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>BUSINESS
+RESOURCES ASIA LTD <o:p></o:p></span></b></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>Date of Incorporation:
+2/10/2010 <o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>RBS Bank
+Account<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>9500 GBP<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><b><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>UKPR LTD =
+<o:p></o:p></span></b></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>Date of
+Incorporation: 07/06/2013<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>RBS Bank
+Account<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>9500 GBP<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><b><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>ONCABLE
+LTD (no)<o:p></o:p></span></b></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>Date of
+Incorporation: 12/11/2009<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>Barclays
+Bank Account<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>9500 GBP<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>To transfer signatory
+for bank account, company director will be required to come to UK and =
+visit the
+bank.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><b><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></b></p>=
+
+
+<p class=3DMsoNoSpacing><b><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>Above UK
+READY-MADE COMPANIES DO NOT HAVE VAT REGISTRATION</span></b><span
+style=3D'font-size:14.0pt;color:#1D1B11'> : If you wish we can process =
+the VAT
+registration for above companies after the purchase and it can take from =
+2
+weeks to 6 weeks. The details are:<br>
+<br>
+<b>- VAT REGISTRATION - GBP 50</b><br>
+<br>
+Following additional services will be required if company do not have UK
+trading address:<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><span style=3D'font-size:14.0pt;color:#1D1B11'>- =
+Virtual
+Office InfiniOffice Mail Only : GBP 275 setup (renewal GBP 225 per =
+annum)<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span style=3D'font-size:14.0pt;color:#1D1B11'>- =
+Value
+Accounting : GBP 300 per annum<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span style=3D'font-size:14.0pt;color:#1D1B11'>- =
+OutSource
+Accounts Department : GBP 300 per annum<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>UK-Ready-Made
+company can be transferred to you within 2-3 working days after we =
+receive the
+order, payment and due diligence documents. Change of signatory for =
+Active bank
+account process take 2-3 weeks. Please note in UK to process signatory =
+transfer
+for existing bank account, requires company director/s to be in UK to =
+attend
+meeting at the bank as per their appointment.<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>To place an
+order, please send us an email at </span><a
+href=3D"mailto:support@formationshouse.com"><span =
+style=3D'font-size:14.0pt;
+color:#1D1B11'>support@formationshouse.com</span></a><span =
+style=3D'font-size:
+14.0pt;color:#1D1B11'> and </span><a =
+href=3D"mailto:steve@formationshouse.com"><span
+style=3D'font-size:14.0pt;color:#1D1B11'>steve@formationshouse.com</span>=
+</a><span
+style=3D'font-size:14.0pt;color:#1D1B11'> along with following documents =
+for due
+diligence:<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><b><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>Documents
+required for due diligence (this for us, due diligence for bank account =
+will be
+done by bank at the time of meeting):<o:p></o:p></span></b></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>Scan color
+copies of following documents are required for company beneficial
+owner/director/s and shareholder/s. Please make sure that scans are =
+clear and
+in readable size and format.<br>
+<br>
+1. Proof of ID - Valid Passport (bearer signature must be =
+visible)<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>2. Proof of
+Residential Address - Last 3 months utility bills (water OR gas OR =
+electricity)
+or latest personal bank/credit card statement. (date, name, address and =
+account
+number must be visible)<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>(Please do
+not send telephone, mobile, TV or internet bill, these are not =
+acceptable.)<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>If the
+documents are not in English then you need to have them translated and
+notarized. And send original and translated =
+copies.<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>Payment will
+be required via bank transfer. After we receive order from you, we will =
+send
+you proforma-invoice along with bank transfer =
+details.<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>If you
+require further information or assistance you can contact me at =
+</span><a
+href=3D"mailto:info@formationshouse.com"><span =
+style=3D'font-size:14.0pt;
+color:#1D1B11'>info@formationshouse.com</span></a><span =
+style=3D'font-size:14.0pt;
+color:#1D1B11'> or </span><a =
+href=3D"mailto:steve@formationshouse.com"><span
+style=3D'font-size:14.0pt;color:#1D1B11'>steve@formationshouse.com</span>=
+</a><span
+style=3D'font-size:14.0pt;color:#1D1B11'> or 0044-(0)207-016-2727 Monday =
+to
+Friday 10am to 6pm GMT.<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>Regards<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>Steve =
+Smith<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;color:#1D1B11'>FORMATIONS
+HOUSE<br>
+</span><a href=3D"http://www.formationshouse.com"><span =
+style=3D'font-size:14.0pt;
+color:#1D1B11'>www.formationshouse.com</span></a><span =
+style=3D'font-size:14.0pt;
+color:#1D1B11'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:12.0pt;font-family:"Times =
+New Roman","serif"'><br>
+<br>
+__________ Information from ESET NOD32 Antivirus, version of virus =
+signature
+database 13689 (20160622) __________<br>
+<br>
+The message was checked by ESET NOD32 Antivirus.<br>
+<br>
+<a =
+href=3D"http://www.eset.com">http://www.eset.com</a><o:p></o:p></span></p=
+>
+
+</div>
+
+ <BR><BR>__________ Information from ESET NOD32 Antivirus, version of =
+virus signature database 13689 (20160622) __________<BR><BR>The message =
+was checked by ESET NOD32 Antivirus.<BR><BR><A =
+HREF=3D"http://www.eset.com">http://www.eset.com</A><BR> </body>
+
+</html>
+
+------=_NextPart_000_0037_01D1CCE1.DCA36A20--
+

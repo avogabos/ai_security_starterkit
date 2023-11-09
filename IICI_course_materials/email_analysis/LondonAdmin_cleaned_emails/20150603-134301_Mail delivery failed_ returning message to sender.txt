@@ -1,0 +1,52 @@
+Date: Wed, 03 Jun 2015 13:43:01 +0100
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: londonadmin@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  ig@greenfieldrecovery.co.uk
+    SMTP error from remote mail server after RCPT TO:<ig@greenfieldrecovery.co.uk>:
+    host mail.greenfieldrecovery.co.uk [81.133.55.252]:
+    550 5.1.1 User unknown
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <londonadmin@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtp (iodomain mail server) id 1Z080P-000619-TW ; Wed, 03 Jun 2015 13:42:50 +0100
+Received: by mail.infinidomains.com with esmtpa (iodomain mail server) id 1Z080P-0007ei-Nb ; Wed, 03 Jun 2015 13:42:49 +0100
+Date: Wed, 3 Jun 2015 13:42:49 +0100
+To: ig@greenfieldrecovery.co.uk
+Cc: remysdistribution@gmail.com
+From: londonadmin@formationshouse.com
+Subject: Glenn Stanley
+Message-ID: <012d5cf6f23344691d45165b779bec85@www.infinioffice.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_012d5cf6f23344691d45165b779bec85"
+X-Spam-Status: X-Spam-Score: 3.5:
+
+
+--b1_012d5cf6f23344691d45165b779bec85
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+<p>Dear Lilia,</p><p>I believe you are trying to get an update on the appointment of Glenn Stanley?</p><p>It is still being processed. As soon as we get an update you will be informed. </p><p>You can call on this number if you have any questions 0207612 4888</p><p>Kind regards</p><p>Nadya</p>&nbsp;<br><!--TEXTSTART--><span id='questionSpan'></span><!--TEXTEND--><br><!--LINKTAGSTARTSHERE--><br><br><span id='signSpan' contenteditable='true'></span>
+
+
+--b1_012d5cf6f23344691d45165b779bec85
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+<p>Dear Lilia,</p><p>I believe you are trying to get an update on the appointment of Glenn Stanley?</p><p>It is still being processed. As soon as we get an update you will be informed. </p><p>You can call on this number if you have any questions 0207612 4888</p><p>Kind regards</p><p>Nadya</p>&nbsp;<br><!--TEXTSTART--><span id='questionSpan'></span><!--TEXTEND--><br><!--LINKTAGSTARTSHERE--><br><br><span id='signSpan' contenteditable='true'></span>
+
+
+
+--b1_012d5cf6f23344691d45165b779bec85--
+
+

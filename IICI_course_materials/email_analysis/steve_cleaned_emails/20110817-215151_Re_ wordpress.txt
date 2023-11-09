@@ -1,0 +1,13 @@
+Date: Wed, 17 Aug 2011 21:51:51 +0100
+Subject: Re: wordpress
+From: Lenny <lenny@indecan.com>
+To: steve@formationshouse.com
+CC: akhan@london.com
+
+Hi Steve,
+Could you point the domain here please
+Nameservers: ns1.webcreationsgroup.com
+ns2.webcreationsgroup.com
+
+Cheers
+Lenny

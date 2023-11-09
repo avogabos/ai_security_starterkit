@@ -1,0 +1,684 @@
+Date: Thu, 01 Feb 2018 12:36:51 +0000
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: londonadmin@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  charlotte@formations.house
+    SMTP error from remote mail server after RCPT TO:<charlotte@formations.house>:
+    host mail.formations.house [35.177.89.228]: 550 5.1.0 <londonadmin@formationshouse.com>:
+    Sender address rejected: User unknown in virtual mailbox table
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <londonadmin@formationshouse.com>
+Received: by mail7.infinidomains.com with esmtpa (iodomain mail server) id 1ehE6X-0003m0-BF ; Thu, 01 Feb 2018 12:36:45 +0000
+From: "Admin " <londonadmin@formationshouse.com>
+To: "'Nellianne Dookley \(Mayfair Trust Group Limited\)'" <Nellianne@mayfair-offshore.com>
+Cc: <charlotte@formations.house>,
+	"'Prisca Julienne \(Mayfair Trust Group Limited\)'" <Prisca@mayfair-offshore.com>
+References: <031201d39a94$a2d06500$e8712f00$@formationshouse.com> <296f2a6c47154dc5a7e23e16776b0d18@MTGLMAIL.mayfair.sc> <10425933f6cf4f67adab337de52f90f5@MTGLMAIL.mayfair.sc>
+In-Reply-To: <10425933f6cf4f67adab337de52f90f5@MTGLMAIL.mayfair.sc>
+Subject: RE: Lesana Corporaiton 
+Date: Thu, 1 Feb 2018 12:36:34 -0000
+Message-ID: <006901d39b59$4c7188e0$e5549aa0$@formationshouse.com>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_006A_01D39B59.4C73D2D0"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQIVFWtN9ZSvdqJTtT31vswYj1p2UQIEyCDKAVQ+81qi8b7uIA==
+Content-Language: en-gb
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_006A_01D39B59.4C73D2D0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_006B_01D39B59.4C73D2D0"
+
+
+------=_NextPart_001_006B_01D39B59.4C73D2D0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Nellianne,=20
+
+=20
+
+Thank you for your email. Please could you kindly send the invoice and =
+we
+will pay.=20
+
+=20
+
+Kind regards
+
+=20
+
+=20
+
+
+
+Nadya Crawford
+
+Formations House
+
+   <mailto:elliot@formationshouse.com> londonadmin@formationshouse.com
+
+=20
+
+From: Nellianne Dookley (Mayfair Trust Group Limited)
+[mailto:Nellianne@mayfair-offshore.com]=20
+Sent: 01 February 2018 04:50
+To: Admin <londonadmin@formationshouse.com>
+Cc: charlotte@formations.house; Prisca Julienne (Mayfair Trust Group
+Limited) <Prisca@mayfair-offshore.com>
+Subject: RE: Lesana Corporaiton=20
+
+=20
+
+Dear Nadya
+
+=20
+
+Further to the below email, please find below the fees to renew the =
+above
+mentioned company:
+
+=20
+
+Renewal Period : 24.0218 =96 23.02.19
+
+Renewal fee: USD145.00
+
+=20
+
+Kind regards
+
+=20
+
+Nellianne Dookley
+
+Finance Officer
+
+=20
+
+MAYFAIR TRUST GROUP LIMITED
+
+Second Floor, The Quadrant
+
+Manglier Street
+
+P.O. Box 1312 Victoria, Mah=E9
+
+Seychelles
+
+=20
+
+T:  +248 443 8888
+
+F:  +248 432 5625
+
+E:   <mailto:info@mayfair-offshore.com> info@mayfair-offshore.com
+
+W:  <http://www.mayfair-offshore.com/> www.mayfair-offshore.com
+
+=20
+
+CONFIDENTIALITY NOTICE
+
+This email is confidential and may also contain privileged information. =
+If
+you are not the intended recipient (or have otherwise received this =
+email in
+error), please notify the sender immediately and delete this email from =
+your
+system. Any unauthorised copying, use, disclosure or distribution of the
+contents of this email is strictly prohibited. We accept no liability =
+for
+any loss or damage that may be suffered as a result of any party =
+accessing
+this email or any attachments to it.
+
+=20
+
+=20
+
+From: Prisca Julienne (Mayfair Trust Group Limited)=20
+Sent: 01 February, 2018 8:07 AM
+To: Admin ; Nellianne Dookley (Mayfair Trust Group Limited)
+Cc: charlotte@formations.house <mailto:charlotte@formations.house> ; =
+CSO;
+Finance
+Subject: Lesana Corporaiton=20
+
+=20
+
+Dear Nadya
+
+=20
+
+We acknowledged receipt of your email, please note that our finance
+department (copied in) will revert in regards to the renewal of the =
+company.
+
+=20
+
+Kind regards
+
+=20
+
+Prisca Julienne, BA (Econ) Hons., TEP, Dip.ICSA
+
+Corporate Services Manager
+
+=20
+
+MAYFAIR TRUST GROUP LIMITED
+
+Second Floor, The Quadrant
+
+Manglier Street
+
+P.O. Box 1312 Victoria, Mah=E9
+
+Seychelles
+
+=20
+
+T:  +248 4438 888
+
+F:  +248 4325 625
+
+E:   <mailto:info@mayfair-offshore.com> info@mayfair-offshore.com
+
+W:  <http://www.mayfair-offshore.com/> www.mayfair-offshore.com
+
+=20
+
+CONFIDENTIALITY NOTICE
+
+This email is confidential and may also contain privileged information. =
+If
+you are not the intended recipient (or have otherwise received this =
+email in
+error), please notify the sender immediately and delete this email from =
+your
+system. Any unauthorised copying, use, disclosure or distribution of the
+contents of this email is strictly prohibited. We accept no liability =
+for
+any loss or damage that may be suffered as a result of any party =
+accessing
+this email or any attachments to it.
+
+=20
+
+From: Admin [mailto:londonadmin@formationshouse.com]=20
+Sent: Wednesday, 31 January, 2018 5:09 PM
+To: Prisca Julienne (Mayfair Trust Group Limited); Nellianne Dookley
+(Mayfair Trust Group Limited); Info
+Cc: charlotte@formations.house <mailto:charlotte@formations.house>=20
+Subject: Lesana Corporaiton=20
+
+=20
+
+Dear Prisca, Nellianne,=20
+
+ =20
+
+Please could you kindly update us on the renewal date for Lesana =
+Corporaiton
+Ltd ?=20
+
+ =20
+
+I have also sent you a few emails regarding new incorporations but with =
+no
+success to the info@mayfair-offshore.com =
+<mailto:info@mayfair-offshore.com>
+. Perhaps you could check your spam/junk folders?=20
+
+ =20
+
+I will now also resend to your emails from this email address and =
+hopefully
+you will receive.=20
+
+ =20
+
+I look forward to hearing from you.=20
+
+ =20
+
+Kind regards=20
+
+ =20
+
+ =20
+
+Nadya Crawford=20
+
+Formations House=20
+
+   <mailto:elliot@formationshouse.com> londonadmin@formationshouse.com=20
+
+nadya@formations.house <mailto:nadya@formations.house> =20
+
+support@formations.house <mailto:support@formations.house> =20
+
+ =20
+
+ =20
+
+ =20
+
+
+------=_NextPart_001_006B_01D39B59.4C73D2D0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1"><meta name=3DGenerator content=3D"Microsoft Word =
+15 (filtered medium)"><!--[if !mso]><style>v\:* =
+{behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma",sans-serif;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma",sans-serif;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle21
+	{mso-style-type:personal;
+	font-family:"Arial",sans-serif;
+	color:windowtext;}
+span.EmailStyle22
+	{mso-style-type:personal;
+	font-family:"Arial",sans-serif;
+	color:windowtext;}
+span.EmailStyle24
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-GB =
+link=3D"#0563C1" vlink=3D"#954F72"><div class=3DWordSection1><p =
+class=3DMsoNormal><span style=3D'mso-fareast-language:EN-US'>Dear =
+Nellianne, <o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span style=3D'mso-fareast-language:EN-US'>Thank you =
+for your email. Please could you kindly send the invoice and we will =
+pay. <o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span style=3D'mso-fareast-language:EN-US'>Kind =
+regards<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><b><span =
+style=3D'font-family:"Helvetica",sans-serif;color:#262626'><img =
+width=3D60 height=3D60 style=3D'width:.625in;height:.625in' =
+id=3DC23A2ED6-4C2A-4756-85F3-BBA21435D450 =
+src=3D"cid:image001.jpg@01D39B59.4B7882E0" =
+alt=3D"cid:image001.jpg@01D19C8F.A5A2C7A0"><o:p></o:p></span></b></p><p =
+class=3DMsoNormal><b><span =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:#262626=
+'>Nadya Crawford</span></b><b><span =
+style=3D'font-family:"Helvetica",sans-serif;color:#262626'><o:p></o:p></s=
+pan></b></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:#262626=
+'>Formations House</span></b><span =
+style=3D'color:black'><o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:#1F4E79=
+'>&nbsp;&nbsp;</span><span =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:gray'><=
+a href=3D"mailto:elliot@formationshouse.com"><span =
+style=3D'color:#767171'>londonadmin@formationshouse.com</span></a></span>=
+<span style=3D'color:black'><o:p></o:p></span></p></div><p =
+class=3DMsoNormal><span =
+style=3D'mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p><div><di=
+v style=3D'border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm =
+0cm 0cm'><p class=3DMsoNormal><b><span =
+lang=3DEN-US>From:</span></b><span lang=3DEN-US> Nellianne Dookley =
+(Mayfair Trust Group Limited) [mailto:Nellianne@mayfair-offshore.com] =
+<br><b>Sent:</b> 01 February 2018 04:50<br><b>To:</b> Admin =
+&lt;londonadmin@formationshouse.com&gt;<br><b>Cc:</b> =
+charlotte@formations.house; Prisca Julienne (Mayfair Trust Group =
+Limited) &lt;Prisca@mayfair-offshore.com&gt;<br><b>Subject:</b> RE: =
+Lesana Corporaiton <o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><span =
+lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>Dear =
+Nadya<o:p></o:p></span></p><p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:=
+p></span></p><p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>Further to the =
+below email, please find below the fees to renew the above mentioned =
+company:<o:p></o:p></span></p><p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:=
+p></span></p><p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>Renewal Period =
+: 24.0218 &#8211; 23.02.19<o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>Renewal fee: =
+USD145.00<o:p></o:p></span></p><p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:=
+p></span></p><div><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>Kind =
+regards<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:=
+p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>Nellianne =
+Dookley<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>Finance =
+Officer<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'><o:=
+p>&nbsp;</o:p></span></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:blue'>MAYF=
+AIR TRUST GROUP LIMITED<o:p></o:p></span></b></p><p =
+class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>Sec=
+ond Floor, The Quadrant<o:p></o:p></span></b></p><p =
+class=3DMsoNormal><b><span lang=3DFR =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>Man=
+glier Street<o:p></o:p></span></b></p><p class=3DMsoNormal><b><span =
+lang=3DFR =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>P.O=
+. Box 1312 Victoria, Mah=E9<o:p></o:p></span></b></p><p =
+class=3DMsoNormal><b><span lang=3DFR =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>Sey=
+chelles<o:p></o:p></span></b></p><p class=3DMsoNormal><span lang=3DFR =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>&nb=
+sp;<o:p></o:p></span></p><p class=3DMsoNormal><span lang=3DFR =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>T:&=
+nbsp; +248 443 8888<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>F:&=
+nbsp; +248 432 5625<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>E:&nbsp; =
+</span><span lang=3DEN-US><a =
+href=3D"mailto:info@mayfair-offshore.com"><span lang=3DEN-GB =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:blue'>info=
+@mayfair-offshore.com</span></a></span><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'><o:p></o:p></sp=
+an></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>W: =
+</span><span lang=3DEN-US><a href=3D"http://www.mayfair-offshore.com/" =
+title=3D"http://www.mayfair-offshore.com/"><span lang=3DEN-GB =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:blue'>www.=
+mayfair-offshore.com</span></a></span><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'><o:p></o:p></sp=
+an></p><p class=3DMsoNormal><span =
+style=3D'font-family:"Arial",sans-serif;color:black'><o:p>&nbsp;</o:p></s=
+pan></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>CON=
+FIDENTIALITY NOTICE<o:p></o:p></span></b></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>Thi=
+s email is confidential and may also contain privileged information. If =
+you are not the intended recipient (or have otherwise received this =
+email in error), please notify the sender immediately and delete this =
+email from your system. Any unauthorised copying, use, disclosure or =
+distribution of the contents of this email is strictly prohibited. We =
+accept no liability for any loss or damage that may be suffered as a =
+result of any party accessing this email or any attachments to =
+it.</span><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'><o:=
+p></o:p></span></p><p class=3DMsoNormal><span =
+lang=3DEN-US><o:p>&nbsp;</o:p></span></p></div><p =
+class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:=
+p></span></p><div><div style=3D'border:none;border-top:solid #B5C4DF =
+1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=3DMsoNormal><b><span =
+lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Tahoma",sans-serif'>From:</span></=
+b><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Tahoma",sans-serif'> Prisca =
+Julienne (Mayfair Trust Group Limited) <br><b>Sent:</b> 01 February, =
+2018 8:07 AM<br><b>To:</b> Admin ; Nellianne Dookley (Mayfair Trust =
+Group Limited)<br><b>Cc:</b> <a =
+href=3D"mailto:charlotte@formations.house">charlotte@formations.house</a>=
+; CSO; Finance<br><b>Subject:</b> Lesana Corporaiton =
+<o:p></o:p></span></p></div></div><p class=3DMsoNormal><span =
+lang=3DEN-US><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>Dear =
+Nadya<o:p></o:p></span></p><p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:=
+p></span></p><p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>We =
+acknowledged receipt of your email, please note that our finance =
+department (copied in) will revert in regards to the renewal of the =
+company.<o:p></o:p></span></p><p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:=
+p></span></p><div><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>Kind =
+regards<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:=
+p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>Prisca =
+Julienne, BA (Econ) Hons., TEP, Dip.ICSA<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>Corporate =
+Services Manager<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'><o:=
+p>&nbsp;</o:p></span></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:blue'>MAYF=
+AIR TRUST GROUP LIMITED<o:p></o:p></span></b></p><p =
+class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>Sec=
+ond Floor, The Quadrant<o:p></o:p></span></b></p><p =
+class=3DMsoNormal><b><span lang=3DFR =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>Man=
+glier Street<o:p></o:p></span></b></p><p class=3DMsoNormal><b><span =
+lang=3DFR =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>P.O=
+. Box 1312 Victoria, Mah=E9<o:p></o:p></span></b></p><p =
+class=3DMsoNormal><b><span lang=3DFR =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>Sey=
+chelles<o:p></o:p></span></b></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>&nbsp;<o:p></o:=
+p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>T:&nbsp; +248 =
+4438 888<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>F:&nbsp; +248 =
+4325 625<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>E:&nbsp; =
+</span><span lang=3DEN-US><a href=3D"mailto:info@mayfair-offshore.com" =
+title=3D"mailto:info@mayfair-offshore.com"><span lang=3DEN-GB =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:blue'>info=
+@mayfair-offshore.com</span></a></span><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'><o:p></o:p></sp=
+an></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>W: =
+</span><span lang=3DEN-US><a href=3D"http://www.mayfair-offshore.com/" =
+title=3D"http://www.mayfair-offshore.com/"><span lang=3DEN-GB =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:blue'>www.=
+mayfair-offshore.com</span></a></span><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'><o:p></o:p></sp=
+an></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:=
+p></span></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>CONFIDENTIALITY=
+ NOTICE<o:p></o:p></span></b></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>This email is =
+confidential and may also contain privileged information. If you are not =
+the intended recipient (or have otherwise received this email in error), =
+please notify the sender immediately and delete this email from your =
+system. Any unauthorised copying, use, disclosure or distribution of the =
+contents of this email is strictly prohibited. We accept no liability =
+for any loss or damage that may be suffered as a result of any party =
+accessing this email or any attachments to it.</span><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'><o:p></o:p></sp=
+an></p></div><p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:=
+p></span></p><div><div style=3D'border:none;border-top:solid #B5C4DF =
+1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=3DMsoNormal><b><span =
+lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Tahoma",sans-serif'>From:</span></=
+b><span lang=3DEN-US =
+style=3D'font-size:10.0pt;font-family:"Tahoma",sans-serif'> Admin [<a =
+href=3D"mailto:londonadmin@formationshouse.com">mailto:londonadmin@format=
+ionshouse.com</a>] <br><b>Sent:</b> Wednesday, 31 January, 2018 5:09 =
+PM<br><b>To:</b> Prisca Julienne (Mayfair Trust Group Limited); =
+Nellianne Dookley (Mayfair Trust Group Limited); Info<br><b>Cc:</b> <a =
+href=3D"mailto:charlotte@formations.house">charlotte@formations.house</a>=
+<br><b>Subject:</b> Lesana Corporaiton =
+<o:p></o:p></span></p></div></div><p class=3DMsoNormal><span =
+lang=3DEN-US><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+lang=3DEN-US>Dear Prisca, Nellianne, <o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US>&nbsp; <o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US>Please could you kindly update us =
+on the renewal date for Lesana Corporaiton Ltd ? =
+<o:p></o:p></span></p><p class=3DMsoNormal><span lang=3DEN-US>&nbsp; =
+<o:p></o:p></span></p><p class=3DMsoNormal><span lang=3DEN-US>I have =
+also sent you a few emails regarding new incorporations but with no =
+success to the <a =
+href=3D"mailto:info@mayfair-offshore.com">info@mayfair-offshore.com</a>. =
+Perhaps you could check your spam/junk folders? <o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US>&nbsp; <o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US>I will now also resend to your =
+emails from this email address and hopefully you will receive. =
+<o:p></o:p></span></p><p class=3DMsoNormal><span lang=3DEN-US>&nbsp; =
+<o:p></o:p></span></p><p class=3DMsoNormal><span lang=3DEN-US>I look =
+forward to hearing from you. <o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US>&nbsp; <o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US>Kind regards =
+<o:p></o:p></span></p><p class=3DMsoNormal><span lang=3DEN-US>&nbsp; =
+<o:p></o:p></span></p><p class=3DMsoNormal><b><span lang=3DEN-US =
+style=3D'font-family:"Helvetica",sans-serif;color:#262626'>&nbsp; =
+</span></b><span lang=3DEN-US><o:p></o:p></span></p><p =
+class=3DMsoNormal><b><span lang=3DEN-US =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:#262626=
+'>Nadya Crawford</span></b><b><span lang=3DEN-US =
+style=3D'font-family:"Helvetica",sans-serif;color:#262626'> =
+</span></b><span lang=3DEN-US><o:p></o:p></span></p><p =
+class=3DMsoNormal><b><span lang=3DEN-US =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:#262626=
+'>Formations House</span></b><span lang=3DEN-US style=3D'color:black'> =
+</span><span lang=3DEN-US><o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:#1F4E79=
+'>&nbsp;&nbsp;</span><span lang=3DEN-US =
+style=3D'font-size:9.0pt;font-family:"Helvetica",sans-serif;color:gray'><=
+a href=3D"mailto:elliot@formationshouse.com"><span =
+style=3D'color:#767171'>londonadmin@formationshouse.com</span></a> =
+</span><span lang=3DEN-US><o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US style=3D'color:black'><a =
+href=3D"mailto:nadya@formations.house">nadya@formations.house</a> =
+</span><span lang=3DEN-US><o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US style=3D'color:black'><a =
+href=3D"mailto:support@formations.house">support@formations.house</a> =
+</span><span lang=3DEN-US><o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US style=3D'color:black'>&nbsp; =
+</span><span lang=3DEN-US><o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US style=3D'color:black'>&nbsp; =
+</span><span lang=3DEN-US><o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US>&nbsp; =
+<o:p></o:p></span></p></div></body></html>
+------=_NextPart_001_006B_01D39B59.4C73D2D0--
+
+------=_NextPart_000_006A_01D39B59.4C73D2D0
+Content-Type: image/jpeg;
+	name="image001.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <image001.jpg@01D39B59.4B7882E0>
+
+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
+dOdWWVAwkkToYyOmO4P4Y711tFFFFFFFFf/Z
+
+------=_NextPart_000_006A_01D39B59.4C73D2D0--
+

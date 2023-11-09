@@ -1,0 +1,11 @@
+Date: Thu, 29 Dec 2016 18:32:14 +0000
+Subject: Linked in Badge to page
+From: Maro Banakou <mbanakou@gmail.com>
+To: "Steve Smith (Formations House)" <steve@formationshouse.com>
+
+linked in Badge to profile:<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+Thank you!!
+
+
+Maria 

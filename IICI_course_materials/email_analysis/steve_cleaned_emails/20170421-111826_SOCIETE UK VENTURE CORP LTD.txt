@@ -1,0 +1,35 @@
+Date: Fri, 21 Apr 2017 11:18:26 +0200
+Subject: SOCIETE UK VENTURE CORP LTD
+From: bernard dupret <dupretbernard@gmail.com>
+To: "Steve Smith (Formations House)" <steve@formationshouse.com>
+
+Bonjour monsieur Steve Smith,
+J'essaye de me mettre à jour avec ma société UK VENTURE .CORP LTD
+
+Je voudrais faire ma déclaration de société dormante,mais chaque fois que
+je vais sur votre site FORMATION HOUSE et que je tape sur administrateur de
+la société, voila le message que je reçois immédiatement j'ai du faire au
+moins 20 essaies
+Le site à t'il un probleme? pouvez vous me répondre ou me dire comment faire
+Ce site est inaccessible
+
+Impossible de trouver l'adresse DNS du serveur *services.centre.biz
+<http://services.centre.biz>*.
+
+
+   - Essayez d'exécuter les diagnostics réseau de Windows.
+
+DNS_PROBE_FINISHED_NXDOMAIN
+Bonjour monsieur Steve Smith,
+J'essaye de me mettre à jour avec ma société UK VENTURE .CORP LTD
+Je voudrais faire ma déclaration de société dormante,mais chaque fois que je vais sur votre site FORMATION HOUSE et que je tape sur administrateur de la société, voila le message que je reçois immédiatement j'ai du faire au moins 20 essaies
+Le site à t'il un probleme? pouvez vous me répondre ou me dire comment faire
+Ce site est inaccessible
+Impossible de trouver l'
+adresse DNS
+du serveur
+services.centre.biz
+.
+Essayez d'exécuter les diagnostics réseau de Windows
+.
+DNS_PROBE_FINISHED_NXDOMAIN

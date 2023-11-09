@@ -1,0 +1,40 @@
+Date: Wed, 17 Feb 2016 14:23:48 +0500
+Subject: card details (APPLIED TECHNOLOGY SOLUTIONS LTD)
+From: "Sarah" <sarah@formationshouse.com>
+To: <londonadmin@formationshouse.com>
+
+ <javascript:none()> APPLIED TECHNOLOGY SOLUTIONS LTD
+Order 188314
+
+ 
+
+Please charge 140.00  from the below  Master Card (order # 188314)
+
+Card Type: Master Card
+Card Number: 5241 4899 9524 7536
+Billing Address: PO Box 6589, Jeddah - 21452,SAUDI ARABIA 
+Card Holder's name: IBRAHIM M MASOUD
+Expiry date:  9/17
+CCV Code: 234
+
+ 
+
+Thanks
+
+ 
+
+APPLIED
+TECHNOLOGY SOLUTIONS LTD
+Order 188314
+Please
+charge 140.00  from the below  Master Card (order # 188314)
+Card Type: Master Card
+Card Number: 5241 4899 9524 7536
+Billing Address: PO Box 6589, Jeddah - 21452,SAUDI ARABIA
+Card Holder's name: IBRAHIM M MASOUD
+Expiry date:  9/17
+CCV Code: 234
+Thanks
+__________ Information from ESET NOD32 Antivirus, version of virus signature database 13041 (20160217) __________
+The message was checked by ESET NOD32 Antivirus.
+http://www.eset.com

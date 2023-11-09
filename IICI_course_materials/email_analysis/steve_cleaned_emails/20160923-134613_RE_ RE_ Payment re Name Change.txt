@@ -1,0 +1,377 @@
+Date: Fri, 23 Sep 2016 13:46:13 +0000
+Subject: RE: RE: Payment re Name Change
+From: John Price <fao_john_price@hotmail.com>
+To: "Steve Smith (Formations House)" <steve@formationshouse.com>
+CC: "support@formationshouse.com" <support@formationshouse.com>
+
+Hi Steve and Shaun
+
+The payment of £25 for the name change has been made from my RBS account.  I cannot work out how to get the receipt but I have copied the screen confirmation into the attached.  Please check your account so the name change can be processed
+
+Many thanks
+
+John
+
+Sent from Mail<https://go.microsoft.com/fwlink/?LinkId=550986> for Windows 10
+
+From: Steve Smith (Formations House)<mailto:steve@formationshouse.com>
+Sent: 22 September 2016 19:36
+To: 'John Price'<mailto:fao_john_price@hotmail.com>
+Cc: support@formationshouse.com<mailto:support@formationshouse.com>
+Subject: RE: RE:
+
+Hi John,
+
+Sorry, I misinterpret and thought that your request was for new company formation and asked for due diligence documents if director would be a different person from the one appointed for FARADI PRICE. Very sorry about that.
+
+To change company, you can use Online Company Administrator service for GBP 25 (per annum) and this service is already active for FARADI PRICE. To submit company name change request please go through following steps:
+
+1. Login to your account at our website www.formationshouse.com
+
+2. Provide Customer ID and Password to login.
+
+3. Click on 'UK Company Admin"
+
+4. Select the company, if you have more than one company.
+
+5. Click on 'Online Company Administrator'
+
+6. Click on 'Change Company Name'
+
+7. Type in new required company name and hit search.
+
+8. If it shows that company name is available then hit 'Continue' link or provide alternate names until available.
+
+9. Select required information and click 'Submit'
+
+- If you select 'Same Day Change' (8 working hours Monday to Friday after payment is received) : cost GBP 125
+- If you do not select same day change then it will be processed within 5-7 working days and cost GBP 25
+
+10. Proceed and provide payment details and checkout.
+
+Company Name Change will be processed as soon as payment is received.
+
+Once company is changed, company’s certificate of incorporation will be replaced by Company Name Change certificate it will be use as company certificate of incorporation.
+
+Regarding availability of company name, I have checked with Companies House and it seems that company name Divergent UK will be rejected because a company name DIVERGENT LIMITED (09426220). Words like THE, AND, UK, INTERNATIOAL are not considered as pat of company name. Therefore please arrange alternate company name.
+
+And just to let you know if you are registering a new company and directors are same as previous company, then due diligence provided is acceptable if:
+
+- passports are valid
+And
+- proof of residence is dated within last 3 months of the new order
+
+Otherwise, we need to do due diligence again.
+
+Regards,
+
+Steve..
+
+From: John Price [mailto:fao_john_price@hotmail.com]
+Sent: Thursday, 22 September, 2016 9:54 PM
+To: Steve Smith (Formations House)
+Subject: RE: RE:
+
+Hi Steve
+
+Really?  You had all of the due diligence less than a month ago when you set up the company.  This is only a change of name request.  Not a new company.  Am I missing something here?  As a banking Compliance Officer, I know very well the Due Diligence Requirements of the HMRC ML Regulations.  We have fully satisfied this already, less than a month ago, and therefore as an existing customer/relationship this is not necessary again.  Can you please explain why you need all of this again?  And while we discuss, and potentially have to gather these docs again, is there any way you could you at least reserve the name so we don’t lose it?
+
+
+Thanks
+
+John
+
+Sent from Mail<https://go.microsoft.com/fwlink/?LinkId=550986> for Windows 10
+
+From: Steve Smith (Formations House)<mailto:steve@formationshouse.com>
+Sent: 22 September 2016 16:53
+To: 'John Price'<mailto:fao_john_price@hotmail.com>
+Cc: support@formationshouse.com<mailto:support@formationshouse.com>
+Subject: RE: RE:
+
+Hi John,
+
+Thank you for your email.
+
+You can place the order for new company on this link:
+
+http://www.formationshouse.com/search/search.php
+
+And if you face any problem then please use the attach file ‘Form_ltd_by_shares_all’ to provide information for the company and sheet 1 ‘Company Incorp Application’ and select additional services on sheet 2 ‘Additional Services IF Required’.
+
+After completing the online order  send it back to me with following documents for due diligence from company director and bank transfer receipt as payment proof.
+
+In case if you use the attach file then send the filled form and due diligence documents. You can send the payment after we provide you with the order number.
+
+Documents  for Due Diligence
+:
+1. Proof of ID - Valid Passport (bearer signature, passport number, barcode and all other information must be visible)
+2. Proof of Residential Address - Last 3 months utility bills (water OR gas OR electricity) or latest personal bank/credit card statement. (issue date, name, address and account number must be visible)
+
+Please note that only above mentioned documents are acceptable, any other document will be rejected and  make sure that scans are clear and in readable size and format
+
+Please use following information to pay by bank transfer and once payment is done please send us the bank transfer receipt.
+
+Account name : AC Online Ltd (29 Harley Street London W1G 9QR)
+Bank : Santander Corporate (Bridle Road Bootle Merseyside L30 4GB)
+Sort Code: 09-02-22
+Account number: 10339811
+Currency: GBP
+BIC\SWIFT: ABBYGB2LXXX
+IBAN: GB76ABBY09022210339811
+
+Regards
+
+Steve…
+
+
+From: John Price [mailto:fao_john_price@hotmail.com]
+Sent: Thursday, 22 September, 2016 2:28 PM
+To: Steve Smith (Formations House)
+Subject: RE: RE:
+
+Hi Steve
+
+I hope you are well.  You recently created a company for us, Faradi Price.  We have now settled on a new name and would like to get this registered asap.  The new name is
+       Divergent UK  Ltd
+
+I have checked on webcheck and this is available.  Please let me know what we need to do to effect this asap.  And of course, bank details so I can pay you.
+
+Regards
+
+John Price
+
+Sent from Mail<https://go.microsoft.com/fwlink/?LinkId=550986> for Windows 10
+
+From: Steve Smith (Formations House)<mailto:steve@formationshouse.com>
+Sent: 12 August 2016 16:29
+To: 'John Price'<mailto:fao_john_price@hotmail.com>
+Cc: 'Nirvana farhadi'<mailto:nirvanaparpar@yahoo.co.uk>
+Subject: RE:
+
+Hi John
+
+Image size for credit card payment authorization form is very small and when we enlarge it the information get blur (attachment).
+
+Please increase the size/quality of picture on camera/cell phone and then take the picture and send it to me.
+
+It is almost 4:30, I will try to process payment and submit application before by 5pm.
+
+Please reply as soon as possible.
+
+By the way new copy of Ms. Farhadi passport is perfect.
+
+Regards
+
+Steve..
+
+
+From: John Price [mailto:fao_john_price@hotmail.com]
+Sent: Friday, 12 August, 2016 8:17 PM
+To: steve@formationshouse.com
+Cc: Nirvana farhadi
+Subject:
+
+Hi Steve
+
+
+Attached is a photo of the cc auth form.  Let me know if you need anything else.
+
+Re the blue form - application details - You have omitted the name of Ms. Farhadi's other company  '  Faradi Financial Solutions Ltd'
+
+Hopefully you have now received the additional copy passport and we a all set.
+
+Have a good weekend.
+
+Regards
+
+John
+From: fao_john_price@hotmail.com
+Date: Fri, 12 Aug 2016 16:10:53 +0100
+To: fao_john_price@hotmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sent from my iPhone
+
+
+__________ Information from ESET NOD32 Antivirus, version of virus signature database 13950 (20160812) __________
+
+The message was checked by ESET NOD32 Antivirus.
+
+http://www.eset.com
+
+
+__________ Information from ESET NOD32 Antivirus, version of virus signature database 13950 (20160812) __________
+
+The message was checked by ESET NOD32 Antivirus.
+
+http://www.eset.com
+Hi Steve and Shaun
+The payment of £25 for the name change has been made from my RBS account.  I cannot work out how to get the receipt but I have copied the screen confirmation into the attached.  Please check your account so the name change can be processed
+Many thanks
+John
+Sent from
+Mail
+for Windows 10
+From:
+Steve Smith (Formations House)
+Sent:
+22 September 2016 19:36
+To:
+'John Price'
+Cc:
+support@formationshouse.com
+Subject:
+RE: RE:
+Hi John,
+Sorry, I misinterpret and thought that your request was for new company formation and asked for due diligence documents if director would be a different person from the one appointed for FARADI PRICE. Very sorry about that.
+To change company, you can use Online Company Administrator service for GBP 25 (per annum) and this service is already active for FARADI PRICE. To submit company name change request please go through following steps:
+1. Login to your account at our website www.formationshouse.com
+2. Provide Customer ID and Password to login.
+3. Click on 'UK Company Admin"
+4. Select the company, if you have more than one company.
+5. Click on 'Online Company Administrator'
+6. Click on 'Change Company Name'
+7. Type in new required company name and hit search.
+8. If it shows that company name is available then hit 'Continue' link or provide alternate names until available.
+9. Select required information and click 'Submit'
+- If you select 'Same Day Change' (8 working hours Monday to Friday after payment is received) : cost GBP 125
+- If you do not select same day change then it will be processed within 5-7 working days and cost GBP 25
+10. Proceed and provide payment details and checkout.
+Company Name Change will be processed as soon as payment is received.
+Once company is changed, company’s certificate of incorporation will be replaced by Company Name Change certificate it will be use as company certificate of incorporation.
+Regarding availability of company name, I have checked with Companies House and it seems that company name Divergent UK will be rejected because a company name
+DIVERGENT LIMITED (09426220). Words like THE, AND, UK, INTERNATIOAL are not considered as pat of company name. Therefore please arrange alternate company name.
+And j
+ust to let you know if you are registering a new company and directors are same as previous company, then due diligence provided is acceptable if:
+- passports are valid
+And
+- proof of residence is dated within last 3 months of the new order
+Otherwise, we need to do due diligence again.
+Regards,
+Steve..
+From:
+John Price [mailto:fao_john_price@hotmail.com]
+Sent:
+Thursday, 22 September, 2016 9:54 PM
+To:
+Steve Smith (Formations House)
+Subject:
+RE: RE:
+Hi Steve
+Really?  You had all of the due diligence less than a month ago when you set up the company.  This is only a change of name request.  Not a new company.  Am I missing something here?  As a banking Compliance Officer, I know very well the
+ Due Diligence Requirements of the HMRC ML Regulations.  We have fully satisfied this already, less than a month ago, and therefore as an existing customer/relationship this is not necessary again.  Can you please explain why you need all of this again?  And
+ while we discuss, and potentially have to gather these docs again, is there any way you could you at least reserve the name so we don’t lose it?
+Thanks
+John
+Sent from
+Mail
+for Windows 10
+From:
+Steve Smith (Formations House)
+Sent:
+22 September 2016 16:53
+To:
+'John Price'
+Cc:
+support@formationshouse.com
+Subject:
+RE: RE:
+Hi John,
+Thank you for your email.
+You can place the order for new company on this link:
+http://www.formationshouse.com/search/search.php
+And if you face any problem then please use the attach file ‘Form_ltd_by_shares_all’ to provide information for the company and sheet 1
+‘
+Company Incorp Application’ and select
+ additional services on sheet 2 ‘Additional Services IF Required’.
+After completing the online order  send it back to me with following documents for due diligence from company director and bank transfer receipt as payment proof.
+In case if you use the attach file then send the filled form and due diligence documents. You can send the payment after we provide you with the order number.
+Documents  for Due Diligence
+:
+1. Proof of ID - Valid Passport (bearer signature, passport number, barcode and all other information must be visible)
+2. Proof of Residential Address - Last 3 months utility bills (water OR gas OR electricity) or latest personal bank/credit card statement. (issue date, name, address and account number must be visible)
+Please note that only above mentioned documents are acceptable, any other document will be rejected and  make sure that scans are clear and in readable size and format
+Please use following information to pay by bank transfer and once payment is done please send us the bank transfer receipt.
+Account name : AC Online Ltd (29 Harley Street London W1G 9QR)
+Bank : Santander Corporate (Bridle Road Bootle Merseyside L30 4GB)
+Sort Code: 09-02-22
+Account number: 10339811
+Currency: GBP
+BIC\SWIFT: ABBYGB2LXXX
+IBAN: GB76ABBY09022210339811
+Regards
+Steve…
+From:
+John Price [mailto:fao_john_price@hotmail.com]
+Sent:
+Thursday, 22 September, 2016 2:28 PM
+To:
+Steve Smith (Formations House)
+Subject:
+RE: RE:
+Hi Steve
+I hope you are well.  You recently created a company for us, Faradi Price.  We have now settled on a new name and would like to get this registered asap.  The new name is
+Divergent UK  Ltd
+I have checked on webcheck and this is available.  Please let me know what we need to do to effect this asap.  And of course, bank details so I can pay you.
+Regards
+John Price
+Sent from
+Mail
+for Windows 10
+From:
+Steve Smith (Formations House)
+Sent:
+12 August 2016 16:29
+To:
+'John Price'
+Cc:
+'Nirvana farhadi'
+Subject:
+RE:
+Hi John
+Image size for credit card payment authorization form is very small and when we enlarge it the information get blur (attachment).
+Please increase the size/quality of picture on camera/cell phone and then take the picture and send it to me.
+It is almost 4:30, I will try to process payment and submit application before by 5pm.
+Please reply as soon as possible.
+By the way new copy of Ms. Farhadi passport is perfect.
+Regards
+Steve..
+From:
+John Price [mailto:fao_john_price@hotmail.com]
+Sent:
+Friday, 12 August, 2016 8:17 PM
+To:
+steve@formationshouse.com
+Cc:
+Nirvana farhadi
+Subject:
+Hi Steve
+Attached is a photo of the cc auth form.  Let me know if you need anything else.
+Re the blue form - application details - You have omitted the name of Ms. Farhadi's other company  '  Faradi Financial Solutions Ltd'
+Hopefully you have now received the additional copy passport and we a all set.
+Have a good weekend.
+Regards
+John
+From: fao_john_price@hotmail.com
+Date: Fri, 12 Aug 2016 16:10:53 +0100
+To: fao_john_price@hotmail.com
+Sent from my iPhone
+__________ Information from ESET NOD32 Antivirus, version of virus signature database 13950 (20160812) __________
+The message was checked by ESET NOD32 Antivirus.
+http://www.eset.com
+__________ Information from ESET NOD32 Antivirus, version of virus signature database 13950 (20160812) __________
+The message was checked by ESET NOD32 Antivirus.
+http://www.eset.com

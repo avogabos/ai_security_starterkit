@@ -1,0 +1,49 @@
+Date: Mon, 31 Oct 2016 00:43:07 -0400 (EDT)
+Subject: Whois Data Reminder - ukpradmin.com
+From: No-Reply@onlinenic.com<No-Reply@onlinenic.com>
+To: <londonadmin@formationshouse.com>
+
+Whois Data Reminder
+Dear Domain Registrant,
+This e-mail is a reminder for you to review and correct any inaccurate Whois information associated with your domain registration on ukpradmin.com. Our records include the following information.
+[whois info]
+Domain: ukpradmin.com
+Registrar Name: ONLINENIC, INC.
+Registrant:
+Name: UKPR LTD
+Address: Suite B, 29 Harley Street
+City: London
+State/Province: London
+Country: GB
+Postal Code: W1N 1DA
+Administrative Contact:
+Name: UKPR LTD
+Address: Suite B, 29 Harley Street
+City: London
+State/Province: London
+Country: GB
+Postal Code: W1N 1DA
+Phone: +00.0000000000
+Fax: +00.0000000000
+Email: londonadmin@formationshouse.com
+Technical Contact:
+Name: UKPR LTD
+Address: Suite B, 29 Harley Street
+City: London
+State/Province: London
+Country: GB
+Postal Code: W1N 1DA
+Phone: +00.0000000000
+Fax: +00.0000000000
+Email: londonadmin@formationshouse.com
+Original Creation Date: 10/26/2016
+Expiration Date: 10/26/2017
+Nameserver Information:
+Nameserver: ns1.infinidomains.com
+Nameserver: ns1.universaldomains.com
+Under ICANN rules at
+http://www.icann.org/whois/wdrp-registrant-faq.htm
+, domain name registrants are obligated to review the contact information associated with their domain names and make corrections whenever necessary. The provision of false Whois information can be grounds for cancellation of your domain name registration.
+If you confirm the current whois information is full and accurate, you could simply ignore this notification.
+If you need to update whois information, please contact your domain name Service Provider for direct assistance.
+Regards.

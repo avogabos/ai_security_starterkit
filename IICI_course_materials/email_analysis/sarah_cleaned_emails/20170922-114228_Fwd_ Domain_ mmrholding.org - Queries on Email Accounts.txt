@@ -1,0 +1,89 @@
+Date: Fri, 22 Sep 2017 11:42:28 +0400
+Subject: Fwd: Domain: mmrholding.org - Queries on Email Accounts
+From: Sasikumar <sasikumar227@gmail.com>
+To: support <support@formationshouse.com>
+CC: Sarah <sarah@formationshouse.com>
+
+Dear Sirs/Madam,
+
+Request your assistance by clarifying the queries in the trailing email.
+
+Regards,
+
+Sasikumar
+
+---------- Forwarded message ----------
+From: Sasikumar <sasikumar227@gmail.com>
+Date: Wed, 20 Sep 2017 23:18:06 +0400
+Subject: Fwd: Domain: mmrholding.org - Queries on Email Accounts
+To: support <support@formationshouse.com>
+
+Dear Sirs/Madam,
+
+Awaiting your reply to our below request.
+
+Regards.
+
+---------- Forwarded message ----------
+From: Sasikumar <sasikumar227@gmail.com>
+Date: Wed, 20 Sep 2017 10:39:46 +0400
+Subject: Domain: mmrholding.org - Queries on Email Accounts
+To: support@formationshouse.com
+
+Dear Sirs/Madam,
+
+With reference to the below email, we have created the emails accounts
+that we wanted as per the guidance provided by you.
+
+Now we would like to know the following:
+
+1. There are two email IDs in the email account.  For eg.
+admin@mmrholding.org was created by us, but automatically another
+email ID, admin_73843@10091808.infinioffice.com got created.
+
+admin@mmrholding.org	
+admin_73843@10091808.infinioffice.com	
+
+Please clarify.
+
+2. The Administration Panel is not opening.  When it is clicked it
+shows the following and remains the same.
+
+"Please Wait while loading the interface......"
+
+3. We are not able to attach any file.
+
+4. What about the size of each email account?
+
+5. How to configure in outlook express?
+
+6. How to configure on iphone, android, etc.
+
+7. POP account details for incoming and outgoing emails.
+
+We look forward to your reply ASAP.
+
+Regards,
+
+Sasikumar
+
+On 7/3/17, support@formationshouse.com <support@formationshouse.com> wrote:
+> Dear Customer,
+>
+> Thank you for your email.
+>
+> Please implement the following steps to create unlimited POP email accounts.
+> - Go to www.formationshouse.com
+> - Click on MY ACCOUNT
+> - Login to your account using your customer ID and password.
+> - Click on "Domain Hosting And Email Admin"
+> - Click on your domain name "mmrholding.org"
+> - Click on Email POP accounts to add new email accounts.
+>
+> If you need any assistance, please feel free to contact us at
+> support@formationshouse.com or call us on 0207 016 2728.
+>
+> Kind Regards,
+>
+> Customer Support
+> FORMATIONS HOUSE

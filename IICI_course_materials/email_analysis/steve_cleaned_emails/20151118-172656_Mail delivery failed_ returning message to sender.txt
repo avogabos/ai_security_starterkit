@@ -1,0 +1,331 @@
+Date: Wed, 18 Nov 2015 17:26:56 +0000
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: steve@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  accounts@arkspin.uk
+    SMTP error from remote mail server after RCPT TO:<accounts@arkspin.uk>:
+    host mx00.1and1.co.uk [212.227.15.41]: 550 Requested action not taken:
+    mailbox unavailable
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <steve@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1Zz6VS-0005NO-Ai ; Wed, 18 Nov 2015 17:26:55 +0000
+From: "Steve Smith \(Formations House\)" <steve@formationshouse.com>
+To: <accounts@arkspin.uk>
+Cc: <support@formationshouse.com>
+Subject: Re:Mail: ENTIRE DATA LTD : Urgent Response Required
+Date: Wed, 18 Nov 2015 22:28:03 +0500
+Message-ID: <003a01d12226$7caed7f0$760c87d0$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_003B_01D12250.6584DFF0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdEiJnq8Qv8WqrTdStGJBg/ix5NRLA==
+Content-Language: en-us
+X-Spam-Status: X-Spam-Score: 1.4:
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_003B_01D12250.6584DFF0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear Kelvin Hope
+
+ 
+
+
+Thank you for your order for UK readymade company 'ENTIRE DATA LTD'.
+
+ 
+
+
+Please assist us in completing due diligence by providing color scan copies
+of following documents for company director 'Mr Kevin Hope'.
+
+ 
+
+
+1. Proof of ID - Valid Passport
+2. Proof of Residential Address - Last 3 months utility bills (water OR gas
+OR electricity) or latest personal bank/credit card statement. (Please do
+not send telephone, mobile, tv or internet bill, these are not acceptable.)
+
+ 
+
+
+If the documents are not in English then you need to have them translated
+and notorized. And send original and translated copies.
+
+ 
+
+
+Payment: We were not able to process your payment online, to re-try online
+payment, please go through following steps:
+
+ 
+
+
+1. Login to your account at our website www.formationshouse.com
+<http://support.formationshouse.com:8081/%22http:/www.formationshouse.com/%2
+2>  using MY ACCOUNT link and provide your Customer ID and Password.
+2. Click on 'Update Payment'
+3. On the next page, click on 'Update Payment' for the specific order.
+4. Provide your credit card details and check out.
+
+ 
+
+
+Or you can use following information to pay by bank transfer and once
+payment is done please send us the bank transfer receipt.
+
+ 
+
+
+Account name : AC Online Ltd
+Bank : Santander Corporate
+Sort Code: 09-02-22
+Account number: 10339811
+Currency: GBP
+BIC: ABBYGB2LXXX
+IBAN: GB76ABBY09022210339811
+
+ 
+
+
+Please provide us with above mentioned documents and payment informaiton as
+soon as possible so that we can further proceed with your application.
+
+ 
+
+
+If you require further information or assistance you can contact me at
+info@formationshouse.com
+<http://support.formationshouse.com:8081/%22mailto:info@formationshouse.com/
+%22>  or steve@formationshouse.com
+<http://support.formationshouse.com:8081/%22mailto:steve@formationshouse.com
+/%22>  or 0044-(0)207-016-2727 Monday to Friday 11am to 7pm GMT.
+
+ 
+
+
+Regards
+
+ 
+
+
+Steve Smith
+
+ 
+
+FORMATIONS HOUSE
+www.formationshouse.com
+<http://support.formationshouse.com:8081/%22http:/www.formationshouse.com/%2
+2> 
+
+ 
+
+
+------=_NextPart_000_003B_01D12250.6584DFF0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+
+
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p>Dear Kelvin Hope<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p><br>
+Thank you for your order for UK readymade company 'ENTIRE DATA =
+LTD'.<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p><br>
+Please assist us in completing due diligence by providing color scan =
+copies of
+following documents for company director 'Mr Kevin Hope'.<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p><br>
+1. Proof of ID - Valid Passport<br>
+2. Proof of Residential Address - Last 3 months utility bills (water OR =
+gas OR
+electricity) or latest personal bank/credit card statement. (Please do =
+not send
+telephone, mobile, tv or internet bill, these are not =
+acceptable.)<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p><br>
+If the documents are not in English then you need to have them =
+translated and
+notorized. And send original and translated copies.<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p><br>
+Payment: We were not able to process your payment online, to re-try =
+online
+payment, please go through following steps:<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p><br>
+1. Login to your account at our website <a
+href=3D"http://support.formationshouse.com:8081/%22http:/www.formationsho=
+use.com/%22">www.formationshouse.com</a>
+using MY ACCOUNT link and provide your Customer ID and Password.<br>
+2. Click on 'Update Payment'<br>
+3. On the next page, click on &#8216;Update Payment&#8217; for the =
+specific
+order.<br>
+4. Provide your credit card details and check out.<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p><br>
+Or you can use following information to pay by bank transfer and once =
+payment
+is done please send us the bank transfer receipt.<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p><br>
+Account name : AC Online Ltd<br>
+Bank : Santander Corporate<br>
+Sort Code: 09-02-22<br>
+Account number: 10339811<br>
+Currency: GBP<br>
+BIC: ABBYGB2LXXX<br>
+IBAN: GB76ABBY09022210339811<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p><br>
+Please provide us with above mentioned documents and payment informaiton =
+as
+soon as possible so that we can further proceed with your =
+application.<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p><br>
+If you require further information or assistance you can contact me at =
+<a
+href=3D"http://support.formationshouse.com:8081/%22mailto:info@formations=
+house.com/%22">info@formationshouse.com</a>
+or <a
+href=3D"http://support.formationshouse.com:8081/%22mailto:steve@formation=
+shouse.com/%22">steve@formationshouse.com</a>
+or 0044-(0)207-016-2727 Monday to Friday 11am to 7pm GMT.<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p><br>
+Regards<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p><br>
+Steve Smith<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p>FORMATIONS HOUSE<br>
+<a
+href=3D"http://support.formationshouse.com:8081/%22http:/www.formationsho=
+use.com/%22">www.formationshouse.com</a><o:p></o:p></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+ <BR><BR>__________ Information from ESET NOD32 Antivirus, version of =
+virus signature database 12587 (20151118) __________<BR><BR>The message =
+was checked by ESET NOD32 Antivirus.<BR><BR><A =
+HREF=3D"http://www.eset.com">http://www.eset.com</A><BR> </body>
+
+</html>
+
+------=_NextPart_000_003B_01D12250.6584DFF0--
+

@@ -1,0 +1,341 @@
+Date: Tue, 11 Apr 2017 15:06:02 +0100
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: londonadmin@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  mk@hartwiglondon.eu
+    retry timeout exceeded
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <londonadmin@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1cxwQh-0004Xv-S0 
+	for <mk@hartwiglondon.eu>; Tue, 11 Apr 2017 15:06:01 +0100
+From: "Admin " <londonadmin@formationshouse.com>
+To: "'Manfred Kuhn'" <mk@hartwiglondon.eu>
+Subject: appointment 12.04.2017
+Date: Tue, 11 Apr 2017 15:05:27 +0100
+Message-ID: <016501d2b2cc$abeeeb80$03ccc280$@formationshouse.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0166_01D2B2D5.0DB464F0"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AdKyzIPlSHSvHIR3S0WHPpPPokkE4w==
+Content-Language: en-gb
+X-Spam-Status: X-Spam-Score: 3.5:
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0166_01D2B2D5.0DB464F0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Mr. Kuhn,=20
+
+=20
+
+Please could you kindly confirm tomorrow=E2=80=99s appointment was for =
+11 or 11.30? So sorry! Memory is like a sieve.=20
+
+=20
+
+Thank you
+
+=20
+
+Kind regards
+
+Nadya
+
+Formations House
+
+=20
+
+From: Manfred Kuhn [mailto:mk@hartwiglondon.eu]=20
+Sent: 04 April 2017 13:09
+To: londonadmin@formationshouse.com
+Subject: Re: Hartwig London Website Request
+
+=20
+
+Dear Ms Crawford,
+
+=20
+
+we have now moved. =20
+
+=20
+
+We will temporarily be located until 30 April 2017 at Southside, 105 =
+Victoria Street, London SW1E 6QT, just opposite Westminster City Hall, =
+before we finally move to our new offices in 22a St. James=E2=80=99s =
+Square, London SW1Y 4JH on 1 May 2017.
+
+=20
+
+Our new telephone number is 020 3457 2690. Appointments have to be made =
+one day in advance as I have to notify ground floor reception of all =
+visitors expected the following day. =20
+
+=20
+
+I confirm the appointment for 10.30 am tomorrow.=20
+
+=20
+
+Kind regards
+
+=20
+
+=20
+
+M Kuhn
+
+Hartwig Solicitors & Notaries Public| 105 Victoria Street, London SW1E =
+6QT.
+
+Phone 020 3457 2690|
+
+Solicitors regulated by the Solicitors=E2=80=99 Regulation Authority: =
+SRA 50821
+
+Public Notaries regulated by the Faculty Office | Our relations with =
+clients
+
+are governed by English law
+
+=20
+
+From: londonadmin@formationshouse.com =
+<mailto:londonadmin@formationshouse.com> =20
+
+Sent: Tuesday, April 04, 2017 11:51 AM
+
+To: mk@hartwiglondon.eu <mailto:mk@hartwiglondon.eu> =20
+
+Subject: Hartwig London Website Request
+
+=20
+
+There was an email sent from the Hartwig London Website=20
+First Name : Nadya=20
+Last Name : Crawford=20
+Email Address : londonadmin@formationshouse.com =
+<mailto:londonadmin@formationshouse.com> =20
+Telephone Number : 0207 612 4888=20
+
+Comments :
+Trying to get through to Mr. Kuhn on 0207 470 7131 however message is =
+"sorry the number you are trying to call does not exist" - please advise =
+as we need to Notarise a set of UK company documents and then go to the =
+FCO.=20
+I look forward to hearing from you.=20
+
+Kind regards
+Nadya=20
+
+
+------=_NextPart_000_0166_01D2B2D5.0DB464F0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 15 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-GB link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-la=
+nguage:EN-US'>Dear Mr. Kuhn, <o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-la=
+nguage:EN-US'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-la=
+nguage:EN-US'>Please could you kindly confirm tomorrow=E2=80=99s =
+appointment was for 11 or 11.30? So sorry! Memory is like a sieve. =
+<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-la=
+nguage:EN-US'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-la=
+nguage:EN-US'>Thank you<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-la=
+nguage:EN-US'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-la=
+nguage:EN-US'>Kind regards<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-la=
+nguage:EN-US'>Nadya<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-la=
+nguage:EN-US'>Formations House<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-la=
+nguage:EN-US'><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm =
+0cm 0cm'><p class=3DMsoNormal><b><span lang=3DEN-US =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'>From:</span><=
+/b><span lang=3DEN-US =
+style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif'> Manfred =
+Kuhn [mailto:mk@hartwiglondon.eu] <br><b>Sent:</b> 04 April 2017 =
+13:09<br><b>To:</b> londonadmin@formationshouse.com<br><b>Subject:</b> =
+Re: Hartwig London Website Request<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><div><div><p =
+class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>Dear Ms =
+Crawford,<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>&nbsp;<o:p></o:p><=
+/span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>we have now =
+moved.&nbsp; <o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>&nbsp;<o:p></o:p><=
+/span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>We will =
+temporarily be located <strong><span =
+style=3D'font-family:"Calibri",sans-serif'>until 30 April =
+2017</span></strong> at <strong><span =
+style=3D'font-family:"Calibri",sans-serif'>Southside, 105 Victoria =
+Street, London SW1E 6QT</span></strong>, just opposite Westminster City =
+Hall, before we finally move to our new offices in <strong><span =
+style=3D'font-family:"Calibri",sans-serif'>22a St. James=E2=80=99s =
+Square, London SW1Y 4JH on 1 May =
+2017.</span></strong><o:p></o:p></span></p></div><div><p =
+class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>&nbsp;<o:p></o:p><=
+/span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>Our new telephone =
+number is <strong><span style=3D'font-family:"Calibri",sans-serif'>020 =
+3457 2690</span></strong>. Appointments have to be made one day in =
+advance as I have to notify ground floor reception of all visitors =
+expected the following day.&nbsp; <o:p></o:p></span></p></div><div><p =
+class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>&nbsp;<o:p></o:p><=
+/span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>I confirm the =
+appointment for 10.30 am tomorrow. <o:p></o:p></span></p></div><div><p =
+class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>&nbsp;<o:p></o:p><=
+/span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>Kind =
+regards<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>&nbsp;<o:p></o:p><=
+/span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>&nbsp;<o:p></o:p><=
+/span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>M =
+Kuhn<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>Hartwig =
+Solicitors &amp; Notaries Public| 105 Victoria Street, London SW1E =
+6QT.<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>Phone 020 3457 =
+2690|<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>Solicitors =
+regulated by the Solicitors=E2=80=99 Regulation Authority: SRA =
+50821<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>Public Notaries =
+regulated by the Faculty Office | Our relations with =
+clients<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>are governed by =
+English law<o:p></o:p></span></p></div><div><div><div><p =
+class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma",sans-serif;color:black'>&n=
+bsp;<o:p></o:p></span></p></div><div><div><p class=3DMsoNormal =
+style=3D'background:whitesmoke'><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma",sans-serif;color:black'>Fr=
+om:</span></b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma",sans-serif;color:black'> =
+<a href=3D"mailto:londonadmin@formationshouse.com" =
+title=3D"londonadmin@formationshouse.com">londonadmin@formationshouse.com=
+</a> <o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:whitesmoke'><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma",sans-serif;color:black'>Se=
+nt:</span></b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma",sans-serif;color:black'> =
+Tuesday, April 04, 2017 11:51 AM<o:p></o:p></span></p></div><div><p =
+class=3DMsoNormal style=3D'background:whitesmoke'><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma",sans-serif;color:black'>To=
+:</span></b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma",sans-serif;color:black'> =
+<a href=3D"mailto:mk@hartwiglondon.eu" =
+title=3D"mk@hartwiglondon.eu">mk@hartwiglondon.eu</a> =
+<o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'background:whitesmoke'><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma",sans-serif;color:black'>Su=
+bject:</span></b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma",sans-serif;color:black'> =
+Hartwig London Website =
+Request<o:p></o:p></span></p></div></div></div><div><p =
+class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>&nbsp;<o:p></o:p><=
+/span></p></div></div><div><p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri",sans-serif;color:black'>There was an =
+email sent from the Hartwig London Website <br>First Name : Nadya =
+<br>Last Name : Crawford <br>Email Address : <a =
+href=3D"mailto:londonadmin@formationshouse.com">londonadmin@formationshou=
+se.com</a> <br>Telephone Number : 0207 612 4888 <br><br>Comments =
+:<br>Trying to get through to Mr. Kuhn on 0207 470 7131 however message =
+is &quot;sorry the number you are trying to call does not exist&quot; - =
+please advise as we need to Notarise a set of UK company documents and =
+then go to the FCO. <br>I look forward to hearing from you. <br><br>Kind =
+regards<br>Nadya =
+<o:p></o:p></span></p></div></div></div></div></body></html>
+------=_NextPart_000_0166_01D2B2D5.0DB464F0--
+

@@ -1,0 +1,28 @@
+Date: Thu, 26 May 2016 15:12:22 +0500
+Subject: hi
+From: "Oliver" <oliver@formationshouse.com>
+To: <londonadmin@formationshouse.com>
+
+Plz charge 170 GBP
+
+ 
+
+Card Number             5410 8511 2492 3094
+
+Cardholders Name                George Schizas
+
+Address where the card is registered        26 Polygnotou, 304B, Limassol,
+3082, Cyprus
+
+Expiry Date                November 2017
+
+CCV Code: security code                 666
+
+ 
+
+Plz charge 170 GBP
+Card Number             5410 8511 2492 3094
+Cardholders Name                George Schizas
+Address where the card is registered        26 Polygnotou, 304B, Limassol, 3082, Cyprus
+Expiry Date                November 2017
+CCV Code: security code                 666

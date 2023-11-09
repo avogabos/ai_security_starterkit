@@ -1,0 +1,120 @@
+Date: Thu, 09 Jul 2015 02:20:44 -0700
+Subject: Receipt for Your Payment to Digital River Ireland, Ltd.
+From: "service@paypal.co.uk" <service@paypal.co.uk>
+To: TRADING GLOBAL SERVICES LTD <admin@tradingglobalservices.com>
+
+9 Jul 2015 10:20:12 BST | Transaction ID: 7E313935DR9757426
+
+
+Dear TRADING GLOBAL SERVICES LTD,
+
+You sent a payment of $59.44 USD to Digital River Ireland, Ltd..
+
+
+It may take a few moments for this transaction to appear in your account.
+
+----------------------------------------------------------------
+
+Merchant:
+Digital River Ireland, Ltd.
+atlanticpaypalukSARLcs@digitalriver.com
+
+
+
+Instructions to merchant:
+You haven't entered any instructions.
+
+
+-----------------------------------
+Purchase Details
+-----------------------------------
+
+Description: DRI*TechSmith order 10227141559
+Unit price: $59.44 USD
+Qty: 1
+Amount: $59.44 USD
+
+
+Subtotal: $59.44 USD
+
+Total: $59.44 USD
+
+Payment: $59.44 USD
+Payment sent to: atlanticpaypalukSARLcs@digitalriver.com
+From amount: £39.97 GBP
+To amount: $59.44 USD
+Exchange rate: 1 GBP = 1.48743 USD
+
+Invoice ID: 10227141559
+
+
+
+----------------------------------------------------------------
+
+
+
+Issues with this transaction?
+You have 180 days from the date of the transaction to open a dispute in the Resolution Centre.
+
+Questions? Go to the Help Centre at www.paypal.com/uk/help
+
+
+Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For help, log in to your PayPal account and click Help on any PayPal page.
+
+You can receive plain text emails instead of HTML emails. To change your Notification preferences, log in to your account, go to your Profile and click My account settings.
+
+Copyright © 1999-2015 PayPal. All rights reserved.
+
+PayPal (Europe) S.à r.l. et Cie, S.C.A.
+Société en Commandite par Actions
+Registered Office: 22-24 Boulevard Royal, L-2449, Luxembourg
+RCS Luxembourg B 118 349
+
+PPID PP120 - 24ea6b0f67509 
+9 Jul 2015 10:20:12 BST
+Transaction ID:
+7E313935DR9757426
+Dear TRADING GLOBAL SERVICES LTD,
+You sent a payment of $59.44 USD to Digital River Ireland, Ltd..
+It may take a few moments for this transaction to appear in your account.
+Merchant
+Digital River Ireland, Ltd.
+atlanticpaypalukSARLcs@digitalriver.com
+Instructions to merchant
+You haven't entered any instructions.
+Description
+Unit price
+Qty
+Amount
+DRI*TechSmith order 10227141559
+$59.44 USD
+1
+$59.44 USD
+Subtotal
+$59.44 USD
+Total
+$59.44 USD
+Payment
+$59.44 USD
+Payment sent to atlanticpaypalukSARLcs@digitalriver.com
+From amount
+£39.97 GBP
+To amount
+$59.44 USD
+Exchange rate: 1 GBP = 1.48743USD
+Invoice ID: 10227141559
+Issues with this transaction?
+You have 180 days from the date of the transaction to open a dispute in the Resolution Centre.
+Questions? Go to the Help Centre at www.paypal.com/uk/help
+Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For help, log in to your PayPal account and click
+Help
+on any PayPal page.
+You can receive plain text emails instead of HTML emails. To change your Notification preferences, log in to your account, go to your Profile and click
+My account settings
+.
+Copyright © 1999-2015 PayPal. All rights reserved.
+PayPal (Europe) S.à r.l. et Cie, S.C.A.
+Société en Commandite par Actions
+Registered Office: 22-24 Boulevard Royal, L-2449, Luxembourg
+RCS Luxembourg B 118 349
+PayPal Email ID PP120 - 24ea6b0f67509

@@ -1,0 +1,98 @@
+Date: Thu, 01 Sep 2016 12:33:19 +0100
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: steve@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  oliver@formationshousecom
+    Unrouteable address
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <steve@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1bfQF7-0002JG-Uz ; Thu, 01 Sep 2016 12:33:16 +0100
+Date: Thu, 1 Sep 2016 12:38:52 +0100
+To: cp@accountscentre.net
+Cc: oliver@formationshousecom
+From: steve@formationshouse.com
+Subject: QUANTUM BUSINESS PARTNERS
+Message-ID: <3d7057ce056493c1300dbdcb53f0f964@www.infinioffice.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.73]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_3d7057ce056493c1300dbdcb53f0f964"
+
+
+--b1_3d7057ce056493c1300dbdcb53f0f964
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+<P>Hi,</P>
+<P>Ayub used to email addresses <A href="mailto:akhan1@europe.com">akhan1@europe.com</A> and <A href="mailto:ebm@europe.com">ebm@europe.com</A> and following are the last emails that i received from his 2 emails account to my 2 email accounts <A href="mailto:steve@formationshouse.com">steve@formationshouse.com</A> and <A href="mailto:talal@formationshouse.com">talal@formationshouse.com</A><BR><BR>Last Order dated 01-Aug-2016 orderno. 190568 GBP 15, annual return filing for QUANTUM BUSINESS PARTNERS was done on phone.</P>
+<P>I took the order because was not aware of the situation at that time, wont happen again.</P>
+<P>Please advice what to do next time, should i ask for payment for services or tell him to take his companies to some other agent?</P>
+<P>Sincerely,</P>
+<P>Talal...</P>
+<P><BR>------------ Forwarded Message ------------<BR>To: <A href="mailto:steve@formationshouse.com">steve@formationshouse.com</A> <BR>From: "A Khan" <BR>Subject: Re: Malabar Coast International and BLACKMORE FAULKNER : Hong Kong Companies Renewal Required <BR>Date: 25 Jan, 2016 06:20 PM</P>
+<P>&lt;email body blank&gt;</P>
+<P>above companies were not renewed.<BR>----------END-------------------</P>
+<P>------------ Forwarded Message ------------<BR>To: <A href="mailto:steve@formationshouse.com">steve@formationshouse.com</A> <BR>From: <A href="mailto:ebm@europe.com">ebm@europe.com</A><BR>Subject: Re: RE: RE: A reminder to file your companys annual return KEYTRIX LTD <BR>Date: 22 Nov, 2015 12:13 PM</P>
+<P>----------END-------------------</P>
+<P><BR>------------ Forwarded Message ------------<BR>To: <A href="mailto:talal@formationshouse.com">talal@formationshouse.com</A> <BR>From: "A Khan" <BR>Subject: Quantum letterhead <BR>Date: 06 May, 2015 02:00 PM</P>
+<P>Quantum Business Partrners Ltd<BR>29 Harley Street<BR>London W1G 9QR</P>
+<P><BR>please activate telephone and fax if not already assigned.</P>
+<P><BR>It is possible that Fahad has already created a letterhead for this company previously (I cant remember). If so we can use that one.</P>
+<P>Many Thanks</P>
+<P>AK.</P>
+<P>----------END-------------------</P>
+<P>&nbsp; <BR>------------ Forwarded Message ------------<BR>To: <A href="mailto:talal@formationshouse.com">talal@formationshouse.com</A> <BR>From: <A href="mailto:ebm@europe.com">ebm@europe.com</A><BR>Subject: Fw: A reminder to file your companys annual return <BR>Date: 28 Apr, 2015 10:09 AM</P>
+<P>&nbsp; <BR>Hi. Talal,</P>
+<P>Please file this return.</P>
+<P>Thanks</P>
+<P>AK<BR>Sent: Monday, April 27, 2015 at 8:10 AM<BR>From: <A href="mailto:support@formationshouse.com">support@formationshouse.com</A><BR>To: <A href="mailto:ebm@europe.com">ebm@europe.com</A><BR>Subject: A reminder to file your companys annual return<BR>Dear Customer, <BR>We wish to remind you of the due date(s) for filing of the Annual Return(s) for:</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P><BR><BR><SPAN id=signSpan contentEditable=true name="signSpan"></SPAN></P>&nbsp;<br><!--TEXTSTART--><span id='questionSpan'></span><!--TEXTEND--><br><!--LINKTAGSTARTSHERE--><br><br><span id='signSpan' contenteditable='true'></span>
+
+
+--b1_3d7057ce056493c1300dbdcb53f0f964
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+<P>Hi,</P>
+<P>Ayub used to email addresses <A href="mailto:akhan1@europe.com">akhan1@europe.com</A> and <A href="mailto:ebm@europe.com">ebm@europe.com</A> and following are the last emails that i received from his 2 emails account to my 2 email accounts <A href="mailto:steve@formationshouse.com">steve@formationshouse.com</A> and <A href="mailto:talal@formationshouse.com">talal@formationshouse.com</A><BR><BR>Last Order dated 01-Aug-2016 orderno. 190568 GBP 15, annual return filing for QUANTUM BUSINESS PARTNERS was done on phone.</P>
+<P>I took the order because was not aware of the situation at that time, wont happen again.</P>
+<P>Please advice what to do next time, should i ask for payment for services or tell him to take his companies to some other agent?</P>
+<P>Sincerely,</P>
+<P>Talal...</P>
+<P><BR>------------ Forwarded Message ------------<BR>To: <A href="mailto:steve@formationshouse.com">steve@formationshouse.com</A> <BR>From: "A Khan" <BR>Subject: Re: Malabar Coast International and BLACKMORE FAULKNER : Hong Kong Companies Renewal Required <BR>Date: 25 Jan, 2016 06:20 PM</P>
+<P>&lt;email body blank&gt;</P>
+<P>above companies were not renewed.<BR>----------END-------------------</P>
+<P>------------ Forwarded Message ------------<BR>To: <A href="mailto:steve@formationshouse.com">steve@formationshouse.com</A> <BR>From: <A href="mailto:ebm@europe.com">ebm@europe.com</A><BR>Subject: Re: RE: RE: A reminder to file your companys annual return KEYTRIX LTD <BR>Date: 22 Nov, 2015 12:13 PM</P>
+<P>----------END-------------------</P>
+<P><BR>------------ Forwarded Message ------------<BR>To: <A href="mailto:talal@formationshouse.com">talal@formationshouse.com</A> <BR>From: "A Khan" <BR>Subject: Quantum letterhead <BR>Date: 06 May, 2015 02:00 PM</P>
+<P>Quantum Business Partrners Ltd<BR>29 Harley Street<BR>London W1G 9QR</P>
+<P><BR>please activate telephone and fax if not already assigned.</P>
+<P><BR>It is possible that Fahad has already created a letterhead for this company previously (I cant remember). If so we can use that one.</P>
+<P>Many Thanks</P>
+<P>AK.</P>
+<P>----------END-------------------</P>
+<P>&nbsp; <BR>------------ Forwarded Message ------------<BR>To: <A href="mailto:talal@formationshouse.com">talal@formationshouse.com</A> <BR>From: <A href="mailto:ebm@europe.com">ebm@europe.com</A><BR>Subject: Fw: A reminder to file your companys annual return <BR>Date: 28 Apr, 2015 10:09 AM</P>
+<P>&nbsp; <BR>Hi. Talal,</P>
+<P>Please file this return.</P>
+<P>Thanks</P>
+<P>AK<BR>Sent: Monday, April 27, 2015 at 8:10 AM<BR>From: <A href="mailto:support@formationshouse.com">support@formationshouse.com</A><BR>To: <A href="mailto:ebm@europe.com">ebm@europe.com</A><BR>Subject: A reminder to file your companys annual return<BR>Dear Customer, <BR>We wish to remind you of the due date(s) for filing of the Annual Return(s) for:</P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P><BR><BR><SPAN id=signSpan contentEditable=true name="signSpan"></SPAN></P>&nbsp;<br><!--TEXTSTART--><span id='questionSpan'></span><!--TEXTEND--><br><!--LINKTAGSTARTSHERE--><br><br><span id='signSpan' contenteditable='true'></span>
+
+
+
+--b1_3d7057ce056493c1300dbdcb53f0f964--
+
+

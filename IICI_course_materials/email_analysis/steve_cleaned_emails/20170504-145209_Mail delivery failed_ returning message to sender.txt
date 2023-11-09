@@ -1,0 +1,534 @@
+Date: Thu, 04 May 2017 14:52:09 +0100
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: steve@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  Monique.Scott@state.de.us
+    SMTP error from remote mail server after initial connection:
+    host mail.state.de.us [167.21.64.20]: 554 Doveraip002.state.de.us
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <steve@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1d6HAt-00015w-NH 
+	for <Monique.Scott@state.de.us>; Thu, 04 May 2017 14:52:09 +0100
+From: "Steve Smith \(Formations House\)" <steve@formationshouse.com>
+To: "'Scott, Monique R. \(DOS\)'" <Monique.Scott@state.de.us>
+References: <a9ae3efc403f4ea9a1bd4bbcd6a2aa55@DTIBiggsE15MB3.state.de.us>
+In-Reply-To: <a9ae3efc403f4ea9a1bd4bbcd6a2aa55@DTIBiggsE15MB3.state.de.us>
+Subject: RE: SR NO 20172882214 AIRLINESTICKETDEALS LLC
+Date: Thu, 4 May 2017 18:54:04 +0500
+Message-ID: <001601d2c4dd$e61a1050$b24e30f0$@com>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0017_01D2C507.CEF01850"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdLEUcOL/kjxuCc2RIuA8DPobJQEFQAi9wwA
+Content-Language: en-us
+X-Spam-Status: X-Spam-Score: 4.2:
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0017_01D2C507.CEF01850
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0018_01D2C507.CEF01850"
+
+
+------=_NextPart_001_0018_01D2C507.CEF01850
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear Monique
+
+ 
+
+We are unable to send you email with attachment because all mails sent you
+are being returned with an error message.
+
+ 
+
+Therefore this message is a test message to see if it is delivered without
+attachment.
+
+ 
+
+------------
+
+Regards,
+
+ 
+
+Steve Smith
+
+steve@formationshouse.com
+
+FORMATIONS HOUSE
+
+ 
+
+Website - Live Chat : www.formationshouse.com
+
+E-mail : info@formationshouse.com; support@formationshouse.com
+
+Phone : Sales = 0044-(0)207-016-2727 : Support = 0044-(0)207-016-2728
+
+Working hours : Monday to Friday 9am to 5pm (UK time)
+
+Office Address: 29 Harley Street London United Kingdom W1G 9QR
+
+ 
+
+From: Scott, Monique R. (DOS) [mailto:Monique.Scott@state.de.us] 
+Sent: Thursday, 04 May, 2017 2:12 AM
+To: steve@formationshouse.com
+Subject: SR NO 20172882214 AIRLINESTICKETDEALS LLC
+
+ 
+
+Hello,
+
+ 
+
+You may send the better copy of the document to this email address. Please
+also advise if a certified copy is needed for this filing? It would be an
+additional $50. Have a nice day. 
+
+ 
+
+Thank you
+
+ 
+
+Monique Scott
+
+Corporation Assistant
+
+CSR Section
+
+State of Delaware
+
+Division of Corporations
+
+401 Federal Street, Suite 4
+
+Dover, De 19901
+
+Main Menu/Info: 302-739-3073
+
+Phone: 302-857-4616
+
+Fax: 302-739-6483
+
+Visit our website:  <http://www.corp.delaware.gov/> www.corp.delaware.gov
+
+Description: Description: cid:image001.jpg@01CE5092.423E27A0
+
+ 
+
+
+------=_NextPart_001_0018_01D2C507.CEF01850
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Georgia;
+	panose-1:2 4 5 2 5 4 5 2 3 3;}
+@font-face
+	{font-family:"Century Gothic";
+	panose-1:2 11 5 2 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Lucida Sans";
+	panose-1:2 11 6 2 3 5 4 2 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><span style=3D'font-size:12.0pt'>Dear =
+Monique<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:12.0pt'>We are unable to =
+send you
+email with attachment because all mails sent you are being returned with =
+an
+error message.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:12.0pt'>Therefore this =
+message is a
+test message to see if it is delivered without attachment.</span><span
+style=3D'font-size:12.0pt'><o:p></o:p></span></p>
+
+<div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt'>------------<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt'>Regards,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:12.0pt'>Steve =
+Smith<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt'>steve@formationshouse.com<o:p></o:p></span></p=
+>
+
+<p class=3DMsoNormal><span style=3D'font-size:12.0pt'>FORMATIONS =
+HOUSE<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><i><span style=3D'font-size:9.0pt'>Website &#8211; =
+Live Chat : <a
+href=3D"www.formationshouse.com"><span =
+style=3D'color:blue'>www.formationshouse.com</span></a><o:p></o:p></span>=
+</i></p>
+
+<p class=3DMsoNormal><i><span style=3D'font-size:9.0pt'>E-mail :
+info@formationshouse.com; =
+support@formationshouse.com<o:p></o:p></span></i></p>
+
+<p class=3DMsoNormal><i><span style=3D'font-size:9.0pt'>Phone : Sales =
+=3D
+0044-(0)207-016-2727 : Support =3D =
+0044-(0)207-016-2728<o:p></o:p></span></i></p>
+
+<p class=3DMsoNormal><i><span style=3D'font-size:9.0pt'>Working hours : =
+Monday to
+Friday 9am to 5pm (UK time)<o:p></o:p></span></i></p>
+
+<p class=3DMsoNormal><i><span style=3D'font-size:9.0pt'>Office Address: =
+29 Harley
+Street London United Kingdom W1G 9QR<o:p></o:p></span></i></p>
+
+</div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<div>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Scott, =
+Monique R.
+(DOS) [mailto:Monique.Scott@state.de.us] <br>
+<b>Sent:</b> Thursday, 04 May, 2017 2:12 AM<br>
+<b>To:</b> steve@formationshouse.com<br>
+<b>Subject:</b> SR NO 20172882214 AIRLINESTICKETDEALS =
+LLC<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;color:#1F497D'>Hello,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:14.0pt;color:#1F497D'>You =
+may send
+the better copy of the document to this email address. Please also =
+advise if a
+certified copy is needed for this filing? It would be an additional $50. =
+Have a
+nice day. <o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:14.0pt;color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-family:"Century =
+Gothic","sans-serif";
+color:#1F497D'>Thank you<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:12.0pt;font-family:"Georgia","serif";
+color:#E42492'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:12.0pt;font-family:"Georgia","serif";
+color:#1F497D'>Monique Scott<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><b><span style=3D'font-family:"Century =
+Gothic","sans-serif";
+color:#1F497D'>Corporation Assistant<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><b><span style=3D'font-family:"Century =
+Gothic","sans-serif";
+color:#1F497D'>CSR Section<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Century Gothic","sans-serif";
+color:black'>State of Delaware</span><span =
+style=3D'font-size:10.0pt;font-family:
+"Century Gothic","sans-serif";color:#5F497A'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Century Gothic","sans-serif";
+color:black'>Division of Corporations<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Century Gothic","sans-serif";
+color:black'>401 Federal Street, Suite 4<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Century Gothic","sans-serif";
+color:black'>Dover, De 19901<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Century Gothic","sans-serif";
+color:black'>Main Menu/Info:</span></b><span style=3D'font-size:10.0pt;
+font-family:"Century Gothic","sans-serif";color:black'> =
+302-739-3073<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Century Gothic","sans-serif";
+color:black'>Phone: </span></b><span =
+style=3D'font-size:10.0pt;font-family:"Century Gothic","sans-serif";
+color:black'>302-857-4616<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Century Gothic","sans-serif";
+color:black'>Fax:</span></b><span =
+style=3D'font-size:10.0pt;font-family:"Century Gothic","sans-serif";
+color:black'> 302-739-6483</span><span =
+style=3D'font-size:10.0pt;font-family:
+"Century Gothic","sans-serif";color:#7030A0'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Century Gothic","sans-serif";
+color:black'>Visit our website:</span></b><span =
+style=3D'font-size:10.0pt;
+font-family:"Century Gothic","sans-serif";color:#FF33CC'> </span><span
+style=3D'font-size:10.0pt;font-family:"Century =
+Gothic","sans-serif";color:#2E25E3'><a
+href=3D"http://www.corp.delaware.gov/"><span =
+style=3D'color:#2E25E3'>www.corp.delaware.gov</span></a></span><span
+style=3D'font-size:10.0pt;font-family:"Lucida =
+Sans","sans-serif";color:#7030A0'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:9.0pt;color:#1F497D'><img =
+border=3D0
+width=3D139 height=3D127 id=3D"Picture_x0020_1"
+src=3D"cid:image001.jpg@01D2C507.CD3D8650"
+alt=3D"Description: Description: =
+cid:image001.jpg@01CE5092.423E27A0"></span><span
+style=3D'color:#003192'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_001_0018_01D2C507.CEF01850--
+
+------=_NextPart_000_0017_01D2C507.CEF01850
+Content-Type: image/jpeg;
+	name="image001.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <image001.jpg@01D2C507.CD3D8650>
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMg
+IyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMpPT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3/wAARCAB/AIsDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2aiii
+gAooooAKKKKACkqtf6ja6ZaPc3s6Qwp1dzj/APXXn2rfE67u1uE8PWZ8uFC8lxKuSq5xuC9hz3/K
+tKdKdT4UZ1Ksae7PSScVC99axHEtzAh/2pAK8KXU9X8SapbWt1qNzIbiVY8byFXJ54HFTXeg2lr4
+g09FkkuNKvZVEcrcMRu2sp9CD/Sun6movllLU5vrbavGOh7jHdQTf6qeJ/8AdcGpM140PBiLHGkc
+8sd812EZAcCOBmYK598IT9Kj0LV/Ef8AaM8Hh+8uLuCAsQJyGUoDwTnoT6A1P1ZNNxkV9ZcXaUT2
+uiuA0D4pWl6yQaxELOU8ecpzGT791rvI5FkRWRlZWGQVOQRXPUpypu0kdEKkZq8WPopKWoLCiiig
+AooooAKKKSgArL1/xBaeHdNe8vG46JGPvSN6CtKWRY4meRgqKCzMegA7143feKrPW/GAu9SDfYIg
+yWgK7ljPaRk/iGeSPpW1Gk6jb6IxrVVBJdWNt9Ufxn4jb+12DybSbGzZykJfsjHrz69+nFRRsuma
+42okedYbjbXzpD5UXzZVkjXqQB7dqtanBqNxppTUzFdXpnjGl3VvjzJ8nJ246oBzz0PFbF7LFoDw
+z61/xOfETpuitRjyrYeuBxn1PUn867XJLRddLf1/VziUW9X95Q8NeFpDq1vc6Slyywlm+13kflx4
+IIUon3iR15wK1td8MTW1lbxX3idGDXCyK97GNysO6HPA9RXSeDru/vtMnl1Uxm7M53KgwEGBhfwr
+N8QafDrlxuv7ezkEDFY4Zbry3A/pk4P0ArndWTqe8zoVKPJotzK/srVbm41K5sNf0i8udRh8l8Ha
+VAGBtAJwcZ/OqVqZvDM9nZanoxsbGIl/tYlLBpdhG5yOGHOADjFVh4WsLiA3ENpKqKDkoxymDyRj
+rj3/ADqxFda/4aPlxS/2xpzDDW8o3nHcY5I4/D2rXR6Xv+Bltrb9TJ0Pw/F/ZjXF3bJe3tzF5lvY
+mby28kHDSg9M+gP1q7pfieTwRr0umNcNe6UrDKkgtFkAnGOMjOCBwcVO+nWl9p93rXhJNxa3eC60
+9874Qw5KD29OnpVaEaVoNh5VukVzJNbrO1xcqNl3F/HFH/cYe/ORVuSnfm1v0I5XC3Lp5nrdpdRX
+lrHcW8iyQyKGR16MDU1eV/D7xLDZazJoyyStp9xITZtNwyN/dP1/mPevU64KtJ05crO6lVVSN0LR
+RRWZqFFFFABSUtIaAOO+Jurtp3hk20bYlvX8rj+51b/D8a8brvvipLLeeI7KyhR5Gjg3BEGSSxPb
+6LXEmwuVuIoJYJYXlcIokQrnJx3+texg0oUvU8jFNzqtdtDsvC8X/CPeHTr0sZmv7pjbaZC3OCTy
+wHbJ/Qe9XLDSmgtobi6xPd3Mnm3M7DcSzA7RnrjPA7E9Aau6hbibxrp2lRJutdLtQqJ2aRhwD6cD
+J9ga1Io0tyLR2UozmKCVhhHP8bn3UZUD8utcdSo7376/LodUKfTt+fU0PC1uLRLyHOT5gZgBwCRg
+jj0xz70X4uonuAXijRm3tKI9zhMYyM8fLxn25qTQoVt7m4WJ3NuQBCrNu2qpK8H3OT+NaGoWgubZ
+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
+K1dprHEVVVlzI1oUnTjys//Z
+
+------=_NextPart_000_0017_01D2C507.CEF01850--
+

@@ -1,0 +1,505 @@
+Date: Mon, 24 Jul 2017 17:33:03 +0100
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: sarah@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@life-page.me
+    SMTP error from remote mail server after RCPT TO:<info@life-page.me>:
+    host mx2.solardns.com [109.73.127.71]: 451 unable to verify user:
+    retry timeout exceeded
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <sarah@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1dYEEQ-00076z-Dm 
+	for <info@life-page.me>; Thu, 20 Jul 2017 17:23:24 +0100
+From: "Sarah" <sarah@formationshouse.com>
+To: <info@life-page.me>
+Subject: Director information ::REMINDER::
+Date: Thu, 20 Jul 2017 20:21:35 +0500
+Message-ID: <007301d3016b$e0da07b0$a28e1710$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0074_01D30195.C9B00FB0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdL6HdXce0IFSmclT22WsAcB4sWxfwA+yyrQAZS1TCA=
+Content-Language: en-us
+X-Spam-Status: X-Spam-Score: 0.0:
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0074_01D30195.C9B00FB0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+ 
+
+Dear Customer,
+
+ 
+
+Thank you for your email.
+
+ 
+
+Please note that as per your request Mrs. Maria Plomarteli will be the sole
+director and PSC Officer in the company. UNIC SPIRIT Ltd will be the
+shareholder and hold 50 shares in the company. Please confirm.
+
+ 
+
+Kindly also provide us Mrs. Maria Plomarteli's due diligence documents which
+are mentioned below:
+
+ 
+
+1. Proof of ID (copy of passport)
+
+2. Proof of Residential Address - Last 3 months utility bills (water OR gas
+OR electricity) or latest personal bank/credit card statement. (issue date,
+name, address and account number must be visible). 
+
+ 
+
+If above documents are not in English then we will need officially
+translated notarized copies of documents with the originals. Please do not
+send telephone, mobile, TV, internet bill or any other document. If
+documents are not according to above mentioned instructions then it will not
+be accepted.
+
+ 
+
+The above items can be sent as a scanned copy by email.
+
+If you require further assistance, you can contact us by email at
+support@formationshouse.com, or by live chat at www.formationshouse.com or
+by phone at +44-207-016-2727 (9am - 5pm, Mon - Fri).
+
+ 
+
+Best Regards,
+
+ 
+
+Sarah
+
+Formations House
+
+ 
+
+ 
+
+From: LifePage [mailto:info@life-page.me] 
+Sent: Wednesday, July 12, 2017 12:27 PM
+To: sarah@formationshouse.com
+Subject: Director information
+
+ 
+
+Dear Sarah,
+
+ 
+
+Please change the director information in our profile (customer ID 58638334)
+from the company to:
+
+ 
+
+Mrs. Maria Plomarteli
+
+Dawson House 
+
+5 Jewry Street 
+
+EC3N 2EX London 
+
+United Kingdom
+
+ 
+
+Please let me know from which moment on the company is ready registered and
+when we are going to be able to use the only administration tool
+
+ 
+
+Please contact us any time if you should need any further information.
+
+ 
+
+Kind regards,
+
+ 
+
+Maria Plomarteli
+
+ 
+
+
+
+__________ Information from ESET NOD32 Antivirus, version of detection
+engine 15546 (20170607) __________
+
+The message was checked by ESET NOD32 Antivirus.
+
+http://www.eset.com
+
+
+
+__________ Information from ESET NOD32 Antivirus, version of detection
+engine 15546 (20170607) __________
+
+The message was checked by ESET NOD32 Antivirus.
+
+http://www.eset.com
+
+
+------=_NextPart_000_0074_01D30195.C9B00FB0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+
+
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Century Gothic";
+	panose-1:2 11 5 2 2 2 2 2 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Century Gothic","sans-serif";
+	font-variant:normal !important;
+	color:windowtext;
+	text-transform:none;
+	text-decoration:none none;
+	vertical-align:baseline;}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Century Gothic","sans-serif";
+	font-variant:normal !important;
+	color:windowtext;
+	text-transform:none;
+	text-decoration:none none;
+	vertical-align:baseline;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle21
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:70.85pt 70.85pt 56.7pt 70.85pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3D"#0563C1" vlink=3D"#954F72">
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif"'>Dear
+Customer,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif"'>Thank
+you for your email.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif"'>Please
+note that as per your request Mrs. Maria Plomarteli will be the sole =
+director
+and PSC Officer in the company. </span><span =
+style=3D'font-size:9.0pt;font-family:
+"Verdana","sans-serif"'>UNIC SPIRIT Ltd will be the shareholder and hold =
+50
+shares in the company. Please confirm.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;<=
+/o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>Kindly
+also provide us Mrs. Maria Plomarteli&#8217;s due diligence documents =
+which are
+mentioned below:<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;<=
+/o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif"'>1.
+Proof of ID (copy of passport)<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif"'>2.
+Proof of Residential Address - Last 3 months utility bills (water OR gas =
+OR
+electricity) or latest personal bank/credit card statement. (issue date, =
+name,
+address and account number must be visible). <o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif"'>If
+above documents are not in English then we will need officially =
+translated
+notarized copies of documents with the originals. Please do not send =
+telephone,
+mobile, TV, internet bill or any other document. If documents are not =
+according
+to above mentioned instructions then it will not be =
+accepted.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt'><span =
+style=3D'font-size:10.0pt;
+font-family:"Verdana","sans-serif"'>The above items can be sent as a =
+scanned
+copy by email.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif"'>If
+you require further assistance, you can contact us by email at
+support@formationshouse.com, or by live chat at www.formationshouse.com =
+or by
+phone at +44-207-016-2727 (9am &#8211; 5pm, Mon - =
+Fri).<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif"'>Best
+Regards,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif"'>Sarah<o:p><=
+/o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif"'>Formations
+House<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<div>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> LifePage =
+[mailto:info@life-page.me]
+<br>
+<b>Sent:</b> Wednesday, July 12, 2017 12:27 PM<br>
+<b>To:</b> sarah@formationshouse.com<br>
+<b>Subject:</b> Director information<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'font-family:"Century =
+Gothic","sans-serif"'>Dear
+Sarah,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'font-family:"Century =
+Gothic","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'font-family:"Century =
+Gothic","sans-serif"'>Please
+change the director information in our profile <b>(customer ID =
+58638334)</b>
+from the company to:<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'font-family:"Century =
+Gothic","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'font-family:"Century =
+Gothic","sans-serif"'>Mrs.
+Maria Plomarteli<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'font-family:"Century =
+Gothic","sans-serif"'>Dawson
+House <o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'font-family:"Century =
+Gothic","sans-serif"'>5
+Jewry Street <o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'font-family:"Century =
+Gothic","sans-serif"'>EC3N
+2EX London <o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Century Gothic","sans-serif";
+color:black'>United Kingdom<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'font-family:"Century =
+Gothic","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'font-family:"Century =
+Gothic","sans-serif"'>Please
+let me know from which moment on the company is ready registered and =
+when we
+are going to be able to use the only administration =
+tool<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'font-family:"Century =
+Gothic","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'font-family:"Century =
+Gothic","sans-serif"'>Please
+contact us any time if you should need any further =
+information.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'font-family:"Century =
+Gothic","sans-serif"'>Kind
+regards,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB style=3D'font-family:"Century =
+Gothic","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB =
+style=3D'font-size:12.0pt;font-family:"Century =
+Gothic","sans-serif"'>Maria
+Plomarteli<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DDE><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DDE =
+style=3D'font-size:12.0pt;font-family:"Times New Roman","serif"'><br>
+<br>
+__________ Information from ESET NOD32 Antivirus, version of detection =
+engine
+15546 (20170607) __________<br>
+<br>
+The message was checked by ESET NOD32 Antivirus.<br>
+<br>
+<a =
+href=3D"http://www.eset.com">http://www.eset.com</a><o:p></o:p></span></p=
+>
+
+<p class=3DMsoNormal><span style=3D'font-size:12.0pt;font-family:"Times =
+New Roman","serif"'><br>
+<br>
+__________ Information from ESET NOD32 Antivirus, version of detection =
+engine
+15546 (20170607) __________<br>
+<br>
+The message was checked by ESET NOD32 Antivirus.<br>
+<br>
+<a =
+href=3D"http://www.eset.com">http://www.eset.com</a><o:p></o:p></span></p=
+>
+
+</div>
+
+ <BR><BR>__________ Information from ESET NOD32 Antivirus, version of =
+detection engine 15546 (20170607) __________<BR><BR>The message was =
+checked by ESET NOD32 Antivirus.<BR><BR><A =
+HREF=3D"http://www.eset.com">http://www.eset.com</A><BR> </body>
+
+</html>
+
+------=_NextPart_000_0074_01D30195.C9B00FB0--
+

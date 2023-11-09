@@ -1,0 +1,44 @@
+Date: Mon, 23 Nov 2015 21:39:57 +0500
+Subject: Manual Payment: Urgnt
+From: "Sarah" <sarah@formationshouse.com>
+To: <londonadmin@formationshouse.com>
+
+Hi Nadya, pls charge GBP 300 from the card. 
+
+ 
+
+Thanks
+
+
+PUNTO OUTLET 
+order 187364
+Amount: 300GBP
+
+
+Card Type: Master card
+
+card number: 5243 6615 1002 2820
+
+Billing Address: 140 The Village #308, California United States 90277
+
+Card Holder's name: Trisha A Bazzocchi
+
+Expiry date: 11/2019
+
+CCV Code: 408
+
+Hi Nadya, pls charge GBP 300 from the card.
+Thanks
+PUNTO OUTLET
+order 187364
+Amount: 300GBP
+Card Type: Master card
+card number: 5243 6615 1002 2820
+Billing Address: 140 The Village #308, California United
+States 90277
+Card Holder's name: Trisha A Bazzocchi
+Expiry date: 11/2019
+CCV Code: 408
+__________ Information from ESET NOD32 Antivirus, version of virus signature database 12596 (20151120) __________
+The message was checked by ESET NOD32 Antivirus.
+http://www.eset.com

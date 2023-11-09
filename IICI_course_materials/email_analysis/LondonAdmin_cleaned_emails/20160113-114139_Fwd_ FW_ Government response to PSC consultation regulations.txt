@@ -1,0 +1,200 @@
+Date: Wed, 13 Jan 2016 11:41:39 +0000
+Subject: Fwd: FW: Government response to PSC consultation regulations
+From: mehwish@infinilogic.com
+To: londonadmin@formationshouse.com
+
+<BR><BR>------------ Forwarded Message ------------<BR>To: mehwish@infinilogic.com <BR>From: "Shawn Alfanso" <SHAWN@FORMATIONSHOUSE.COM><BR>Subject: FW: Government response to PSC consultation regulations <BR>Date: 06 Jan, 2016 12:14 PM<BR><BR>
+<META name=Generator content="Microsoft Word 11 (filtered medium)">
+<STYLE>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</STYLE>
+<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:SmartTagType name="PlaceName" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:SmartTagType><o:SmartTagType name="PlaceType" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:SmartTagType><o:SmartTagType name="place" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:SmartTagType><o:SmartTagType name="PersonName" namespaceuri="urn:schemas-microsoft-com:office:smarttags"></o:SmartTagType>
+<STYLE>
+st1\:*{behavior:url(#default#ieooui) }
+</STYLE>
+
+<STYLE>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-believe-normal-left:yes;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:blue;
+	text-decoration:underline;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:Arial;
+	color:navy;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;}
+div.Section1
+	{page:Section1;}
+-->
+</STYLE>
+
+<DIV class=Section1>
+<P class=MsoNormal><FONT color=navy size=2 face=Arial><SPAN style="FONT-FAMILY: Arial; COLOR: navy; FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></FONT></P>
+<P class=MsoNormal><FONT color=navy size=2 face=Arial><SPAN style="FONT-FAMILY: Arial; COLOR: navy; FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></FONT></P>
+<DIV>
+<DIV style="TEXT-ALIGN: center; MARGIN: 0in 0in 0pt" class=MsoNormal align=center><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt">
+<HR tabIndex=-1 align=center SIZE=3 width="100%">
+</SPAN></FONT></DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><B><FONT size=2 face=Tahoma><SPAN style="FONT-FAMILY: Tahoma; FONT-SIZE: 10pt; FONT-WEIGHT: bold">From:</SPAN></FONT></B><FONT size=2 face=Tahoma><SPAN style="FONT-FAMILY: Tahoma; FONT-SIZE: 10pt"> Simon Nicholas [mailto:Snicholas@companieshouse.gov.uk] <BR><B><SPAN style="FONT-WEIGHT: bold">Sent:</SPAN></B> Wednesday, January 06, 2016 4:13 PM<BR><B><SPAN style="FONT-WEIGHT: bold">To:</SPAN></B> <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:PersonName w:st="on">shawn@formationshouse.com</st1:PersonName><BR><B><SPAN style="FONT-WEIGHT: bold">Subject:</SPAN></B> Government response to PSC consultation regulations </SPAN></FONT><o:p></o:p></P></DIV>
+<P class=MsoNormal><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt"><o:p>&nbsp;Hi <BR><BR>we received thsi email from comapnies house. please advise how to prepare this register as it will be required to submit&nbsp;with incorporation&nbsp; application.&nbsp;So that we can update our filing system&nbsp;<BR><BR>thanks&nbsp;<BR><BR>Mehwish Khan&nbsp;</o:p></SPAN></FONT></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><FONT size=2 face="Segoe UI"><SPAN style="FONT-FAMILY: 'Segoe UI'; FONT-SIZE: 10pt">Dear Shawn, <o:p></o:p></SPAN></FONT></P>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt">&nbsp;<o:p></o:p></SPAN></FONT></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><FONT size=3 face="Segoe UI"><SPAN style="FONT-FAMILY: 'Segoe UI'; FONT-SIZE: 12pt">You may have received the following from our Customer Care team just prior to Christmas - due to the importance of it,&nbsp;&nbsp;I am sending it again to all developers, and also businesses that have their own developed software.&nbsp; As soon as BIS supply us with the PSC regulations, I will ensure you get them as soon as possible - the same applies to the new incorporation and confirmation statement schemas (which, on current timescales)&nbsp;are due to be legally implemented at the end of June 2016.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN></FONT><o:p></o:p></P></DIV>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><STRONG><B><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt"><O:P></O:P><O:P></O:P>The Government response to the consultation on the PSC regulations has now been published. </SPAN></FONT></B></STRONG><o:p></o:p></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt"><O:P></O:P>&nbsp;<o:p></o:p></SPAN></FONT></P></DIV>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><STRONG><B><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt"><O:P></O:P>The response sets out the views received on the consultation on the draft regulations published in June and how they have been amended following those comments. The response document can be found here: </SPAN></FONT></B></STRONG><A href="https://www.gov.uk/government/consultations/company-ownership-and-control-register-implementation"><STRONG><B><FONT color=#954f72 face="Times New Roman"><SPAN style="COLOR: #954f72">https://www.gov.uk/government/consultations/company-ownership-and-control-register-implementation</SPAN></FONT></B></STRONG></A><STRONG><B><FONT face="Times New Roman"> </FONT></B></STRONG><o:p></o:p></P></DIV><O:P></O:P>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt"><O:P></O:P>&nbsp;<o:p></o:p></SPAN></FONT></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><STRONG><B><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt">Throughout this year guidance for the PSC register has been developed with the help of business, legal and civil society representatives who together formed a Working Group, chaired by ICSA. A suite of guidance products to explain the provisions to companies and Limited Liability Partnerships has been developed and have been published on the <st1:place w:st="on"><st1:PlaceType w:st="on">Institute</st1:PlaceType> of <st1:PlaceName w:st="on">Chartered Secretaries</st1:PlaceName></st1:place> and Administrators (ICSA) website for comments. This it to test and improve the guidance before publishing it for use early in the new year.</SPAN></FONT></B><O:P></O:P></STRONG><o:p></o:p></P></DIV>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><STRONG><B><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt"><O:P></O:P>The guidance can be found at the following link: </SPAN></FONT></B><O:P></O:P></STRONG><o:p></o:p></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><FONT color=#1f497d size=3 face="Times New Roman"><SPAN style="COLOR: #1f497d; FONT-SIZE: 12pt"><A href="https://www.icsa.org.uk/about-us/policy/psc-register-guidance-consultation/"><STRONG><B><FONT color=#954f72 face="Times New Roman"><SPAN style="COLOR: #954f72">https://www.icsa.org.uk/about-us/policy/psc-register-guidance-consultation/</SPAN></FONT></B></STRONG></A></SPAN></FONT><o:p></o:p></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt"><O:P></O:P>&nbsp;<o:p></o:p></SPAN></FONT></P></DIV>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><STRONG><B><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt"><O:P></O:P>ICSA have kindly agreed to receive comments on the guidance so please direct any comments to the following e-mail address </SPAN></FONT></B></STRONG><A href="mailto:pscregister@icsa.org.uk"><STRONG><B><FONT face="Times New Roman">pscregister@icsa.org.uk</FONT></B></STRONG></A><STRONG><B><FONT face="Times New Roman"> </FONT></B></STRONG><o:p></o:p></P></DIV><O:P></O:P>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><STRONG><B><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt"><O:P></O:P>The guidance covers the process of identifying and recording PSCs. It does not cover the detail of how to complete filings in relation to PSC information at Companies House. Further guidance covering the filing of PSC information as part of incorporation or the annual confirmation statement will be issued separately. </SPAN></FONT></B><O:P></O:P></STRONG><o:p></o:p></P></DIV>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt"><O:P></O:P>&nbsp;<o:p></o:p></SPAN></FONT></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><STRONG><B><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt">Views on the following questions would be particularly useful.</SPAN></FONT></B><O:P></O:P></STRONG><o:p></o:p></P></DIV>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><STRONG><B><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt"><O:P></O:P>1. Is the guidance easy to understand?</SPAN></FONT></B><O:P></O:P></STRONG><o:p></o:p></P></DIV>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><STRONG><B><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt">&nbsp;&nbsp;&nbsp; - Are there any sections of the guidance which are unclear or difficult to follow?</SPAN></FONT></B><O:P></O:P></STRONG><o:p></o:p></P></DIV>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><STRONG><B><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt">&nbsp;&nbsp;&nbsp; - Does this provide all the information you need to set up your PSC register?</SPAN></FONT></B><O:P></O:P></STRONG><o:p></o:p></P></DIV>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><STRONG><B><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt">2. Are the diagrams easy to understand?</SPAN></FONT></B><O:P></O:P></STRONG><o:p></o:p></P></DIV>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><STRONG><B><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt">&nbsp;&nbsp;&nbsp; - And are any further diagrams which would help illustrate how the regime works?</SPAN></FONT></B><O:P></O:P></STRONG><o:p></o:p></P></DIV>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><STRONG><B><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt">3. Is the approach to guidance for LLPs sufficient?</SPAN></FONT></B><O:P></O:P></STRONG><o:p></o:p></P></DIV>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><STRONG><B><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt">&nbsp;&nbsp;&nbsp; - Should this be more integrated into the main body of the guidance?</SPAN></FONT></B><O:P></O:P></STRONG><o:p></o:p></P></DIV>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><STRONG><B><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt">4. Is the level of details right in the guidance?</SPAN></FONT></B><O:P></O:P></STRONG><o:p></o:p></P></DIV>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><STRONG><B><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt"><O:P></O:P>Comments are invited by 11th January, to allow responses and amendments to the guidance as appropriate prior to publishing in the new year.</SPAN></FONT></B><O:P></O:P></STRONG><o:p></o:p></P></DIV>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><FONT size=2 face="Segoe UI"><SPAN style="FONT-FAMILY: 'Segoe UI'; FONT-SIZE: 10pt"><O:P></O:P><O:P></O:P>&nbsp;<o:p></o:p></SPAN></FONT></P></DIV>
+<DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt">Best Regards<o:p></o:p></SPAN></FONT></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt">Simon N.<o:p></o:p></SPAN></FONT></P>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt">Product Manager - Software<o:p></o:p></SPAN></FONT></P></DIV>
+<P style="MARGIN-BOTTOM: 12pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 0in" class=MsoNormal><FONT size=2 face="Segoe UI"><SPAN style="FONT-FAMILY: 'Segoe UI'; FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></FONT></P>
+<TABLE style="WIDTH: 100%; BACKGROUND: white" class=MsoNormalTable border=0 cellSpacing=0 cellPadding=0 width="100%" bgColor=white>
+<TBODY>
+<TR>
+<TD style="PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; WIDTH: 100%; PADDING-RIGHT: 0in; PADDING-TOP: 0in" width="100%">
+<DIV align=center>
+<TABLE style="WIDTH: 348pt" class=MsoNormalTable border=0 cellSpacing=0 cellPadding=0 width=580>
+<TBODY>
+<TR>
+<TD style="PADDING-BOTTOM: 0in; PADDING-LEFT: 0in; WIDTH: 100%; PADDING-RIGHT: 0in; PADDING-TOP: 0in" width="100%">
+<P style="MARGIN-BOTTOM: 22.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 0in"><FONT color=#6f777b size=3 face=Helvetica><SPAN style="FONT-FAMILY: Helvetica; COLOR: #6f777b; FONT-SIZE: 12pt">This message and any attachments are intended for the persons named as addressees only and may contain confidential information. In addition they may be protected by copyright.<o:p></o:p></SPAN></FONT></P>
+<P style="MARGIN-BOTTOM: 22.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 0in"><FONT color=#6f777b size=3 face=Helvetica><SPAN style="FONT-FAMILY: Helvetica; COLOR: #6f777b; FONT-SIZE: 12pt">If you receive it in error, notify us, delete it and do not make use of or copy it. You must not copy, disseminate or otherwise distribute or publish this message, except for the purposes for which this message is intended, without our consent.<o:p></o:p></SPAN></FONT></P>
+<P style="MARGIN-BOTTOM: 22.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 0in"><FONT color=#6f777b size=3 face=Helvetica><SPAN style="FONT-FAMILY: Helvetica; COLOR: #6f777b; FONT-SIZE: 12pt">Please note that this e-mail has been created in the knowledge that Internet e-mail is not a 100% secure communications medium. We advise that you understand and accept this lack of security when e-mailing us.<o:p></o:p></SPAN></FONT></P>
+<P style="MARGIN-BOTTOM: 22.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 0in"><FONT color=#6f777b size=3 face=Helvetica><SPAN style="FONT-FAMILY: Helvetica; COLOR: #6f777b; FONT-SIZE: 12pt">For company information, guidance and how to file documents online, please see our website <A href="http://www.companieshouse.gov.uk/">www.companieshouse.gov.uk</A>.<o:p></o:p></SPAN></FONT></P>
+<P style="MARGIN-BOTTOM: 22.5pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; mso-margin-top-alt: 0in"><FONT color=#6f777b size=3 face=Helvetica><SPAN style="FONT-FAMILY: Helvetica; COLOR: #6f777b; FONT-SIZE: 12pt">This message has been scanned for viruses by <A href="http://www.mailcontrol.com/">Hosted Security</A>, a service from <A href="http://www.websense.com/">Websense</A>.<o:p></o:p></SPAN></FONT></P></TD></TR></TBODY></TABLE></DIV>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><FONT size=3 face="Times New Roman"><SPAN style="FONT-SIZE: 12pt"><o:p></o:p></SPAN></FONT></P></TD></TR></TBODY></TABLE>
+<P style="MARGIN: 0in 0in 0pt" class=MsoNormal><FONT size=2 face="Segoe UI"><SPAN style="FONT-FAMILY: 'Segoe UI'; FONT-SIZE: 10pt"><BR><BR>__________ Information from ESET NOD32 Antivirus, version of virus signature database 12827 (20160106) __________<BR><BR>The message was checked by ESET NOD32 Antivirus.<BR><BR><A href="http://www.eset.com">http://www.eset.com</A><o:p></o:p></SPAN></FONT></P></DIV><BR><BR>__________ Information from ESET NOD32 Antivirus, version of virus signature database 12827 (20160106) __________<BR><BR>The message was checked by ESET NOD32 Antivirus.<BR><BR><A href="http://www.eset.com">http://www.eset.com</A><BR><BR><BR><SPAN id=signSpan contentEditable=true name="signSpan"></SPAN>&nbsp;<br><!--TEXTSTART--><span id='questionSpan'></span><!--TEXTEND--><br><!--LINKTAGSTARTSHERE--><br><br><span id='signSpan' contenteditable='true'></span>
+
+------------ Forwarded Message ------------
+To: mehwish@infinilogic.com
+From: "Shawn Alfanso"
+Subject: FW: Government response to PSC consultation regulations
+Date: 06 Jan, 2016 12:14 PM
+From:
+Simon Nicholas [mailto:Snicholas@companieshouse.gov.uk]
+Sent:
+Wednesday, January 06, 2016 4:13 PM
+To:
+shawn@formationshouse.com
+Subject:
+Government response to PSC consultation regulations
+Hi
+we received thsi email from comapnies house. please advise how to prepare this register as it will be required to submit with incorporation  application. So that we can update our filing system
+thanks
+Mehwish Khan
+Dear Shawn,
+You may have received the following from our Customer Care team just prior to Christmas - due to the importance of it,  I am sending it again to all developers, and also businesses that have their own developed software.  As soon as BIS supply us with the PSC regulations, I will ensure you get them as soon as possible - the same applies to the new incorporation and confirmation statement schemas (which, on current timescales) are due to be legally implemented at the end of June 2016.
+The Government response to the consultation on the PSC regulations has now been published.
+The response sets out the views received on the consultation on the draft regulations published in June and how they have been amended following those comments. The response document can be found here:
+https://www.gov.uk/government/consultations/company-ownership-and-control-register-implementation
+Throughout this year guidance for the PSC register has been developed with the help of business, legal and civil society representatives who together formed a Working Group, chaired by ICSA. A suite of guidance products to explain the provisions to companies and Limited Liability Partnerships has been developed and have been published on the
+Institute
+of
+Chartered Secretaries
+and Administrators (ICSA) website for comments. This it to test and improve the guidance before publishing it for use early in the new year.
+The guidance can be found at the following link:
+https://www.icsa.org.uk/about-us/policy/psc-register-guidance-consultation/
+ICSA have kindly agreed to receive comments on the guidance so please direct any comments to the following e-mail address
+pscregister@icsa.org.uk
+The guidance covers the process of identifying and recording PSCs. It does not cover the detail of how to complete filings in relation to PSC information at Companies House. Further guidance covering the filing of PSC information as part of incorporation or the annual confirmation statement will be issued separately.
+Views on the following questions would be particularly useful.
+1. Is the guidance easy to understand?
+- Are there any sections of the guidance which are unclear or difficult to follow?
+- Does this provide all the information you need to set up your PSC register?
+2. Are the diagrams easy to understand?
+- And are any further diagrams which would help illustrate how the regime works?
+3. Is the approach to guidance for LLPs sufficient?
+- Should this be more integrated into the main body of the guidance?
+4. Is the level of details right in the guidance?
+Comments are invited by 11th January, to allow responses and amendments to the guidance as appropriate prior to publishing in the new year.
+Best Regards
+Simon N.
+Product Manager - Software
+This message and any attachments are intended for the persons named as addressees only and may contain confidential information. In addition they may be protected by copyright.
+If you receive it in error, notify us, delete it and do not make use of or copy it. You must not copy, disseminate or otherwise distribute or publish this message, except for the purposes for which this message is intended, without our consent.
+Please note that this e-mail has been created in the knowledge that Internet e-mail is not a 100% secure communications medium. We advise that you understand and accept this lack of security when e-mailing us.
+For company information, guidance and how to file documents online, please see our website
+www.companieshouse.gov.uk
+.
+This message has been scanned for viruses by
+Hosted Security
+, a service from
+Websense
+.
+__________ Information from ESET NOD32 Antivirus, version of virus signature database 12827 (20160106) __________
+The message was checked by ESET NOD32 Antivirus.
+http://www.eset.com
+__________ Information from ESET NOD32 Antivirus, version of virus signature database 12827 (20160106) __________
+The message was checked by ESET NOD32 Antivirus.
+http://www.eset.com

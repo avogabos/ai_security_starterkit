@@ -1,0 +1,204 @@
+Date: Fri, 12 Feb 2016 12:28:24 +0000
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: steve@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  ephysea@yahoo.co.uk
+    SMTP error from remote mail server after end of data:
+    host mx-eu.mail.am0.yahoodns.net [188.125.69.79]:
+    554 Message not allowed - [298]
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <steve@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1aUCpi-0001nj-IM ; Fri, 12 Feb 2016 12:28:23 +0000
+From: "Steve Smith \(Formations House\)" <steve@formationshouse.com>
+To: <ephysea@yahoo.co.uk>,
+	<ephysea@gmail.com>
+Cc: <support@formationshouse.com>
+Subject: EPHYSEA LTD : Annual Accounts Reminder : OVERDUE
+Date: Fri, 12 Feb 2016 17:29:42 +0500
+Message-ID: <000601d16591$0de17e00$29a47a00$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01D165BA.F6B78600"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdFlkQvLAUUW0OodQ/qxgrTnh+RV6w==
+Content-Language: en-us
+X-Spam-Status: X-Spam-Score: 0.8:
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0007_01D165BA.F6B78600
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Dear Customer
+
+ 
+
+Please be informed that the Annual Accounts and Corporation Tax Returns of
+your Company are Overdue since 31/12/2015. Now you have to submit these
+statutory documents with penalties and to avoid further penalties please
+submit the Annual Accounts and Corporation Tax Return, to the Companies
+House and HM Revenue and Customs (Inland Revenue) respectively as soon as
+possible.
+
+ 
+
+Regards
+
+ 
+
+Steve Smith
+
+ 
+
+FORMATIONS HOUSE
+
+www.formationshouse.com
+
+
+------=_NextPart_000_0007_01D165BA.F6B78600
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+
+
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.maintext
+	{mso-style-name:main_text;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><span style=3D'font-size:12.0pt'>Dear =
+Customer<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span class=3Dmaintext><span =
+style=3D'font-size:10.0pt;
+font-family:"Verdana","sans-serif";color:black'>Please be informed that =
+the
+Annual Accounts and Corporation Tax Returns of your Company are Overdue =
+since
+31/12/2015. Now you have to submit these statutory documents with =
+penalties and
+to avoid further penalties please submit the Annual Accounts and =
+Corporation
+Tax Return, to the Companies House and HM Revenue and Customs (Inland =
+Revenue)
+respectively as soon as possible.<o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span class=3Dmaintext><span =
+style=3D'font-size:10.0pt;
+font-family:"Verdana","sans-serif";color:black'><o:p>&nbsp;</o:p></span><=
+/span></p>
+
+<p class=3DMsoNormal><span class=3Dmaintext><span =
+style=3D'font-size:10.0pt;
+font-family:"Verdana","sans-serif";color:black'>Regards<o:p></o:p></span>=
+</span></p>
+
+<p class=3DMsoNormal><span class=3Dmaintext><span =
+style=3D'font-size:10.0pt;
+font-family:"Verdana","sans-serif";color:black'><o:p>&nbsp;</o:p></span><=
+/span></p>
+
+<p class=3DMsoNormal><span class=3Dmaintext><span =
+style=3D'font-size:10.0pt;
+font-family:"Verdana","sans-serif";color:black'>Steve =
+Smith<o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span class=3Dmaintext><span =
+style=3D'font-size:10.0pt;
+font-family:"Verdana","sans-serif";color:black'><o:p>&nbsp;</o:p></span><=
+/span></p>
+
+<p class=3DMsoNormal><span class=3Dmaintext><span =
+style=3D'font-size:10.0pt;
+font-family:"Verdana","sans-serif";color:black'>FORMATIONS =
+HOUSE<o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span class=3Dmaintext><span =
+style=3D'font-size:10.0pt;
+font-family:"Verdana","sans-serif";color:black'>www.formationshouse.com</=
+span></span><span
+style=3D'font-size:12.0pt'><o:p></o:p></span></p>
+
+</div>
+
+ <BR><BR>__________ Information from ESET NOD32 Antivirus, version of =
+virus signature database 13018 (20160212) __________<BR><BR>The message =
+was checked by ESET NOD32 Antivirus.<BR><BR><A =
+HREF=3D"http://www.eset.com">http://www.eset.com</A><BR> </body>
+
+</html>
+
+------=_NextPart_000_0007_01D165BA.F6B78600--
+

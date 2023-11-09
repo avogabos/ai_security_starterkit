@@ -1,0 +1,130 @@
+Date: Wed, 11 Oct 2017 09:46:51 +0100
+Subject: Infinime Notification
+From: Support <support@infinime.com>
+To: sarah@formationshouse.com
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Welcome to InfiniOffice</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<STYLE type=text/css>
+<!--
+body {
+	background-color: #FFFFFF;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.style9 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.style14 {font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 18px; color: #FFFFFF; }
+.style18 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; }
+.style20 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; }
+.style21 {
+	font-size: 9pt;
+	color: black;
+}
+-->
+</STYLE>
+
+<META content="MSHTML 6.00.2900.2722" name=GENERATOR></HEAD>
+<BODY>
+<TABLE style="border:1px solid #CCCCCC" cellSpacing=0 cellPadding=0 width=680 border=0 align=center>
+                    <TBODY>
+                      <TR> 
+                       
+                        
+      <TD class=style9 width="98%" bgColor=#717171><SPAN class=style14>Process Completed 
+        </SPAN></TD>
+                      </TR>
+                      <TR> 
+                        <TD class=style9 bgColor=#ffffff> <DIV align=center> </DIV>
+                          <TABLE cellSpacing=2 cellPadding=0 width="46%" align=center 
+                    border=0>
+                            <TBODY>
+                              <!--DISPLAYCUSTOMERSTART-->
+                              <TR> 
+                                <TD> <TABLE borderColor=#003300 cellSpacing=0 cellPadding=0 
+                          width="100%">
+                                    <TBODY>
+                                      <TR> 
+                                        <TD class=style20 width="40%" 
+                                bgColor=#CCCCCC>&nbsp;Customer Id: <BR></TD>
+                                        <TD width="70%"> <TABLE borderColor=#CCCCCC cellSpacing=0 
+                                cellPadding=0 width="100%" border=1>
+                                            <TBODY>
+                                              <TR> 
+                                                <TD class=style1>&nbsp; 
+                                                  12609966
+                                                </TD>
+                                              </TR>
+                                            </TBODY>
+                                          </TABLE></TD>
+                                      </TR>
+                                    </TBODY>
+                                  </TABLE></TD>
+                              </TR>
+                              <!--DISPLAYCUSTOMEREND-->
+                              <!--DISPLAYCOMPANYSTART-->
+                              <!--DISPLAYCOMPANYEND-->
+                              <TR> 
+                                <TD> <TABLE borderColor=#003300 cellSpacing=0 cellPadding=0 
+                          width="100%">
+                                    <TBODY>
+                                      <TR> 
+                                        <TD class=style20 width="40%" 
+                                bgColor=#CCCCCC>&nbsp;Ticket Id: <BR></TD>
+                                        <TD width="70%"> <TABLE borderColor=#CCCCCC cellSpacing=0 
+                                cellPadding=0 width="100%" border=1>
+                                            <TBODY>
+                                              <TR> 
+                                                <TD class=style1>&nbsp; 
+                                                  340216
+                                                </TD>
+                                              </TR>
+                                            </TBODY>
+                                          </TABLE></TD>
+                                      </TR>
+                                    </TBODY>
+                                  </TABLE></TD>
+                              </TR>
+                            </TBODY>
+                          </TABLE>
+                          <P align=left>&nbsp;Dear Sir<!--CUSTOMERNAME-->,</P>
+                          <table width="90%" height="100px" border=0 align=center style="background-color:#F8F8F8">
+						  	<tr>
+								<td class='style20'>
+								  <P align=left>
+								3D security authentication was successful.
+							  </p>
+								</td>
+							</tr>
+						  </table>
+						 
+        <p> &nbsp;Please login to your account to see futher details.</p>
+                          <br></p>
+                          <p>
+                            &nbsp;Thank You.</p>
+                          <p>&nbsp;</p></TD>
+                      </TR>
+                    </TBODY>
+                  </TABLE>
+</BODY></HTML>
+
+Welcome to InfiniOffice
+Process Completed
+Customer Id:
+12609966
+Ticket Id:
+340216
+Dear Sir
+,
+3D security authentication was successful.
+Please login to your account to see futher details.
+Thank You.

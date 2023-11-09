@@ -1,0 +1,34 @@
+Date: Mon, 3 Aug 2015 12:19:51 +0000
+Subject: Notification of Vehicle Tax DD Payment Schedule (Ref:
+ 000000-000008-238400-001)
+From: directdebit@taxdisc.service.gov.uk
+To: londonadmin@formationshouse.com
+
+Important:
+Confirmation of your successful Direct Debit
+instruction, including future payment schedule
+Dear Mr Jason Levy
+Vehicle registration number: LN03UCE
+Thank you for arranging to pay the vehicle tax by Direct Debit.
+Please can you check that the details below, and your payment schedule are correct:
+Account name: FIRST HEALTH LTD
+Account number: ****8878
+Bank sort code: 20-71-74
+If any of the above financial details are incorrect please contact your bank as soon as possible.
+However, if your details are correct you don’t need to do anything and your Direct Debit will be
+processed as normal. You have the right to cancel your Direct Debit at any time. If you cancel your
+Direct Debit the vehicle will not be taxed. A copy of the Direct Debit Guarantee is included with
+this letter.
+Enclosed is a schedule of your Direct Debit payments showing the amounts and dates for
+collection. We recommend that you retain this schedule for your records.
+You do not need to wait for the first payment to be taken before the vehicle is used on the road.
+For your information, the collections will be made using this reference, and this is how your
+payments will be detailed on your bank statements:
+DVLA  Identifier : 295402
+Reference: LN03UCE
+Your vehicle tax will automatically renew unless you notify us of any changes. We will send a new
+payment schedule at the time of renewal.
+Yours  sincerely
+Rohan Gye
+Vehicles  Service Manager
+www.gov.uk/browse/driving

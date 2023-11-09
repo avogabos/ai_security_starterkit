@@ -1,0 +1,401 @@
+{
+"Summary": "The email titled 'Gambian Documents' was sent from Oliver to the London administration but there are no contents in the email.",
+"Analysis": "The email subject suggests it is about Gambian documents but does not contain any further information or attachments which might provide context. It is unclear what the message is supposed to be without further investigation. The 'Gambian Documents' might be some documents related to the country Gambia, its operations, legal matters, or proceedings pertaining to Formations House.",
+"Metadata": {
+    "Date": "Mon, 9 Oct 2017 20:56:43 +0500",
+    "Sender": "Oliver <oliver@formationshouse.com>",
+    "Recipient": "londonadmin@formationshouse.com",
+    "CC": "NA"
+},
+"Metadata Analysis": {
+    "Domains": {
+        "formationshouse.com": "Formations House is a UK-based company formation agency offering a wide range of administrative services for businesses. The sender's email id with '@formationshouse' domain suggests the person likely works for or is associated with this company. The recipient's email also features the same domain name, indicating internal communication."
+    },
+    "Non-Recognizable Companies": "NA"
+  }
+}
+
+{
+  "Summary": "An email from Mariam Mkangara, a government affiliated individual, essentially a reminder about the sensitive nature of their communication and the precautions taken to keep it secured.",
+  
+  "Analysis": "The email from Mariam Mkangara at governmentlegal.gov.uk to londonadmin@formationshouse.com doesn't contain specific content or a detailed message, but is a general disclaimer which typically follows or precedes official government communications. It reminds the receiver about the confidential nature of the email, that it belongs to the HM Government, and advises that it should be deleted if received in error. The sender also mentions the precautions taken to scan the email for viruses, using services supplied by Vodafone in partnership with MessageLabs, but does not guarantee it is virus free at delivery.",
+  
+  "Metadata": {
+    "Date": "Mon, 10 Apr 2017 14:30:47 +0000",
+    "Subject": "G&G STARS LTD",
+    "From": "Mariam Mkangara <Mariam.Mkangara@governmentlegal.gov.uk>",
+    "To": "'londonadmin@formationshouse.com'"
+  },
+
+  "Metadata_Analysis": {
+    "Sender_Domain": "governmentlegal.gov.uk",
+    "Sender_Company": "HM Government",
+    "Recipient_Domain": "formationshouse.com",
+    "Recipient_Company": "Formations House",
+    "Other_domains": {
+      "Vodafone": "Telecommunications company, partner in virus scanning service",
+      "MessageLabs": "Email security provider, partner in virus scanning service"
+    }
+  }
+}
+
+{
+"Summary": "Sender has emailed documents and requested they be sealed and signed, with an indication of an impending follow-up email containing additional documents.",
+"Analysis": "The email, titled 'Gambian Docs', is a straightforward request from Oliver to the London admin. Oliver has emailed some documents which he wants the receiver to put a seal and signature on and send them back to him. Oliver also notifies the receiver of an upcoming second email which will have another four documents attached.",
+"Metadata": {
+  "Date": "Thu, 1 Oct 2015 17:28:08 +0500",
+  "Sender": "Oliver <oliver@formationshouse.com>",
+  "Recipient": "<londonadmin@formationshouse.com>",
+  "Cc": "None"
+},
+"Metadata_Analysis": {
+  "Domains": {
+    "formationshouse.com": "Formations House, a UK based company offering business formation, registration and management services."
+  },
+  "Unrecognizable_Company": "NA"
+}
+}
+
+{
+"Summary": "The email is a request to print and send Gambian company documents to an address in Dubai via courier.",
+
+"Analysis": "The content of the email is a task directed to londonadmin@formationshouse.com from sender Oliver at formationshouse.com. The task involves printing and sending what appears to be important documents related to a Gambian company. The recipient of these documents is given as Arun Panchariya, his address is in Emirates Hills, Dubai, with a mobile contact number provided. The information is repeated twice in the email, which might indicate the urgency or importance of the task.",
+
+"Metadata": {
+  "Date": "Thu, 14 Sep 2017 16:47:43 +0500",
+  "Sender": "\"Oliver\" <oliver@formationshouse.com>",
+  "Recipient": "<londonadmin@formationshouse.com>",
+  "Cc": "NA"
+},
+
+"Metadata_Analysis": {
+  "Sender_Domain": "formationshouse.com",
+  "Recipient_Domain": "formationshouse.com"
+ }
+}
+
+{
+  "Summary": "The sender is requesting a seal and signature on the Gambian documents and a return of these documents.",
+  "Analysis": "This email appears to be a brief business-related correspondence between two individuals, likely within the same company. The sender, Oliver, is asking the recipient, presumably an administrator based in London, to apply a seal and signature to some unspecified documents related to Gambia. He then requests for these documents to be sent back to him.",
+  "Metadata": {
+    "Date": "Thu, 1 Oct 2015 17:29:46 +0500",
+    "Subject": "Gambian docs",
+    "From": "Oliver <oliver@formationshouse.com>",
+    "To": "londonadmin@formationshouse.com"
+  },
+  "Metadata_Analysis": {
+    "Domains": {
+      "formationshouse.com": {
+        "Known_Company": "Formations House",
+        "Listed_Company": true,
+        "Non_Recognizable": false
+      }
+    }
+  }
+}
+
+{
+"Summary": "Email from Oliver requesting the London admin to send Gambian company documents to a Dr. Konstantin Bevzov in the United Kingdom.",
+
+"Analysis": "This email is from a user named Oliver sending from the domain formationshouse.com. He is addressing the recipient, which seems to be an admin role situated in London, asking them to mail particular company documents pertaining to a firm in Gambia. These documents are to be sent to an individual named Dr. Konstantin Bevzov, who is located at an address in Folkestone, United Kingdom. The subject line "FW: BANK OF WEST INDIES" does not directly correlate to the content of the email, suggesting the subject may pertain to a broader discussion or a common topic between the sender and the recipient.",
+
+"Metadata": {
+"Date": "Tue, 9 Aug 2016 16:33:17 +0500",
+"Subject": "FW: BANK OF WEST INDIES",
+"From": "Oliver <oliver@formationshouse.com>",
+"To": "<londonadmin@formationshouse.com>"
+},
+
+"Metadata Analysis": {
+"Sender domain": "formationshouse.com, a UK-based company formation agency",
+"Recipient domain": "Same as sender, Formations House. Implying that these are transactions internal to the company",
+"Known companies": ["Formations House"],
+"Unrecognized companies": "NA"
+}
+}
+
+{
+  "Summary": "Oliver from FormationsHouse requested London Admin at FormationsHouse to print and send Gambia Company documents to Dr. Konstantin Bevzov at a specified location in the United Kingdom.",
+  "Analysis": {
+    "Subject Analysis": "The subject line 'Gambian Company Docs' suggests the email pertains to documents about a Gambian Company. This is reflected in the request where Oliver has requested certain Gambian company documents to be printed and shipped out to Dr. Konstantin Bevzov.",
+    "Body Analysis": "The main content of the email is a request to print and send sensitive company documents for a Gambian company to Dr. Konstantin Bezov, residing at an address in Folkestone, Kent, UK. No further information is supplied regarding the nature of the documents, who Dr. Konstantin Bezov is, or his relation to the Gambian Company."
+  },
+  "Metadata": {
+    "Date": "Wed, 15 Jun 2016 15:43:15 +0500",
+    "Sender": "Oliver <oliver@formationshouse.com>",
+    "Recipient": "<londonadmin@formationshouse.com>",
+    "Cc": "NA"
+  },
+  "MetaData_Analysis": {
+    "Sender Domain": "The sender's email address originates from 'formationshouse.com', which likely suggests they belong to a company named Formations House, potentially involved in company formation services.",
+    "Recipient Domain": "The recipient's email also originates from 'formationshouse.com', indicating they are part of the same organisation as Oliver, likely a department or individual responsible for administration within the London location of this company.",
+    "Sender-Recipient Relationship": "The sender and recipient share the same domain, indicating they are part of the same organization. This suggests an internal communication occurring between departments within Formations House."
+  }
+}
+
+{
+  "Summary": "The email is regarding a request to print and send 3 Gambian company documents.",
+  "Analysis": "The email has been written by someone named Oliver who is asking the recipient, addressed as 'londonadmin', to print some Gambian company documents. The email does not specify what these documents are. The printed documents are requested to be sent to an individual named Dr. Konstantin Bevzov who is located at a given address in Folkestone, Kent.",
+  "Metadata": {
+    "Date": "Mon, 23 Nov 2015 17:28:36 +0500",
+    "Subject": "Gambian Company documents",
+    "From": "Oliver <oliver@formationshouse.com>",
+    "To": "<londonadmin@formationshouse.com>",
+    "cc": null
+  },
+  "Metadata Analysis": {
+    "Domains": {
+      "formationshouse.com": {
+        "Association": "Formations House is a company based in the UK that offers company formation and business services. The email was sent from and to users affiliated with this domain, implying that both sender and recipient are associated with Formations House.",
+        "Recognizable": true
+      } 
+      },
+    "Individuals": {
+      "Oliver": {
+        "Role": "Unknown. Likely an employee or associate of Formations House.",
+        "Recognizable": "NA"
+      },
+      "londonadmin": {
+        "Role": "The 'London Admin' of Formations House, responsible for administrative tasks.",
+        "Recognizable": "NA"
+      },
+      "Dr. Konstantin Bevzov": {
+        "Role": "The recipient of the Gambian company documents. Role or association is unknown.",
+        "Recognizable": "NA"
+      }
+    }
+  }
+}
+
+{
+"Summary": "Email requesting the printing and sending of Gambian company documents to a Dr. Konstantin Bevzov residing in the United Kingdom.",
+"Analysis": "The sender of the email, identified as 'Oliver', is requesting the recipient - 'londonadmin' at the domain 'formationshouse.com', to print and mail certain documents related to a Gambian company. The requested delivery is to a Dr. Konstantin Bevzov at a physical address in Folkestone, Kent, United Kingdom. The reason for the request or the nature of the Gambian company documents is not provided.",
+"Metadata": {
+    "Date": "Fri, 12 Aug 2016 19:48:51 +0500",
+    "Sender": "Oliver <oliver@formationshouse.com>",
+    "Recipient": "<londonadmin@formationshouse.com>",
+    "Cc": "Not Applicable (NA)"
+},
+"Metadata Analysis": {
+    "Sender Domain": "formationshouse.com - Formations House, a company offering business setup services. Based on the name of the sender and the content of the email, it can be inferred that the sender is associated with this company.",
+    "Recipient Domain": "formationshouse.com - Assuming that 'londonadmin' implies an administrative role at Formations House, which is based in London.",
+    "Known Company Association": "Formations House",
+    "Unknown Company Association": "NA"
+}
+}
+
+{
+"Summary": "The email contains a forwarded message that includes information about the availability of legalized documents for a customer known as FERTEX, and instructions for sending them via Royal Mail to Moscow, Russia.",
+"Analysis": {
+    "Original_Message": {
+        "Date": "Friday, September 25, 2015 1:46 PM",
+        "Content": "The first message from Sarah to Nadya informs about a customer, FERTEX, who has ordered legalized documents and asks Nadya to send these documents to an address in Moscow, Russia. It also includes the customer's phone number and an order number (186543).",
+        "Subject relation": "The subject 'Gambia coompany docs' indicates that the emails relate to some kind of document service being offered in Gambia, possibly business formation or legal documents. The customer (FERTEX) seems to be located in Russia."
+    },
+    "Forwarded_Message": {
+        "Date": "Tue, 29 Sep 2015 18:19:37 +0500",
+        "Content": "Sarah, in her forwarded message, confirms to Nadya that the legalized set of docs is now available and will be sent through Royal mail.",
+        "Subject relation": "The subject 'FW: Gambia coompany docs' indicates this is a continuation of the discussion about the Gambia company's documents and their dispatch."
+    }
+},
+"Metadata": {
+    "Date": "Tue, 29 Sep 2015 18:19:37 +0500",
+    "Sender": "sarah@formationshouse.com",
+    "Recipient": "londonadmin@formationshouse.com",
+    "cc": "NA"
+},
+"Metadata Analysis": {
+    "Recognizable domains": {
+        "formationshouse.com": "Formations House, a company specializing in the formation of companies in various jurisdictions.",
+        "eset.com": "ESET, a company specializing in antivirus and firewall products."
+    },
+    "Non recognizable company": "NA"
+  }
+}
+
+{
+  "Summary": "An email from Oliver at Formations House requesting the London admin to print and courier particular documents to address in the United Kingdom, including some blank Gambian documents for a reseller.",
+  "Analysis": {
+    "Content": "The email communication is a directive from 'Oliver' to a person or group addressed as 'londonadmin'. The Subject line is 'Gambian docs sending'. The content details a request to print and courier specific documents to an address in the UK. The recipient of these documents appears to be a 'Dr. Konstantin Bevzov' whose address is provided. Oliver also requests some blank Gambian documents for this reseller, presumably to be included in the same courier delivery. The document's specific recipients seem to be three businesses: 'Orratum Bank Ltd', 'Security General Trust Bank, Ltd', and 'Centurion Merchant Bank Ltd'."
+  },
+  "Metadata": {
+    "Date": "Thu, 31 Mar 2016 16:01:22 +0500",
+    "Sender": "Oliver",
+    "Recipient": "londonadmin@formationshouse.com",
+    "From_Email_Domain": "formationshouse.com",
+    "To_Email_Domain": "formationshouse.com",
+    "cc": "None"
+  },
+  "Metadata analysis": {
+    "FormationsHouse.com": "Formations House is a London-based company offering business services, such as the creation of new businesses and providing existing businesses virtual offices. This email communication is between two internal members of the same organization.",
+    "Non Recognizable Company": "NA"
+  }
+}
+
+{
+  "Summary": "The email contains instructions from Oliver to the London admin of Formations House to print and send certain documents to Dr. Konstantin Bevzov in the United Kingdom.",
+  "Analysis": "The email from Oliver directed towards the London-based administrative team of Formations House, serves as an instruction to print out and courier certain unspecified documents to an individual named Dr. Konstantin Bevzov, who is based in the United Kingdom. The address provided appears to be a suite in a place known as 'The Grand' in Folkestone, Kent, United Kingdom, with the post code 'CT20 2LR'. The email does not detail the nature of these documents or why they need to be sent. It also does not provide any further background or context regarding Dr. Bevzov or the relationship between him and Formations House.",
+  "Metadata": {
+    "Date": "Wed, 27 Apr 2016 21:04:35 +0500",
+    "Subject": "Gambian Documents to send",
+    "From": "Oliver <oliver@formationshouse.com>",
+    "To": "londonadmin@formationshouse.com"
+  },
+  "Metadata_analysis": {
+    "oliver@formationshouse.com": "Formations House, recognizable domain, a company known for providing company formation and business services.",
+    "londonadmin@formationshouse.com": "Formations House, recognizable domain, the recipient is most likely the administrative team for Formations House based in their London office."
+  }
+}
+
+{
+  "Summary": "The email provides information about the protection status of the data included and virus scanning actions taken for UK Government emails.",
+  "Analysis": {
+    "Contents": "The email does not contain specific information, it just informs about the protection status of the information provided by UK Government's e-mail. It advises that if the recipient received the e-mail in error, they should inform the sender and delete the email, while also highlighting that any email received from the government is scanned for viruses, but the government does not guarantee it to be virus-free at the point of delivery.",
+    "Relation_to_Subject": "The subject line states 'MKBWEBHOSTER LTD', however, the body of the email does not have any specific information about this reference."
+  },
+  "Metadata": {
+    "Date": "Mon, 10 Apr 2017 14:39:22 +0000",
+    "Sender": "Mariam Mkangara <Mariam.Mkangara@governmentlegal.gov.uk>",
+    "Recipient": "'londonadmin@formationshouse.com'",
+    "cc": null
+  },
+  "Metadata_analysis": {
+    "Recognizable_domains": [
+      {
+        "Domain": "@governmentlegal.gov.uk",
+        "Association": "This domain associated with the UK Government Legal Department."
+      },
+      {
+        "Domain": "@formationshouse.com",
+        "Association": "Formations House is a company formation agency based in London."
+      }
+    ],
+    "Non_recognizable_domains": "NA"
+  }
+}
+
+{
+  "Summary": "Email request to send a Gambian COGS document to an address in the United Kingdom.",
+  "Analysis": "In the email, the sender, Oliver, is requesting the recipient, London admin at Formations House, to send a document known as 'gambian COGS' to an address in Folkestone, United Kingdom. The email lacks any direct reference to its subject line 'plz send it', but it could be assumed that 'it' refers to the Gambian COGS document mentioned in the body of the email.",
+  "Metadata": {
+    "Date": "Mon, 16 Nov 2015 19:23:10 +0500",
+    "Sender": "Oliver <oliver@formationshouse.com>",
+    "Recipient": "<londonadmin@formationshouse.com>",
+    "cc": "NA"
+  },
+  "Metadata_Analysis": {
+    "Sender_Domain": "formationshouse.com",
+    "Recipient_Domain": "formationshouse.com",
+    "Sender_Company": "Formations House",
+    "Recipient_Company": "Formations House"
+  }
+}
+
+{
+"Summary": "The email is a communication from Oliver asking the recipient to print and courier some Gambian company documents to Kate Cherry in Tunbridge Wells, United Kingdom.",
+"Analysis": "The body of the email contains a request to print certain documents related to a Gambian company and subsequently send them via courier to a person named Kate Cherry who is situated in Tunbridge Wells, United Kingdom. The intent of the sender seems to be to have these documents hand delivered.",
+"Metadata": {
+  "Date": "Thu, 11 Feb 2016 16:54:17 +0500",
+  "From": "\"Oliver\" <oliver@formationshouse.com>",
+  "To": "<londonadmin@formationshouse.com>",
+  "Subject": "Documents sending with Courier",
+  "Cc": "NA"
+},
+"Metadata Analysis": {
+  "Sender Email Domain": "formationshouse.com",
+  "Relation to Known Companies": "The sender's and receiver's email domains are tied to formationshouse.com, which is a recognized company known for offering company setup services. There are no unrecognized company domains in the email."
+ }
+}
+
+{
+    "Summary": "The email is a request from Oliver to the London admin to send printed Gambian company documents to an address in Kuala Lumpur, Malaysia.",
+    "Analysis": "Oliver from Formations House is asking the London admin to print and send documents, specifically Gambian company documents, to an address in Malaysia. The documents are possibly for a customer named Michael. The request also indicates shipping the documents via a courier. The repeated paragraph in the body of the email seems to be accidental.",
+    "Metadata": {
+        "Date": "Fri, 1 Jul 2016 18:55:09 +0500",
+        "Sender": "\"Oliver\" <oliver@formationshouse.com>",
+        "Recipient": "<londonadmin@formationshouse.com>",
+        "CC": "None"
+    },
+    "Metadata Analysis": {
+        "Recognized Domains": {
+            "formationshouse.com": "Formations House Company"
+        },
+        "Non recognizable domains": "NA"
+    }
+}
+
+{
+  "Summary": "The email includes a request for sending documents related to two companies to the client, Anne Dykeman, who is based in Lutz, FL, USA.",
+  "Analysis": "The sender of the email, Oliver, wants the recipient (londonadmin@formationshouse.com) to send certain documents relating to two companies to the client, Anne Dykeman, whose address and contact number have been provided. The message has been duplicated in the email, possibly due to an error. It's unclear what these two companies are or what their connection with Anne Dykeman or Formations House is.",
+  "Metadata": {
+    "Date": "Wed, 17 Feb 2016 13:34:42 +0500",
+    "From": "Oliver <oliver@formationshouse.com>",
+    "To": "<londonadmin@formationshouse.com>",
+    "Subject": "Gambian company documents sending",
+    "cc": "NA"
+  },
+  "Metadata Analysis": {
+    "Domain Information": {
+      "formationshouse.com": "Formations House is a company that offers company registration and other corporate services. The sender is stated as Oliver from Formations House and the recipient is a London admin associated with the same company."
+    },
+    "Non Recognizable Companies": "NA"
+  }
+}
+
+{
+  "Summary": "Oliver is chasing the admin at Formations House whether the Gambian company documents have already been sent to Dr. Konstantin Bevzov's address in the United Kingdom.",
+  "Analysis": {
+    "Content": "The email pertains to Oliver from Formations House following up with the London admin regarding the Gambian company documents that were supposed to be printed and sent to Dr. Konstantin Bevzov. The original email where Oliver asked to send these documents was sent on June 15, 2016. The forwarded email and follow-up both have the same subject line indicating the documents' origin.",
+    "SubjectRelation": "The subject 'Gambian Company Docs' explicitly mentions the documents in question. Oliver's email is a follow up on this subject, confirming if the documents have been sent."
+  },
+  "Metadata": {
+    "Date": "Mon, 27 Jun 2016 18:49:25 +0500",
+    "Sender": "Oliver <oliver@formationshouse.com>",
+    "Recipient": "londonadmin@formationshouse.com",
+    "cc": "NA"
+  },
+  "MetadataAnalysis": {
+    "RecognizableDomains": {
+      "formationshouse.com": "Formations House, a company that provides services such as company formation and registration."
+    },
+    "NonRecognizableDomains": "NA"
+  }
+}
+
+{
+  "Summary": "The email is a directive from Oliver to send printed Gambian company documents via courier to Dr. Konstantin Bevzov's address in the United Kingdom.",
+  "Analysis": "Oliver has sent an email to the London admin team of his company requesting the printing and sending of some important documents related to a Gambian company. These documents need to be sent to Dr. Konstantin Bevzov, possibly a business associate or client, via courier. The address given for shipment is in Folkestone, United Kingdom. There is a sense of urgency in the request since Oliver urges to use courier service for shipment.",
+  "Metadata": {
+    "Date": "Fri, 19 Aug 2016 18:47:07 +0500",
+    "Sender": "\"Oliver\" <oliver@formationshouse.com>",
+    "Recipient": "<londonadmin@formationshouse.com>",
+    "Cc": "N/A"
+  },
+  "Metadata_Analysis": {
+    "Recognizable_Domain": "formationshouse.com",
+    "Company_Association": "Formations House, a company formations agency based in the UK.",
+    "Unrecognizable_Domain": "N/A"
+  }
+}
+
+{
+  "Summary": "The email is a request to Nadya to print and send Gambian company documents to specified locations.",
+  "Analysis": "The email from Oliver to Nadya is giving instructions on how to handle some business documents. The documents are related to Gambian companies. There is an order to print and send these documents by courier to Dr. Konstantin Bevzov at the specified address. There's also a secondary instruction to send copies of blank documents related to the same Gambian companies to an agent. Repeated text seems to be an error in the email.",
+  "Metadata": {
+    "Date": "Wed, 16 Mar 2016 19:45:25 +0500",
+    "Sender": "\"Oliver\" <oliver@formationshouse.com>",
+    "Recipient": "<londonadmin@formationshouse.com>",
+    "cc": "NA"
+  },
+  "Metadata Analysis": {
+    "Recognizable Domains": [
+      {
+        "Domain": "formationshouse.com",
+        "Company": "Formations House",
+        "Details": "Formations House is a known company that specializes in corporation services such as creating new companies, off-shore and on-shore, ready made companies and more."
+      }
+    ],
+    "Non-Recognizable Domains": "NA"
+  }
+}
+

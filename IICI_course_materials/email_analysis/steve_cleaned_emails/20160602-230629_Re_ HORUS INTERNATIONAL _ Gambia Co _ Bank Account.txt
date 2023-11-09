@@ -1,0 +1,55 @@
+Date: Thu, 2 Jun 2016 23:06:29 +0900
+Subject: Re: HORUS INTERNATIONAL : Gambia Co : Bank Account
+From: Yuichiro Tanaka-HORUS INT <tanaka@horus-international.com>
+To: "Steve Smith (Formations House)" <steve@formationshouse.com>
+CC: support@formationshouse.com
+
+Dear Steve,
+I'm sorry for worrying you.
+A malfunction occurred in that machine.
+I repaired the problems.
+It has no problems.
+yuichiro
+On 2016/06/02 22:56, Steve Smith
+      (Formations House) wrote:
+Dear
+Yuichiro
+Yes we
+            received your email
+            with documents for bank account which are now with our bank
+            account processing
+            team.
+We have
+            trying to send you
+            emails but emails are bouncing back with following error.
+-----------------------------------------------------------------------------------------------------------------
+This is the mail
+            system at host
+            mail307.phy.lolipop.jp.
+I'm sorry to have to
+            inform you that
+            your message could not be delivered to one or more
+            recipients. It's attached
+            below.
+For further
+            assistance, please send
+            mail to postmaster.
+If you do so, please
+            include this
+            problem report. You can delete your own text from the
+            attached returned
+            message.
+The mail system
+<
+tanaka@horus-international.com
+>:
+            permission denied. Command output: maildrop:
+maildir over
+            quota.
+--------------------------------------------------------------------------------------------------------------------------------------
+Regards
+Steve..
+__________ Information from ESET NOD32 Antivirus, version of virus
+      signature database 13585 (20160602) __________
+The message was checked by ESET NOD32 Antivirus.
+http://www.eset.com

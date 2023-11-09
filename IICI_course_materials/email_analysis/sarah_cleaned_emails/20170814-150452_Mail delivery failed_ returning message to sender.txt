@@ -1,0 +1,182 @@
+Date: Mon, 14 Aug 2017 15:04:52 +0100
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: sarah@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sarahbanokamal@hotmail.com
+    SMTP error from remote mail server after MAIL FROM:<sarah@formationshouse.com> SIZE=5447:
+    host mx4.hotmail.com [65.55.33.119]: 550 SC-001 (COL004-MC5F26) Unfortunately, messages from 217.174.241.172 weren't sent. Please contact your Internet service provider since part of their network is on our block list. You can also refer your provider to http://mail.live.com/mail/troubleshooting.aspx#errors.
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <sarah@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1dhFyw-0002yX-Tr 
+	for <sarahbanokamal@hotmail.com>; Mon, 14 Aug 2017 15:04:50 +0100
+From: "Sarah" <sarah@formationshouse.com>
+To: <sarahbanokamal@hotmail.com>
+Subject: 
+Date: Mon, 14 Aug 2017 19:07:16 +0500
+Message-ID: <007801d31506$a3a6a1b0$eaf3e510$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0079_01D31530.8C7CA9B0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdMVBqKWt651XFPxSxy5a8ICXvI3cw==
+Content-Language: en-us
+X-Spam-Status: X-Spam-Score: 0.0:
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0079_01D31530.8C7CA9B0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Independence Day Celebrations with all the BRAVE kids at Kashif Iqbal
+Thalassaemia Care Centre.
+
+ 
+
+We had some fun filled activities & spent quality time with the kid. Missed
+the humble loving presence of Sir Iqbal a lot!
+
+ 
+
+Hats off to the management for this amazing institute which caters to about
+600 Thalassemia Major kids and provide them blood transfusion service
+totally free of cost.
+
+ 
+
+PREVENTION IS THE ONLY CURE! PLEASE SPREAD THE MESSAGE!
+
+ 
+
+Love Always,
+
+ 
+
+Team CAUSE
+
+ 
+
+ 
+
+
+------=_NextPart_000_0079_01D31530.8C7CA9B0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+
+
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal>Independence Day Celebrations with all the BRAVE =
+kids at
+Kashif Iqbal Thalassaemia Care Centre.<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>We had some fun filled activities &amp; spent =
+quality time
+with the kid. Missed the humble loving presence of Sir Iqbal a =
+lot!<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Hats off to the management for this amazing =
+institute which
+caters to about 600 Thalassemia Major kids and provide them blood =
+transfusion
+service totally free of cost.<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>PREVENTION IS THE ONLY CURE! PLEASE SPREAD THE =
+MESSAGE!<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Love Always,<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Team CAUSE<o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+ <BR><BR>__________ Information from ESET NOD32 Antivirus, version of =
+detection engine 15546 (20170607) __________<BR><BR>The message was =
+checked by ESET NOD32 Antivirus.<BR><BR><A =
+HREF=3D"http://www.eset.com">http://www.eset.com</A><BR> </body>
+
+</html>
+
+------=_NextPart_000_0079_01D31530.8C7CA9B0--
+

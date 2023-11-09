@@ -1,0 +1,1822 @@
+Date: Tue, 22 Nov 2016 12:48:13 +0000
+Subject: Mail delivery failed: returning message to sender
+From: Mail Delivery System <Mailer-Daemon@infinidomains.com>
+To: steve@formationshouse.com
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  info@techsquad.com.co
+    retry timeout exceeded
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <steve@formationshouse.com>
+Received: by mailhub.infinidomains.com with esmtpa (iodomain mail server) id 1c9AUT-0007O0-25 ; Tue, 22 Nov 2016 12:48:02 +0000
+From: "Steve Smith \(Formations House\)" <steve@formationshouse.com>
+To: "'TechSquad Inc'" <info@techsquad.com.co>
+Cc: <support@formationshouse.com>
+References: <008301d24103$d2a8c970$77fa5c50$@com> <CAOh7j3UPFix-UXggstS8pvZiwozfznnVj6BqUg4-kFDj++um1g@mail.gmail.com> <001f01d2418c$b569c380$203d4a80$@com> <CAOh7j3V4bbDfdiXJjrSLdOs+wcWLiWj3BT0SMv0SbzY7MhSeLw@mail.gmail.com> <004301d243fe$27e8fb60$77baf220$@com> <CAOh7j3XnLvt3n6Ykt-Ac8Phx+pkT-LCNomAWHOJPCLhF3kyFnQ@mail.gmail.com>
+In-Reply-To: <CAOh7j3XnLvt3n6Ykt-Ac8Phx+pkT-LCNomAWHOJPCLhF3kyFnQ@mail.gmail.com>
+Subject: RE: TECHSQUADINC : Urgent Response Required
+Date: Tue, 22 Nov 2016 17:50:06 +0500
+Message-ID: <001f01d244be$fa7a4dc0$ef6ee940$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0020_01D244E8.E35055C0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdJELOIdqD19saoXTquvkw0+LWBqXgAkf/8g
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0020_01D244E8.E35055C0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi=20
+
+=20
+
+I believe following email was not meant for us.
+
+=20
+
+------------
+
+Regards,
+
+=20
+
+Steve Smith
+
+=20
+
+FORMATIONS HOUSE
+
+email : support@formationshouse.com; steve@formationshouse.com
+
+phone : 0044-207-016-2727
+
+website : www.formationshouse.com
+
+Working hours : Monday to Friday 9am to 5pm (UK time)
+
+=20
+
+From: TechSquad Inc [mailto:info@techsquad.com.co]=20
+Sent: Tuesday, 22 November, 2016 12:23 AM
+To: Steve Smith (Formations House)
+Subject: Re: TECHSQUADINC : Urgent Response Required
+
+=20
+
+William,
+
+=20
+
+1.
+
+We have registered our company in UK as "TECHSQUAD INC LIMITED" with =
+Company Number 10488215 from Formationshouse.
+
+I am sending you the registration documents. Kindly check the =
+attachments in Email.
+
+2.
+
+Our registered address is Suite B, 29 Harley Street, W1G9QR, London.
+
+3.
+
+We have almost completed the API. We just need the quickpay and merchant =
+portal passwords.
+
+=20
+
+Regards.
+
+=20
+
+On Mon, Nov 21, 2016 at 7:19 PM, Steve Smith (Formations House) =
+<steve@formationshouse.com> wrote:
+
+Dear Simarpal Sachar
+
+=20
+
+This is to inform you that company TECHSQUAD INC LIMITED is now =
+registered, attached is the certificate of incorporation. To download =
+company documents please follow the following steps:
+
+=20
+
+=20
+
+1. Login to your account at our website www.formationshouse.com using MY =
+ACCOUNT link and provide your Customer ID and Password.
+
+=20
+
+2. Click on "UK Company Admin" link.
+
+=20
+
+3. In case, if you have multiple companies in your account, select the =
+company name for which you wish to download the documents and click on =
+the document links in the account.
+
+=20
+
+------------
+
+Regards,
+
+=20
+
+Steve Smith
+
+=20
+
+FORMATIONS HOUSE
+
+email : support@formationshouse.com; steve@formationshouse.com
+
+phone : 0044-207-016-2727
+
+website : www.formationshouse.com
+
+Working hours : Monday to Friday 9am to 5pm (UK time)
+
+=20
+
+From: TechSquad Inc [mailto:info@techsquad.com.co]=20
+Sent: Friday, 18 November, 2016 5:44 PM
+To: Steve Smith (Formations House)
+Subject: Re: TECHSQUADINC : Urgent Response Required
+
+=20
+
+Steve Smith
+
+FORMATIONS HOUSE
+
+steve@formationshouse.com
+
+support@formationshouse.com
+
+=20
+
+Sir,
+
+=20
+
+1. I am sending my State Bank of India Stetement as Proof of Residential =
+Address. Kindly check attachment1.=20
+
+2. I request that we will prefer the company name as "TECHSQUAD INC =
+LIMITED". Kindly let me know if this exact name is available. Otherwise =
+we can have "TECHSQUADINC LIMITED".
+
+=20
+
+Regards.
+
+=20
+
+=20
+
+On Fri, Nov 18, 2016 at 4:42 PM, Steve Smith (Formations House) =
+<steve@formationshouse.com> wrote:
+
+Dear Simarpal Sachar
+
+Thank you for providing documents for due diligence.
+
+=20
+
+However document =E2=80=98credit card statement=E2=80=99 provided as =
+Proof of Residence do not have director=E2=80=99s residential address =
+printed on it. Please provide latest bank account or credit card =
+statement showing issue date, name, address and account number.
+
+=20
+
+Arrange above document as soon as possible so that we can further =
+proceed with your application.
+
+=20
+
+------------
+
+Regards,
+
+=20
+
+Steve Smith
+
+=20
+
+FORMATIONS HOUSE
+
+email : support@formationshouse.com; steve@formationshouse.com
+
+phone : 0044-207-016-2727
+
+website : www.formationshouse.com
+
+Working hours : Monday to Friday 9am to 5pm (UK time)
+
+=20
+
+From: TechSquad Inc [mailto:info@techsquad.com.co]=20
+Sent: Friday, 18 November, 2016 12:13 AM
+To: Steve Smith (Formations House)
+Subject: Re: TECHSQUADINC : Urgent Response Required
+
+=20
+
+Steve Smith
+
+FORMATIONS HOUSE
+
+steve@formationshouse.com
+
+support@formationshouse.com
+
+=20
+
+Sir,
+
+=20
+
+1. I am sending a PDF of my Passport as Proof of ID. Kindly check =
+attachment1.
+
+2. I am sending Credit Card Statement as Proof of Residential Address. =
+Kindly check attachment2. The creditcard statement is password =
+protected. Kindly use the password "inst1308" to view the statement.
+
+3. I am sending a description of our detailed business activity. Kindly =
+check attachment3.
+
+4. Our company's expected annual turnover will be =C2=A375000.
+
+5. We confirm that we appoint the director Mr Simarpal Singh Sachar as =
+PSC (Person with significant control).
+
+=20
+
+6. I request that we will prefer the company name as "TECHSQUAD INC =
+LIMITED". Kindly let me know if this exact name is available. Otherwise =
+we can have "TECHSQUADINC LIMITED".
+
+=20
+
+Regards.
+
+=20
+
+=20
+
+On Fri, Nov 18, 2016 at 12:22 AM, Steve Smith (Formations House) =
+<steve@formationshouse.com> wrote:
+
+Dear Simarpal Sachar
+
+=20
+
+=20
+
+Thank you for your order for UK company formation 'TECHSQUADINC =
+LIMITED'.
+
+=20
+
+=20
+
+UK regulations now require us to establish the identity of all customers =
+that we are providing services to.
+
+=20
+
+=20
+
+Due Diligence Director and Shareholder:
+
+=20
+
+Please assist us in completing due diligence by providing color scan =
+copies of following documents for company director and shareholder =
+=E2=80=98Mr Simarpal Sachar'.
+
+=20
+
+Please make sure that scans are clear and in readable size and format.
+
+=20
+
+1. Proof of ID - Valid Passport (bearer signature must be visible)
+
+2. Proof of Residential Address - Last 3 months utility bills (water OR =
+gas OR electricity) or latest personal bank/credit card statement. =
+(issue date, name, address and account number must be visible)
+
+=20
+
+Please do not send telephone, mobile, TV or internet bill, these are not =
+acceptable. If the documents are not in English then you need to have =
+them translated and notarized. And send original and translated copies.
+
+=20
+
+=20
+
+Other Information for TECHSQUADINC LIMITED:
+
+=20
+
+Detailed Business Activity:
+
+Expected Annual Turnover:=20
+
+=20
+
+=20
+
+PSC (Person with significant control):
+
+=20
+
+Who will be the PSC (Person with significant control) of the company? At =
+the moment registrar is only accepting director as PSC. Confirm so that =
+we can appoint =E2=80=98Mr Simarpal Sachar=E2=80=99 as PSC for the =
+company.
+
+=20
+
+=20
+
+Company Name Confirmation:=20
+
+=20
+
+Please confirm how you wish company name to be registered:
+
+=20
+
+- TECHSQUADINC LIMITED (without space and exact spelling)
+
+=20
+
+OR
+
+=20
+
+- TECH SQUAD INC LIMITED (with space and correct spelling)
+
+=20
+
+=20
+
+Please provide us with above mentioned documents, PSC confirmation, =
+other information and company name confirmation as soon as possible so =
+that we can further proceed with your application.
+
+=20
+
+=20
+
+If you require further information or assistance you can contact us at =
+info@formationshouse.com or 0044-(0)207-016-2727 Monday to Friday 09:00 =
+am to 05:00 pm GMT.
+
+=20
+
+=20
+
+------------
+
+Regards,
+
+=20
+
+Steve Smith
+
+=20
+
+FORMATIONS HOUSE
+
+email : support@formationshouse.com; steve@formationshouse.com
+
+phone : 0044-207-016-2727
+
+website : www.formationshouse.com
+
+Working hours : Monday to Friday 9am to 5pm (UK time)
+
+=20
+
+
+
+
+
+=20
+
+--=20
+
+Dr. Simarpal Sachar
+
+=20
+
+CFO at TechSquad, Inc.
+
+3422 Old Capitol Trail, # 2071, Wilmington, DE 19808,USA
+
+US Phone Number:  (800) 927 1490,  (302) 415 3040
+
+Indian Phone Number: +91 294 6452700, +91 9352500752
+
+Email: simarpal@techsquad.com.co, info@techsquad.com.co
+
+
+
+
+
+=20
+
+=20
+
+
+
+
+
+=20
+
+--=20
+
+Dr. Simarpal Sachar
+
+=20
+
+CFO at TechSquad, Inc.
+
+3422 Old Capitol Trail, # 2071, Wilmington, DE 19808,USA
+
+US Phone Number:  (800) 927 1490,  (302) 415 3040
+
+Indian Phone Number: +91 294 6452700, +91 9352500752
+
+Email: simarpal@techsquad.com.co, info@techsquad.com.co
+
+
+------=_NextPart_000_0020_01D244E8.E35055C0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.m-7350514393222453687m35747331092175173m-3100128246344380589msonospacin=
+g, =
+li.m-7350514393222453687m35747331092175173m-3100128246344380589msonospaci=
+ng, =
+div.m-7350514393222453687m35747331092175173m-3100128246344380589msonospac=
+ing
+	=
+{mso-style-name:m_-7350514393222453687m35747331092175173m-310012824634438=
+0589msonospacing;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'>Hi <o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'><o:p>&nbsp;</o:p></span></p>=
+
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'>I believe following
+email was not meant for us.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'><o:p>&nbsp;</o:p></span></p>=
+
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'>------------<o:p></o:p></spa=
+n></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'>Regards,<o:p></o:p></span></=
+p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'><o:p>&nbsp;</o:p></span></p>=
+
+
+<p class=3DMsoNormal><span lang=3DEN-GB =
+style=3D'font-family:"Calibri","sans-serif"'>Steve
+Smith<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB =
+style=3D'font-family:"Calibri","sans-serif"'><o:p>&nbsp;</o:p></span></p>=
+
+
+<p class=3DMsoNormal><span lang=3DEN-GB =
+style=3D'font-family:"Calibri","sans-serif"'>FORMATIONS
+HOUSE<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB =
+style=3D'font-family:"Calibri","sans-serif"'>email
+: support@formationshouse.com; =
+steve@formationshouse.com<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB =
+style=3D'font-family:"Calibri","sans-serif"'>phone
+: 0044-207-016-2727<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB =
+style=3D'font-family:"Calibri","sans-serif"'>website
+: www.formationshouse.com<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-GB =
+style=3D'font-family:"Calibri","sans-serif"'>Working
+hours : Monday to Friday 9am to 5pm (UK time)<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif"'><o:p>&nbsp;</o:p></span></p>=
+
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> TechSquad =
+Inc
+[mailto:info@techsquad.com.co] <br>
+<b>Sent:</b> Tuesday, 22 November, 2016 12:23 AM<br>
+<b>To:</b> Steve Smith (Formations House)<br>
+<b>Subject:</b> Re: TECHSQUADINC : Urgent Response =
+Required<o:p></o:p></span></p>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<div>
+
+<div>
+
+<p class=3DMsoNormal>William,<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal>1.<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal>We have registered our company in UK as =
+&quot;TECHSQUAD INC
+LIMITED&quot; with Company Number 10488215 from =
+Formationshouse.<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal>I am sending you the registration documents. Kindly =
+check
+the attachments in Email.<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal>2.<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal>Our registered address is Suite B, 29 Harley =
+Street, W1G9QR,
+London.<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal>3.<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal>We have almost completed the API. We just need the =
+quickpay
+and merchant portal passwords.<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal>Regards.<o:p></o:p></p>
+
+</div>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<div>
+
+<p class=3DMsoNormal>On Mon, Nov 21, 2016 at 7:19 PM, Steve Smith =
+(Formations
+House) &lt;<a href=3D"mailto:steve@formationshouse.com" =
+target=3D"_blank">steve@formationshouse.com</a>&gt;
+wrote:<o:p></o:p></p>
+
+<div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Dear
+Simarpal Sachar<o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>This
+is to inform you that company TECHSQUAD INC LIMITED is now registered, =
+attached
+is the certificate of incorporation. To download company documents =
+please
+follow the following steps:<o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>1.
+Login to your account at our website <a =
+href=3D"http://www.formationshouse.com"
+target=3D"_blank">www.formationshouse.com</a> using MY ACCOUNT link and =
+provide
+your Customer ID and Password.<o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>2.
+Click on &quot;UK Company Admin&quot; link.<o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>3.
+In case, if you have multiple companies in your account, select the =
+company
+name for which you wish to download the documents and click on the =
+document
+links in the account.<o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-family:"Calibri","sans-serif"'>&nbsp;</span><o:p></o:p></p>=
+
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-family:"Calibri","sans-serif"'>------------</span><o:p></o:=
+p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-family:"Calibri","sans-serif"'>Regards,</span><o:p></o:p></=
+p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-family:"Calibri","sans-serif"'>&nbsp;</span><o:p></o:p></p>=
+
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB style=3D'font-family:"Calibri","sans-serif"'>Steve =
+Smith</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB =
+style=3D'font-family:"Calibri","sans-serif"'>&nbsp;</span><o:p></o:p></p>=
+
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB style=3D'font-family:"Calibri","sans-serif"'>FORMATIONS =
+HOUSE</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB style=3D'font-family:"Calibri","sans-serif"'>email : <a
+href=3D"mailto:support@formationshouse.com" =
+target=3D"_blank">support@formationshouse.com</a>;
+<a href=3D"mailto:steve@formationshouse.com" =
+target=3D"_blank">steve@formationshouse.com</a></span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB style=3D'font-family:"Calibri","sans-serif"'>phone : =
+0044-207-016-2727</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB style=3D'font-family:"Calibri","sans-serif"'>website : <a
+href=3D"http://www.formationshouse.com" =
+target=3D"_blank">www.formationshouse.com</a></span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB style=3D'font-family:"Calibri","sans-serif"'>Working hours =
+: Monday to
+Friday 9am to 5pm (UK time)</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-family:"Calibri","sans-serif"'>&nbsp;</span><o:p></o:p></p>=
+
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> TechSquad =
+Inc
+[mailto:<a href=3D"mailto:info@techsquad.com.co" =
+target=3D"_blank">info@techsquad.com.co</a>]
+<br>
+<b>Sent:</b> Friday, 18 November, 2016 5:44 PM<br>
+<b>To:</b> Steve Smith (Formations House)<br>
+<b>Subject:</b> Re: TECHSQUADINC : Urgent Response =
+Required</span><o:p></o:p></p>
+
+</div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+<div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Steve
+Smith<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>FORMATIONS
+HOUSE<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><a
+href=3D"mailto:steve@formationshouse.com" =
+target=3D"_blank">steve@formationshouse.com</a><o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><a
+href=3D"mailto:support@formationshouse.com" =
+target=3D"_blank">support@formationshouse.com</a><o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Sir,<o:p></o=
+:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>1.
+I am sending my State Bank of India Stetement as Proof of Residential =
+Address.
+Kindly check attachment1.&nbsp;<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>2.
+I request that we will prefer the company name as &quot;TECHSQUAD INC
+LIMITED&quot;. Kindly let me know if this exact name is available. =
+Otherwise we
+can have &quot;TECHSQUADINC LIMITED&quot;.<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Regards.<o:p=
+></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>On
+Fri, Nov 18, 2016 at 4:42 PM, Steve Smith (Formations House) &lt;<a
+href=3D"mailto:steve@formationshouse.com" =
+target=3D"_blank">steve@formationshouse.com</a>&gt;
+wrote:<o:p></o:p></p>
+
+<div>
+
+<div>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>Dear
+Simarpal Sachar<o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-family:"Calibri","sans-serif"'>Thank you for providing =
+documents
+for due diligence.</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-family:"Calibri","sans-serif"'>&nbsp;</span><o:p></o:p></p>=
+
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-family:"Calibri","sans-serif"'>However document =
+=E2=80=98credit card
+statement=E2=80=99 provided as Proof of Residence do not have =
+director=E2=80=99s residential
+address printed on it. Please provide latest bank account or credit card
+statement showing issue date, name, address and account =
+number.</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-family:"Calibri","sans-serif"'>&nbsp;</span><o:p></o:p></p>=
+
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-family:"Calibri","sans-serif"'>Arrange above document as =
+soon as
+possible so that we can further proceed with your =
+application.</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-family:"Calibri","sans-serif"'>&nbsp;</span><o:p></o:p></p>=
+
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-family:"Calibri","sans-serif"'>------------</span><o:p></o:=
+p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-family:"Calibri","sans-serif"'>Regards,</span><o:p></o:p></=
+p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-family:"Calibri","sans-serif"'>&nbsp;</span><o:p></o:p></p>=
+
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB style=3D'font-family:"Calibri","sans-serif"'>Steve =
+Smith</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB =
+style=3D'font-family:"Calibri","sans-serif"'>&nbsp;</span><o:p></o:p></p>=
+
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB style=3D'font-family:"Calibri","sans-serif"'>FORMATIONS =
+HOUSE</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB style=3D'font-family:"Calibri","sans-serif"'>email : <a
+href=3D"mailto:support@formationshouse.com" =
+target=3D"_blank">support@formationshouse.com</a>;
+<a href=3D"mailto:steve@formationshouse.com" =
+target=3D"_blank">steve@formationshouse.com</a></span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB style=3D'font-family:"Calibri","sans-serif"'>phone : =
+0044-207-016-2727</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB style=3D'font-family:"Calibri","sans-serif"'>website : <a
+href=3D"http://www.formationshouse.com" =
+target=3D"_blank">www.formationshouse.com</a></span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB style=3D'font-family:"Calibri","sans-serif"'>Working hours =
+: Monday to
+Friday 9am to 5pm (UK time)</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-family:"Calibri","sans-serif"'>&nbsp;</span><o:p></o:p></p>=
+
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> TechSquad =
+Inc
+[mailto:<a href=3D"mailto:info@techsquad.com.co" =
+target=3D"_blank">info@techsquad.com.co</a>]
+<br>
+<b>Sent:</b> Friday, 18 November, 2016 12:13 AM<br>
+<b>To:</b> Steve Smith (Formations House)<br>
+<b>Subject:</b> Re: TECHSQUADINC : Urgent Response =
+Required</span><o:p></o:p></p>
+
+</div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+<div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Steve
+Smith<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>FORMATIONS
+HOUSE<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><a
+href=3D"mailto:steve@formationshouse.com" =
+target=3D"_blank">steve@formationshouse.com</a><o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><a
+href=3D"mailto:support@formationshouse.com" =
+target=3D"_blank">support@formationshouse.com</a><o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Sir,<o:p></o=
+:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>1.
+I am sending a PDF of my Passport as Proof of ID. Kindly check =
+attachment1.<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>2.
+I am sending Credit Card Statement as Proof of Residential Address. =
+Kindly
+check attachment2. The creditcard statement is password protected. =
+Kindly use
+the password &quot;inst1308&quot; to view the statement.<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>3.
+I am sending a description of our detailed business activity. Kindly =
+check
+attachment3.<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>4.
+Our company's expected annual turnover will be =
+=C2=A375000.<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>5.
+We confirm that we appoint the director Mr Simarpal Singh Sachar as PSC =
+(Person
+with significant control).<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>6.
+I request that we will prefer the company name as &quot;TECHSQUAD INC
+LIMITED&quot;. Kindly let me know if this exact name is available. =
+Otherwise we
+can have &quot;TECHSQUADINC LIMITED&quot;.<o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Regards.<o:p=
+></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+</div>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>On
+Fri, Nov 18, 2016 at 12:22 AM, Steve Smith (Formations House) &lt;<a
+href=3D"mailto:steve@formationshouse.com" =
+target=3D"_blank">steve@formationshouse.com</a>&gt;
+wrote:<o:p></o:p></p>
+
+<div>
+
+<div>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>Dear
+Simarpal Sachar<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>Thank
+you for your order for UK company formation 'TECHSQUADINC =
+LIMITED'.<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>UK
+regulations now require us to establish the identity of all customers =
+that we
+are providing services to.<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing><b>&nbsp;</b><o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing><b>&nbsp;</b><o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing><b>Due
+Diligence Director and Shareholder:</b><o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>Please
+assist us in completing due diligence by providing color scan copies of
+following documents for company director and shareholder =E2=80=98Mr =
+Simarpal Sachar'.<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>Please
+make sure that scans are clear and in readable size and =
+format.<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>1.
+<b>Proof of ID</b> - Valid Passport (bearer signature must be =
+visible)<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>2.
+<b>Proof of Residential Address</b> - Last 3 months utility bills (water =
+OR gas
+OR electricity) or latest personal bank/credit card statement. (issue =
+date,
+name, address and account number must be visible)<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>Please
+do not send telephone, mobile, TV or internet bill, these are not =
+acceptable.
+If the documents are not in English then you need to have them =
+translated and
+notarized. And send original and translated copies.<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing><b>Other
+Information for </b>TECHSQUADINC LIMITED<b>:</b><o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing><b>&nbsp;</b><o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>Detailed
+Business Activity:<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>Expected
+Annual Turnover: <o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing><b>&nbsp;</b><o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing><b>&nbsp;</b><o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing><b>PSC
+(Person with significant control):</b><o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>Who
+will be the PSC (Person with significant control) of the company? At the =
+moment
+registrar is only accepting director as PSC. Confirm so that we can =
+appoint =E2=80=98Mr
+Simarpal Sachar=E2=80=99 as PSC for the company.<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing><b>Company
+Name Confirmation</b>: <o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>Please
+confirm how you wish company name to be registered:<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>-
+TECHSQUADINC LIMITED (without space and exact spelling)<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>OR<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>-
+TECH SQUAD INC LIMITED (with space and correct spelling)<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>Please
+provide us with above mentioned <b>documents, PSC confirmation, other
+information and company name confirmation </b>as soon as possible so =
+that we
+can further proceed with your application.<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>&nbsp;<o:p></o:p></p>
+
+<p
+class=3Dm-7350514393222453687m35747331092175173m-3100128246344380589msono=
+spacing>If
+you require further information or assistance you can contact us at <a
+href=3D"mailto:info@formationshouse.com" =
+target=3D"_blank">info@formationshouse.com</a>
+or 0044-(0)207-016-2727 Monday to Friday 09:00 am to 05:00 pm =
+GMT.<o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>------------=
+<o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Regards,<o:p=
+></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB>Steve Smith</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB>&nbsp;</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB>FORMATIONS HOUSE</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB>email : <a href=3D"mailto:support@formationshouse.com" =
+target=3D"_blank">support@formationshouse.com</a>;
+<a href=3D"mailto:steve@formationshouse.com" =
+target=3D"_blank">steve@formationshouse.com</a></span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB>phone : 0044-207-016-2727</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB>website : <a href=3D"http://www.formationshouse.com" =
+target=3D"_blank">www.formationshouse.com</a></span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+lang=3DEN-GB>Working hours : Monday to Friday 9am to 5pm (UK =
+time)</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+</div>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><br>
+<br clear=3Dall>
+<o:p></o:p></p>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+</div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>--
+<o:p></o:p></p>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";color:#222222'>=
+Dr.
+Simarpal Sachar</span><o:p></o:p></p>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:#222222'=
+>&nbsp;</span><o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";color:#222222'>=
+CFO at
+TechSquad, Inc.</span><o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";color:#222222'>=
+3422 Old
+Capitol Trail, # 2071, Wilmington, DE 19808,USA</span><o:p></o:p></p>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";color:#222222'>=
+US&nbsp;Phone
+Number:&nbsp; (800) 927 1490,&nbsp; (</span><span =
+style=3D'font-size:10.0pt;
+font-family:"Arial","sans-serif";color:#222222'>302) 415 =
+3040</span><o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:#222222'=
+>Indian&nbsp;</span><span
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";color:#222222'>=
+Phone Number:
++91 294 6452700, +91 9352500752</span><o:p></o:p></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";color:#222222'>=
+Email:&nbsp;</span><span
+style=3D'font-size:8.0pt;font-family:"Arial","sans-serif";color:#222222'>=
+<a
+href=3D"mailto:simarpal@techsquad.com.co" =
+target=3D"_blank">simarpal@techsquad.com.co</a>,
+<a href=3D"mailto:info@techsquad.com.co" =
+target=3D"_blank">info@techsquad.com.co</a></span><o:p></o:p></p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><br>
+<br clear=3Dall>
+<o:p></o:p></p>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+</div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal><br>
+<br clear=3Dall>
+<o:p></o:p></p>
+
+<div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+<p class=3DMsoNormal>-- <o:p></o:p></p>
+
+<div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+color:#222222'>Dr. Simarpal Sachar</span><o:p></o:p></p>
+
+<div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";
+color:#222222'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+color:#222222'>CFO at TechSquad, Inc.</span><span =
+style=3D'font-size:10.0pt;
+font-family:"Arial","sans-serif";color:#222222'><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+color:#222222'>3422 Old Capitol Trail, # 2071, Wilmington, DE =
+19808,USA</span><span
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:#222222'=
+><o:p></o:p></span></p>
+
+<div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+color:#222222'>US&nbsp;Phone Number:&nbsp; (800) 927 1490,&nbsp; =
+(</span><span
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:#222222'=
+>302)
+415 3040<o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";
+color:#222222'>Indian&nbsp;</span><span =
+style=3D'font-size:9.0pt;font-family:
+"Arial","sans-serif";color:#222222'>Phone Number: +91 294 6452700, +91
+9352500752</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";
+color:#222222'><o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+color:#222222'>Email:&nbsp;</span><span =
+style=3D'font-size:8.0pt;font-family:
+"Arial","sans-serif";color:#222222'><a =
+href=3D"mailto:simarpal@techsquad.com.co"
+target=3D"_blank">simarpal@techsquad.com.co</a>, <a
+href=3D"mailto:info@techsquad.com.co" =
+target=3D"_blank">info@techsquad.com.co</a></span><span
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif";color:#222222'=
+><o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_0020_01D244E8.E35055C0--
+

@@ -1,0 +1,17 @@
+Date: Wed, 02 Mar 2016 15:05:28 +0000
+Subject: Receipt for pay-legalisation-premium-service from the Foreign
+ Office
+From: no-reply@digital.fco.gov.uk
+To: londonadmin@formationshouse.com
+
+Pay to legalise documents using the premium service
+Receipt
+Thank you for your order from the Foreign & Commonwealth Office. We have now taken payment for the following:
+Date: 02/03/2016
+Payment Reference: PAYLEGALISATIONPREMIUMSERVICE-UK-ECOMM-20160302-87
+FCO Reference: 1314569310549138
+Service: pay-legalisation-premium-service
+Amount: £75
+Card type: visa
+Card number: XXXX XXXX XXXX 7007
+You have paid £75 for 1 document

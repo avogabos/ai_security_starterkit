@@ -1,0 +1,16 @@
+Date: Thu, 30 Sep 2010 19:36:49 +0500
+Subject: remote settings
+From: "Talal Desin \(Formations House\)" <talal@formationshouse.com>
+To: <talaldesin@hotmail.co.uk>,
+	<talal@formationshouse.com>,
+	<steve@formationshouse.com>
+
+213.86.130.11
+
+198.6.1.1
+
+213.86.130.11
+198.6.1.1
+__________ Information from ESET NOD32 Antivirus, version of virus signature database 5474 (20100923) __________
+The message was checked by ESET NOD32 Antivirus.
+http://www.eset.com

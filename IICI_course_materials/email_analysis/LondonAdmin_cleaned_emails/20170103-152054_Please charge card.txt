@@ -1,0 +1,51 @@
+Date: Tue, 3 Jan 2017 15:20:54 +0500
+Subject: Please charge card
+From: "Michael Gomes" <michaelgomes@formationshouse.com>
+To: "'Admin '" <londonadmin@formationshouse.com>
+
+Dear Nadya,
+
+ 
+
+Please charge the card details below.
+
+ 
+
+Company Name: DAFUSSEN CO.
+
+Customer ID: 888248
+
+ 
+
+Card Number : 4365 3999 5450 1224
+Cardholders Name : TING PI HUA
+Address where the card is registered: 14F-2, No. 508, Sec. 5, Jhongsiao
+East. Road, Taipei, Taiwan
+Expiry Date: 2017 / 02
+CCV Code: security code : 409
+amount of money : 75 GBP
+
+ 
+
+Thanks & Regards,
+
+ 
+
+Michael
+
+Dear Nadya,
+Please charge the card details below.
+Company Name: DAFUSSEN CO.
+Customer ID: 888248
+Card Number : 4365 3999 5450 1224
+Cardholders Name : TING PI HUA
+Address where the card is registered: 14F-2, No. 508, Sec. 5, Jhongsiao East.
+Road, Taipei, Taiwan
+Expiry Date: 2017 / 02
+CCV Code: security code : 409
+amount of money : 75 GBP
+Thanks & Regards,
+Michael
+__________ Information from ESET NOD32 Antivirus, version of virus signature database 14519 (20161128) __________
+The message was checked by ESET NOD32 Antivirus.
+http://www.eset.com
