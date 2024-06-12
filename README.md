@@ -1,6 +1,6 @@
 # AI Security Starterkit: Integrating Large Language Models
 
-Welcome to the AI Security Starterkit! Whether you're looking to delve into few-shot prompts, AI-driven intelligence summarization, or explore retrieval augmented generation, this repository is designed to help you get started on automating various aspects of security with AI.
+Welcome to the AI Security Starterkit, a place to begin learning the core concepts of using AI for basic security and intelligence related tasks! Whether you're looking to better understand into few-shot prompts, AI-driven intelligence summarization, or explore retrieval augmented generation, this repository is designed to help you get started on automating various aspects of security with AI.
 
 ## Few Shot Prompt Testing for Security Analysis
 - **Purpose**: Test and iterate AI-powered security solutions
