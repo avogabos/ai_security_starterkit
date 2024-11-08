@@ -1,0 +1,18 @@
+Summary:
+The data represents a series of textual communications between dispatchers and callers reporting various emergency situations. The content includes requests for emergency help, geographical details, and clarifying information about ongoing incidences. Callers report issues such as medical emergencies, violations, suspicious activities, lost individuals, and other safety issues.
+
+Type of data this was sourced from:
+Emergency dispatch call logs
+
+Required Expert:
+Incident responder
+
+Indicators:
+Emergency situation details
+Geographical/location references
+References to potentially dangerous or illegal activities
+
+Analysis considerations:
+Urgency or severity of reported incidents
+Verification of provided incident information
+Coordination with relevant emergency service providers.

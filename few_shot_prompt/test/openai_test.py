@@ -1,11 +1,10 @@
 import os
-import openai
+from openai import OpenAI
 
-# Read the OpenAI API key from environment variable
-openai_api_key = os.getenv('OPENAI_API_KEY')
-if not openai_api_key:
-    raise ValueError("Please set the OPENAI_API_KEY environment variable.")
-openai.api_key = openai_api_key
+# Instantiate a client using the new SDK
+client = OpenAI(
+    api_key=os.getenv('OPENAI_API_KEY')  # Defaults to the environment variable
+)
 
 def get_document_content(filename):
     """Read the content of the markdown document."""
@@ -14,19 +13,21 @@ def get_document_content(filename):
 
 def get_response_from_openai(prompt, document):
     """
-    Use the OpenAI API to quickly evaluate our few shot prompt approach
+    Use the OpenAI API to quickly evaluate our few-shot prompt approach.
     """
     messages = [
         {"role": "system", "content": document},
         {"role": "user", "content": prompt}
     ]
 
-    response = openai.ChatCompletion.create(
+    # Use the instantiated client to make a call to the API
+    response = client.chat.completions.create(
         model="gpt-4",
         messages=messages,
         max_tokens=500
     )
-    return response.choices[0].message['content'].strip()
+    # Accessing the properties of the response which is now a Pydantic model
+    return response.choices[0].message.content.strip()  # Adjusted to Pydantic model property access
 
 def main():
     document_content = get_document_content('command_line_fs.md')

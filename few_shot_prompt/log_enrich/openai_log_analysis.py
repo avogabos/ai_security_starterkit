@@ -1,12 +1,9 @@
 import os
 import json
-import openai
+from openai import OpenAI
 
-# Read the OpenAI API key from environment variable
-openai_api_key = os.getenv('OPENAI_API_KEY')
-if not openai_api_key:
-    raise ValueError("Please set the OPENAI_API_KEY environment variable.")
-openai.api_key = openai_api_key
+# Instantiate the client. The API key will be read from the environment variable OPENAI_API_KEY
+client = OpenAI()
 
 def get_document_content(filename):
     """Read the content of the markdown document."""
@@ -27,12 +24,14 @@ def get_response_from_openai(prompt, document):
         {"role": "user", "content": prompt}
     ]
 
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
         model="gpt-4",
         messages=messages,
         max_tokens=2700
     )
-    return response.choices[0].message['content'].strip()
+    
+    # Since the response is a Pydantic model, you should access attributes directly
+    return response.choices[0].message.content.strip()
 
 def save_response_as_json(response, csv_filename):
     # Extract the name of the CSV file without its extension
@@ -45,9 +44,6 @@ def save_response_as_json(response, csv_filename):
 def main():
     document_content = get_document_content('openai_command_line_analysis_fs.md')
     
-    # If you want to use the specific CSV file without user input, you can do:
-    # user_file_path = 'sample_data_logs.csv'
-    # If you want to prompt the user for the path, keep the input() line:
     user_file_path = input("Enter the path to your log data file (or press enter for default 'sample_data_logs.csv'): ")
     if not user_file_path.strip():  # Check if user pressed enter without input
         user_file_path = 'sample_data_logs.csv'

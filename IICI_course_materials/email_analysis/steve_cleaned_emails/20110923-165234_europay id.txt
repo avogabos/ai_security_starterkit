@@ -1,9 +1,0 @@
-Date: Fri, 23 Sep 2011 16:52:34 +0100
-Subject: europay id
-From: tahir@formationshouse.com
-To: steve@formationshouse.com
-
-
-&nbsp;<BR><!--TEXTSTART--><SPAN id=questionSpan></SPAN><!--TEXTEND--><BR><!--LINKTAGSTARTSHERE--><BR>FYI<BR><SPAN id=signSpan contentEditable=true></SPAN>
-
-FYI

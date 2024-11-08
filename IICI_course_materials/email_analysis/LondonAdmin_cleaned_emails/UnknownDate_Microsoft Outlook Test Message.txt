@@ -1,6 +1,0 @@
-Subject: Microsoft Outlook Test Message
-From: "Microsoft Outlook" <londonadmin@formationshouse.com>
-To: "London Admin" <londonadmin@formationshouse.com>
-
-This is an email message sent automatically by Microsoft Outlook while testing the settings for your account.
-This is an email message sent automatically by Microsoft Outlook while testing the settings for your account.

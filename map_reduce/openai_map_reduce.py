@@ -1,4 +1,5 @@
 import os
+import openai
 import json
 import gzip
 import zstandard as zstd
@@ -47,7 +48,7 @@ map_prompt = ChatPromptTemplate.from_messages(
         ),
         HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                template="As a threat intelligence analyst, review the chat transcripts below and write a one paragraph summary. Focus on the technologies and industries mentioned and context of the conversation. Cite specifics from the transcript to support your analysis.\n\n---\n\n {text} \n\n---\n",
+                template="review the chat transcripts below and write a one paragraph summary. Focus on any mention of a performance review system with a special emphasis on fines imposed for poor performance and the context of the conversation. Cite any individuals awarded employee of the month and why.\n\n---\n\n {text} \n\n---\n",
                 input_variables=["text"],
             )
         ),
@@ -64,7 +65,7 @@ reduce_prompt = ChatPromptTemplate.from_messages(
         ),
         HumanMessagePromptTemplate(
             prompt=PromptTemplate(
-                template="Combine the intelligence briefs below into a single intelligence brief. Identify the priority intelligence requirements, the technologies, and sectors the group is targeting, and their tools, tactics, and procedures. If there is not enough context, make a best guess. use a list to organize the information.\n\n---\n\n {text} \n\n---\n",
+                template="Combine the summaries into a single brief. Identify the main reasons employees were fined and any individuals awarded employee of the month and for which month.\n\n---\n\n {text} \n\n---\n",
                 input_variables=["text"],
             )
         ),

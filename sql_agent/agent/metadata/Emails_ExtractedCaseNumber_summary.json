@@ -1,0 +1,4 @@
+{
+  "summary": "The data consists of extracted case numbers from emails, predominantly featuring a single case number with a rare occurrence of a different one.",
+  "detailed_summary": "The 'ExtractedCaseNumber' column contains text data representing case numbers extracted from emails. The values predominantly consist of the case number 'F-2014-20439', which appears 57 times, with only one occurrence of a different case number, 'F-2015-04841'. This suggests a strong skew towards a single case number, indicating that the emails are largely associated with 'F-2014-20439'. This pattern may imply that the dataset is centered around a specific case or event. The presence of only two distinct case numbers could limit the diversity of the data and may affect the robustness of any downstream analysis. Additionally, there are no apparent data quality issues such as null values or inconsistencies in the format of the case numbers."
+}

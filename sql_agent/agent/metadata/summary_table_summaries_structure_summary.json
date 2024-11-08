@@ -1,0 +1,3 @@
+{
+  "table_summary": "The 'summary_table_summaries' table is designed to store metadata about various database tables. It includes columns such as 'table_name' (TEXT) to record the name of the table being summarized, 'structure_summary' (TEXT) to provide a detailed description of the table's structure and contents, 'created_at' (TIMESTAMP) to log the creation date and time of the summary, and 'updated_at' (TIMESTAMP) to record the last update date and time. This table facilitates tracking and managing the summaries of database tables for further analysis and exploration."
+}

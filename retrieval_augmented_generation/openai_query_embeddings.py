@@ -34,7 +34,6 @@ def gpt_answer(query, top_chat_message):
     response = openai.ChatCompletion.create(model=GPT_MODEL, messages=prompt)
     return response.choices[0].message['content'].strip()
 
-
 def main():
     user_query = input("Enter your query: ")
     query_embedding = query_to_embedding(user_query)

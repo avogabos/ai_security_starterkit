@@ -1,9 +1,0 @@
-Date: Tue, 30 Sep 2014 16:55:01 +0100
-Subject: FWD: (Virtual Office) Fax Message.
-From: InfiniOffice Support <support@infinioffice.com>
-To: steve@formationshouse.com
-
-Subject:
-Company Name: @@ Shared Fax Company
-Callerid: 9547528291
-Pages: 2

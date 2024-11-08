@@ -1,5 +1,0 @@
-Date: Mon, 23 Oct 2017 13:26:08 +0100
-Subject: Upgrade order confirmation
-From: support@formationshouse.com
-To: steve@formationshouse.com
-

@@ -1,8 +1,0 @@
-Date: Thu, 3 Jul 2014 21:01:30 +0500
-Subject: test email
-From: "Oliver" <oliver@formationshouse.com>
-To: <steve@formationshouse.com>
-
-Test email
-
-Test email
