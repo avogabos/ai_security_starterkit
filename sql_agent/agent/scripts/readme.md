@@ -154,7 +154,7 @@ Follow these steps to set up the agent on your local machine:
    │   │   └── table_structure_summary.md
    │   └── logs/
    ├── data/
-   │   └── hrc_emails/
+   │   └── emails/
    │       └── database.sqlite
    ├── .env
    └── requirements.txt
@@ -172,7 +172,7 @@ Follow these steps to set up the agent on your local machine:
 
 5. **Place the Database:**
 
-   - Copy your SQLite database file to `data/hrc_emails/database.sqlite`.
+   - Copy your SQLite database file to `data/emails/database.sqlite`.
 
 6. **Configure Paths (if necessary):**
 
