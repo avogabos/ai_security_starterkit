@@ -1,8 +1,0 @@
-openai==0.28
-transformers
-pandas
-scipy
-zstandard
-langchain
-tqdm
-anthropic
