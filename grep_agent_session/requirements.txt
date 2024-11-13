@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+tiktoken
+typing-extensions
+openai
+git+https://github.com/peterroelants/annotated-docs.git@main#egg=annotated-docs
