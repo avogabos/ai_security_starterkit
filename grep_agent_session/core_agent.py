@@ -8,6 +8,7 @@ import tiktoken
 from dotenv import load_dotenv
 from typing import Annotated as A, List, Dict
 from collections.abc import Callable
+import base64  # Import for base64 encoding
 
 # Load environment variables
 load_dotenv()
@@ -15,11 +16,11 @@ load_dotenv()
 # Import the OpenAI client
 from openai import OpenAI
 
-# Initialize tokenizer
-tokenizer = tiktoken.encoding_for_model("gpt-4")  # Updated to use 'gpt-4o'
-
 # Instantiate the OpenAI client
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+# Initialize tokenizer
+tokenizer = tiktoken.encoding_for_model("gpt-4o")  # Updated to use 'gpt-4o'
 
 # Paths and directories
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -96,12 +97,51 @@ def search_files(pattern: str, directory: str = "") -> str:
     except Exception as e:
         return f"Error searching files: {e}"
 
+def analyze_image(image_path: str, instruction: str = "") -> str:
+    """Analyzes an image using GPT-4o's image analysis capabilities."""
+    try:
+        full_image_path = os.path.join(target_directory, image_path)
+        with open(full_image_path, 'rb') as image_file:
+            image_data = image_file.read()
+        # Base64 encode the image
+        base64_image = base64.b64encode(image_data).decode('utf-8')
+        # Prepare the messages
+        content = []
+        if instruction:
+            content.append({"type": "text", "text": instruction})
+        else:
+            content.append({"type": "text", "text": "Analyze the following image."})
+        content.append({
+            "type": "image_url",
+            "image_url": {
+                "url": f"data:image/png;base64,{base64_image}"
+            }
+        })
+        messages = [
+            {
+                "role": "user",
+                "content": content,
+            }
+        ]
+        # Send the request to OpenAI API
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=messages,
+            max_tokens=1000,
+            temperature=0.5,
+        )
+        analysis = response.choices[0].message.content.strip()
+        return analysis
+    except Exception as e:
+        return f"Error analyzing image '{image_path}': {e}"
+
 # Update the name_to_function_map with the essential functions
 name_to_function_map: Dict[str, Callable] = {
     'get_available_functions': get_available_functions,
     'list_files': list_files,
     'read_file': read_file,
     'search_files': search_files,
+    'analyze_image': analyze_image,
     'finish': finish,
 }
 
@@ -138,6 +178,17 @@ def generate_function_schemas():
             }
             parameters["required"].append("pattern")
             # 'directory' is optional
+        elif func_name == 'analyze_image':
+            parameters["properties"]["image_path"] = {
+                "type": "string",
+                "description": "The path to the image file to analyze, relative to the target directory."
+            }
+            parameters["properties"]["instruction"] = {
+                "type": "string",
+                "description": "Custom instructions for analyzing the image."
+            }
+            parameters["required"].append("image_path")
+            # 'instruction' is optional
         elif func_name == 'finish':
             parameters["properties"]["answer"] = {
                 "type": "string",
@@ -156,7 +207,16 @@ def calculate_total_tokens(messages, function_schemas):
     total_tokens = 0
     for message in messages:
         content = message.get('content', '')
-        total_tokens += len(tokenizer.encode(content))
+        if isinstance(content, list):
+            # Handle list of content pieces (for images and text)
+            for item in content:
+                if 'text' in item:
+                    total_tokens += len(tokenizer.encode(item['text']))
+                elif 'image_url' in item:
+                    # Image URLs might be long due to base64 encoding
+                    total_tokens += len(tokenizer.encode(item['image_url']['url']))
+        else:
+            total_tokens += len(tokenizer.encode(content))
     functions_str = json.dumps(function_schemas)
     total_tokens += len(tokenizer.encode(functions_str))
     return total_tokens
@@ -168,9 +228,9 @@ def summarize_interaction(user_request: str, agent_answer: str) -> str:
         {"role": "user", "content": f"User requested: {user_request}\n\nAgent's answer: {agent_answer}\n\nProvide a concise summary of the user request, the tasks performed and the final answer."}
     ]
     response = client.chat.completions.create(
-        model="gpt-4o",  # Using 'gpt-4o' as per your request
+        model="gpt-4o",
         messages=messages,
-        max_tokens=4000,  # Retained your token limit
+        max_tokens=4000,
         temperature=0.5,
     )
     summary = response.choices[0].message.content.strip()
@@ -227,6 +287,7 @@ def run():
                 "- list_files(directory: str): Lists files in a subdirectory within the target directory.\n"
                 "- read_file(file_path: str): Reads the content of a file within the target directory, limited to 10000 tokens.\n"
                 "- search_files(pattern: str, directory: str): Searches for files containing a specific pattern within the target directory.\n"
+                "- analyze_image(image_path: str, instruction: str): Analyzes an image file using GPT-4o's image analysis capabilities.\n"
                 "- finish(answer: str): Finish the task with a final answer.\n\n"
                 "In each turn, follow this format:\n\n"
                 "THOUGHT: Reason about what to do next.\n"
@@ -258,7 +319,7 @@ def run():
 
                 # Send the messages to get the next response, including functions
                 response = client.chat.completions.create(
-                    model="gpt-4o",  # Using 'gpt-4o' as per your request
+                    model="gpt-4o",
                     messages=messages,
                     functions=function_schemas,
                     function_call="auto",  # Let the model decide when to call a function
@@ -378,7 +439,7 @@ def run():
                 print(f"An error occurred in the agent loop: {e}")
                 break
 
-    print("Session ended. Agent has completed the process.")
+        print("Session ended. Agent has completed the process.")
 
 def main():
     print("Starting the agent...")
