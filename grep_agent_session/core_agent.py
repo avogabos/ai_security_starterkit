@@ -9,6 +9,7 @@ from dotenv import load_dotenv
 from typing import Annotated as A, List, Dict
 from collections.abc import Callable
 import base64  # Import for base64 encoding
+import shlex   # Import for safely parsing command-line options
 
 # Load environment variables
 load_dotenv()
@@ -56,13 +57,35 @@ def get_available_functions() -> List[Dict[str, str]]:
 # Variable to store the target directory
 target_directory = ""
 
-def list_files(directory: str = "") -> str:
-    """Lists files in the specified directory within the target directory."""
+def list_files(directory: str = "", options: str = "", max_results: int = None) -> str:
+    """Lists files in the specified directory within the target directory, with optional 'ls' command options and result limit."""
     try:
         # Use the target_directory as base
         base_dir = os.path.join(target_directory, directory)
-        files = os.listdir(base_dir)
-        return json.dumps(files)
+        # Ensure the directory exists
+        if not os.path.isdir(base_dir):
+            return f"Directory '{directory}' does not exist."
+        # Build the command
+        command = ['ls']
+        if options:
+            # Split and sanitize the options
+            safe_options = shlex.split(options)
+            allowed_options = {'-l', '-a', '-h', '-t', '-r', '-S'}
+            for opt in safe_options:
+                if opt not in allowed_options:
+                    return f"Option '{opt}' is not allowed."
+            command.extend(safe_options)
+        command.append(base_dir)
+        # Execute the command
+        result = subprocess.run(command, capture_output=True, text=True)
+        if result.returncode != 0:
+            return f"Error listing files: {result.stderr.strip()}"
+        output = result.stdout.strip()
+        # Optionally limit the number of results
+        if max_results is not None:
+            lines = output.split('\n')
+            output = '\n'.join(lines[:max_results])
+        return output
     except Exception as e:
         return f"Error listing files in directory '{directory}': {e}"
 
@@ -87,11 +110,14 @@ def search_files(pattern: str, directory: str = "") -> str:
     try:
         # Use the target_directory as base
         base_dir = os.path.join(target_directory, directory)
+        # Ensure the directory exists
+        if not os.path.isdir(base_dir):
+            return f"Directory '{directory}' does not exist."
         # Use grep to search for the pattern recursively in the base directory
-        command = f"grep -ril '{pattern}' '{base_dir}'"
-        process = subprocess.run(command, shell=True, capture_output=True, text=True)
-        if process.returncode == 0:
-            return process.stdout.strip()
+        command = ['grep', '-ril', pattern, base_dir]
+        result = subprocess.run(command, capture_output=True, text=True)
+        if result.returncode == 0:
+            return result.stdout.strip()
         else:
             return "No files found containing the pattern."
     except Exception as e:
@@ -160,7 +186,15 @@ def generate_function_schemas():
                 "type": "string",
                 "description": "The subdirectory within the target directory to list files from."
             }
-            # 'directory' is optional
+            parameters["properties"]["options"] = {
+                "type": "string",
+                "description": "Command-line options for the 'ls' command (e.g., '-l -a'). Allowed options are '-l', '-a', '-h', '-t', '-r', '-S'."
+            }
+            parameters["properties"]["max_results"] = {
+                "type": "integer",
+                "description": "Maximum number of results to return."
+            }
+            # All parameters are optional
         elif func_name == 'read_file':
             parameters["properties"]["file_path"] = {
                 "type": "string",
@@ -225,7 +259,7 @@ def summarize_interaction(user_request: str, agent_answer: str) -> str:
     """Summarizes the interaction between the user and the agent."""
     messages = [
         {"role": "system", "content": "You are a helpful assistant that summarizes interactions."},
-        {"role": "user", "content": f"User requested: {user_request}\n\nAgent's answer: {agent_answer}\n\nProvide a concise summary of the user request, the tasks performed and the final answer."}
+        {"role": "user", "content": f"User requested: {user_request}\n\nAgent's answer: {agent_answer}\n\nProvide a concise summary of the user request, the tasks performed, and the final answer."}
     ]
     response = client.chat.completions.create(
         model="gpt-4o",
@@ -284,14 +318,14 @@ def run():
                 "You are an AI agent that interacts with the file system using command-line tools.\n\n"
                 f"The target directory is '{target_directory}'. All file paths are relative to this directory.\n\n"
                 "You have the following functions available:\n"
-                "- list_files(directory: str): Lists files in a subdirectory within the target directory.\n"
+                "- list_files(directory: str, options: str, max_results: int): Lists files in a subdirectory within the target directory with optional command-line options and result limiting.\n"
                 "- read_file(file_path: str): Reads the content of a file within the target directory, limited to 10000 tokens.\n"
                 "- search_files(pattern: str, directory: str): Searches for files containing a specific pattern within the target directory.\n"
                 "- analyze_image(image_path: str, instruction: str): Analyzes an image file using GPT-4o's image analysis capabilities.\n"
                 "- finish(answer: str): Finish the task with a final answer.\n\n"
                 "In each turn, follow this format:\n\n"
                 "THOUGHT: Reason about what to do next.\n"
-                'ACTION: Call a function with arguments as JSON, e.g., {"function": "list_files", "arguments": {"directory": "subdir"}}.\n\n'
+                'ACTION: Call a function with arguments as JSON, e.g., {"function": "list_files", "arguments": {"directory": "subdir", "options": "-l -a", "max_results": 10}}.\n\n'
                 "Do not include OBSERVATION until after you receive the function result.\n\n"
                 "When you receive the function result, proceed to the next step, incorporating the OBSERVATION and determining your next THOUGHT and ACTION.\n\n"
                 "Continue this loop until you've completed the task, then finish the task by calling the 'finish' function with your final answer."
