@@ -1,3 +1,0 @@
-{
-  "table_summary": "The 'Persons' table is designed to store information about individuals, featuring two primary columns: 'Id' and 'Name'. The 'Id' column is an INTEGER type, serving as a unique identifier for each person, while the 'Name' column is a TEXT type, capturing the name of the person. This simple structure suggests that the table is likely used for basic identification and record-keeping purposes, and could serve as a foundational component in a larger database system where individual identification is necessary."
-}

@@ -1,3 +1,0 @@
-{
-  "table_summary": "The 'summary_column_summaries' table serves as a metadata repository that provides detailed summaries of columns across various tables within a database. It includes the table name ('table_name') and the specific column name ('column_name') for which the summary is provided. The 'data_type' column specifies the datatype of the column being summarized, while the 'summary' column contains textual descriptions or analyses of the column's data. Additionally, the table tracks the creation and last update timestamps ('created_at' and 'updated_at'), ensuring that each summary's recency and relevance can be assessed."
-}

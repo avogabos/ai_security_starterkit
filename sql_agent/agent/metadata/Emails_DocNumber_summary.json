@@ -1,4 +1,0 @@
-{
-  "summary": "The data consists of document numbers from the 'Emails' table, which appear to be unique identifiers for individual email records.",
-  "detailed_summary": "The data type present in the 'DocNumber' column is text, consisting of alphanumeric strings that likely serve as unique identifiers for email records. The values range from 'C05758802' to 'C05776387' and follow a consistent format starting with the letter 'C' followed by eight digits. This suggests a systematic numbering scheme, possibly sequential or based on some categorization. There are no apparent patterns or anomalies in the sample values, indicating that the data is uniformly structured. The 'DocNumber' values likely correspond to specific emails and could be used to link to other data within the database, such as email content, metadata, or sender/recipient information. No data quality issues or limitations are immediately evident from the sample provided."
-}

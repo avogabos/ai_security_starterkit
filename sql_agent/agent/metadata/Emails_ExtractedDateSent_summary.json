@@ -1,4 +1,0 @@
-{
-  "summary": "The data consists of text-formatted timestamps representing the dates and times when emails were sent, with some missing values.",
-  "detailed_summary": "The dataset comprises text strings that represent the dates and times when emails were sent. The values include the day of the week, month, day, year, and time in a 12-hour format with AM/PM notation. The range of dates spans from May 2009 to December 2010. Several entries are missing, indicating potential data quality issues. The data appears to follow a consistent pattern in terms of format, but the presence of empty strings suggests incomplete data capture. The entities represented are likely individual email messages, and these timestamps could be related to other data in the database such as email content, sender, or recipient information. The missing values may limit the completeness of any analysis performed on this dataset."
-}
